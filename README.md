@@ -1,37 +1,33 @@
 # Film shot lengths, 1950–1999
 
-This project collects shot statistics from Cinemetrics and film metadata from Wikidata. It asks:
+This project collects shot statistics from Cinemetrics and metadata from Wikidata. It explores changes across decades and genres, and whether average and median shot lengths tell the same story.
 
-- Do shot lengths change across five decades?
-- Does the pattern hold within film genres?
-- Do average and median shot lengths tell the same story?
+The current starter sample focuses on well-known films. It is a purposive sample, so its results will describe the selected classics rather than all films.
 
-The work follows three stages: test one film, check a small batch, then build a larger sample.
+## Current stage
 
-## Current progress
+- The Titanic demo shows one HTML/API match.
+- `film_list.json` proposes five familiar films per decade: 25 candidates in total.
+- Twenty-three titles refer to Douban Top 250; two use the BFI Sight and Sound 2022 critics' list. The source, rank, audience score where available, and check date are recorded separately. These measures are not combined.
+- Page links were found for 22 candidates in a bounded title/year directory check. Three remain pending; this does not prove that the site has no matching measurement.
+- Identity and full-film boundaries still need review. No final sample or decade trend is claimed. The project remains below the course's 2,000-record requirement.
 
-- A Titanic (1997) demo links one HTML page and one REST API item by IMDb ID, title and year.
-- The first coverage check contains 25 candidate measurement pages: five per decade from the 1950s through the 1990s.
-- Twelve records have identity support; thirteen still need review.
-- Three comments explicitly describe excerpts. Two possible duplicate pairs are flagged, not merged.
-
-These checks overlap. Identity support does not mean a full-film measurement. No record has been approved for the final analysis. The larger sample and analysis are still in progress; this pilot does not meet the course's 2,000-record scale requirement.
-
-## Files
+## Main files
 
 | File or folder | Purpose |
 | --- | --- |
-| `Titanic_Demo.ipynb` | Short HTML/API walkthrough |
-| `Film_Collection.ipynb` | Candidate discovery, acquisition, metadata and review |
-| `01_raw/` | Saved responses, request logs and replay pointers |
-| `02_audit/` | Current intake, film review and demo record |
-| `04_process/session_notes.md` | Original development record, including failures and fixes |
+| `Titanic_Demo.ipynb` | Short one-film walkthrough |
+| `Film_Collection.ipynb` | Read the list, request HTML/API data, match and save |
+| `film_list.json` | Editable titles, years, source links, item IDs and ranking references |
+| `01_raw/ranked_films/` | Current saved responses, logs and source-discovery evidence |
+| `02_audit/ranked_films.json` | Output from the current collector |
+| `04_process/session_notes.md` | Development history and known problems |
 
-The Git snapshot includes the current replay runs. Earlier notebooks and retired runs stay local and are excluded by `.gitignore`.
+Earlier coverage and identity-review files remain as process evidence. They are separate from the new candidate list. The first Git commit preserves the earlier notebook version.
 
 ## Run
 
-Tested on Windows with Python 3.13. Open a terminal in the project root:
+Tested on Windows with Python 3.13. From the project root:
 
 ```powershell
 python -m venv .venv
@@ -39,27 +35,24 @@ python -m venv .venv
 .\.venv\Scripts\python -m jupyterlab
 ```
 
-Open either notebook and select **Restart Kernel and Run All Cells**. Both notebooks run independently. Keep the notebook files in the project root: paths start from the kernel's working directory.
+Open a notebook and select **Restart Kernel and Run All Cells**. Each notebook runs independently. Keep both notebook files beside `01_raw`.
 
-The defaults use saved responses and make no HTTP requests:
+Both notebooks default to `live = False`, which reads saved responses. Set `live = True` for new requests. After editing the film list, collect a new batch before replaying it. A live run creates a new folder and saves raw responses and a request log. Keep each complete run folder together with its `latest_run.txt` pointer when committing evidence.
 
-| Notebook | Switches |
-| --- | --- |
-| Titanic demo | `live = False` |
-| Film collection | `collect = False`, `review_live = False` |
+To add a film, copy its public Cinemetrics page URL and Wikidata item ID into the list, then check its title, year and director. The teaching notebook does not run the earlier directory-query or automatic-search system.
 
-To make new requests, change the relevant switch to `True`. `collect` fetches the coverage batch; `review_live` fetches metadata for that batch. In the review setup, `resume_from` can identify an interrupted run. Successful cached responses are reused only when their URL and hash agree with the log. A fresh live run leaves it empty. Keep complete run folders and their `latest_run.txt` pointers together when committing new evidence.
+## What the collector keeps
 
-## Data and limits
+HTML: title, year, IMDb links, shot count, measured duration, ASL, MSL and contributor comment.
 
-HTML fields include title, page year, IMDb ID, shot count, measured duration, ASL and MSL. API fields add release years, directors, production countries, genres and runtimes. Multiple API values are retained. The source's shot statistics are published measurements, not statistics newly calculated by this project.
+API: IMDb IDs, release years, directors, countries, genres and runtimes. Multiple values are retained and IDs receive readable labels. The published shot statistics are read from the source.
 
-The first-page directory probe is a convenience sample. It includes uncertain titles, short works, excerpts and repeated measurements. Country and version coverage need further checks before comparing decades.
+A shared IMDb ID and supported year are labelled as an identity match. Other records stay marked for review. A match does not establish full-film measurement. Article text is still pending. The earlier Top Gun excerpt remains a saved teaching example in the notebook.
 
-English Wikipedia article requests failed; that text is still missing. One early HTTP 429 response body was overwritten by an old retry helper. The original log and `film_review.json` describe this defect. Later attempts use separate files. All successful review-response bodies were checked against their logged hashes.
+## Sources and assistance
 
-Sources: [Cinemetrics](https://cinemetrics.uchicago.edu/), [Wikidata REST API](https://www.wikidata.org/wiki/Wikidata:REST_API), [Wikibase Action API](https://www.mediawiki.org/wiki/Wikibase/API). Source material retains its original attribution and terms.
+Selection references: [Douban Top 250](https://movie.douban.com/top250) and [BFI Sight and Sound](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time). Douban references were checked in a web viewer, not scraped by the teaching notebook. Audience scores can change; BFI ranks refer to the stated 2022 poll.
 
-## Assistance
+Data sources: [Cinemetrics](https://cinemetrics.uchicago.edu/) and [Wikidata](https://www.wikidata.org/wiki/Wikidata:REST_API). Source material retains its original attribution and terms.
 
-Codex assisted with acquisition code, debugging, documentation and replay checks. Assisted runs are labelled in the logs. The process record separates those checks from the student's own execution and final analytical decisions.
+Codex assisted with code, source checks, debugging and replay verification. Logs identify assisted runs. The student still needs to review the final sample and complete the analysis. Earlier failures, including a missing early HTTP 429 body, remain documented in the historical review and process notes.

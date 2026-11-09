@@ -1,0 +1,1587 @@
+{
+  "stage": "rank-referenced candidates; final sample pending",
+  "run_id": "20261109T122528914398Z",
+  "collector": "AI-assisted acquisition; student review required",
+  "records": [
+    {
+      "title": "Singin' in the Rain",
+      "title_zh": "雨中曲",
+      "year": 1952,
+      "decade": 1950,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 179,
+      "reference_rating": 9.1,
+      "reference_url": "https://movie.douban.com/top250?start=175",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Singin' in the Rain",
+      "wikidata_id": "Q309153",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/bb4166e5-5a87-4699-8aca-eaf0937e61a5",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Singin' in the Rain",
+      "page_director": "Gene Kelly",
+      "title_html": "Singin' in the Rain",
+      "year_html": 1952,
+      "imdb_ids_html": [],
+      "shot_count": 364,
+      "measured_duration": "01:41:05.3",
+      "asl_seconds": 16.7,
+      "msl_seconds": 9.1,
+      "comment": "",
+      "title_api": "Singin' in the Rain",
+      "description_api": "1952 film directed by Gene Kelly and Stanley Donen",
+      "imdb_ids_api": [
+        "tt0045152"
+      ],
+      "release_years_api": [
+        1952,
+        1953
+      ],
+      "director_ids": [
+        "Q73089",
+        "Q48765"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q118612349",
+        "Q842256",
+        "Q157443"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q309153",
+      "runtime_minutes_api": [
+        103.0
+      ],
+      "directors": [
+        "Gene Kelly",
+        "Stanley Donen"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "romantic comedy film",
+        "musical film",
+        "comedy film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "Roman Holiday",
+      "title_zh": "罗马假日",
+      "year": 1953,
+      "decade": 1950,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 56,
+      "reference_rating": 9.1,
+      "reference_url": "https://movie.douban.com/top250?start=50",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Roman Holiday",
+      "wikidata_id": "Q201293",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/4e9d7e78-bc8a-44c1-a4d0-a4f577aec228",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Roman Holiday",
+      "page_director": "William Wyler",
+      "title_html": "Roman Holiday",
+      "year_html": 1953,
+      "imdb_ids_html": [],
+      "shot_count": 851,
+      "measured_duration": "01:57:36.1",
+      "asl_seconds": 8.3,
+      "msl_seconds": 5.2,
+      "comment": "",
+      "title_api": "Roman Holiday",
+      "description_api": "1953 film directed by William Wyler",
+      "imdb_ids_api": [
+        "tt0046250"
+      ],
+      "release_years_api": [
+        1953
+      ],
+      "director_ids": [
+        "Q51495"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q118612349",
+        "Q157443",
+        "Q130232"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q201293",
+      "runtime_minutes_api": [
+        118.0
+      ],
+      "directors": [
+        "William Wyler"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "romantic comedy film",
+        "comedy film",
+        "drama film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "Seven Samurai",
+      "title_zh": "七武士",
+      "year": 1954,
+      "decade": 1950,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 154,
+      "reference_rating": 9.3,
+      "reference_url": "https://movie.douban.com/top250?start=150",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Seven Samurai",
+      "wikidata_id": "Q189540",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/cdca049d-47ac-462a-8b38-d49bb551ff79",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Seven Samurai",
+      "page_director": "Akira Kurosawa",
+      "title_html": "Seven Samurai",
+      "year_html": 1954,
+      "imdb_ids_html": [
+        "tt0047478"
+      ],
+      "shot_count": 1441,
+      "measured_duration": "03:17:59.9",
+      "asl_seconds": 8.2,
+      "msl_seconds": 4.9,
+      "comment": "Analysis of the entire film",
+      "title_api": "Seven Samurai",
+      "description_api": "1954 Japanese film by Akira Kurosawa",
+      "imdb_ids_api": [
+        "tt0047478"
+      ],
+      "release_years_api": [
+        1954,
+        1956,
+        1965
+      ],
+      "director_ids": [
+        "Q8006"
+      ],
+      "country_ids": [
+        "Q17"
+      ],
+      "genre_ids": [
+        "Q130232",
+        "Q169672",
+        "Q652256",
+        "Q188473",
+        "Q7168625",
+        "Q319221"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q189540",
+      "runtime_minutes_api": [
+        207.0
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "genres": [
+        "drama film",
+        "samurai cinema",
+        "epic film",
+        "action film",
+        "historical drama",
+        "adventure film"
+      ],
+      "identity_check": "IMDb + year",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "12 Angry Men",
+      "title_zh": "十二怒汉",
+      "year": 1957,
+      "decade": 1950,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 39,
+      "reference_rating": 9.4,
+      "reference_url": "https://movie.douban.com/top250?start=25",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "12 Angry Men (1957 film)",
+      "wikidata_id": "Q2345",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/c49f38a5-14af-48d5-8ffe-52e7f4cb36e1",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "12 Angry Men",
+      "page_director": "Sidney Lumet",
+      "title_html": "12 Angry Men",
+      "year_html": 1957,
+      "imdb_ids_html": [],
+      "shot_count": 359,
+      "measured_duration": "01:31:14.4",
+      "asl_seconds": 15.2,
+      "msl_seconds": 5.5,
+      "comment": "",
+      "title_api": "12 Angry Men",
+      "description_api": "1957 film directed by Sidney Lumet",
+      "imdb_ids_api": [
+        "tt0050083"
+      ],
+      "release_years_api": [
+        1957,
+        1958
+      ],
+      "director_ids": [
+        "Q51559"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q130232",
+        "Q3072039",
+        "Q121432339"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q2345",
+      "runtime_minutes_api": [
+        95.0
+      ],
+      "directors": [
+        "Sidney Lumet"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "drama film",
+        "trial film",
+        "huis-clos film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "Psycho",
+      "title_zh": "惊魂记",
+      "year": 1960,
+      "decade": 1960,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 159,
+      "reference_rating": 9,
+      "reference_url": "https://movie.douban.com/top250?start=150",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Psycho (1960 film)",
+      "wikidata_id": "Q163038",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/01ccff31-9790-4287-a4a2-00ff02cbde45",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Psycho (reduced)",
+      "page_director": "Alfred Hitchcock",
+      "title_html": "Psycho (reduced)",
+      "year_html": 1960,
+      "imdb_ids_html": [
+        "tt0054215"
+      ],
+      "shot_count": 946,
+      "measured_duration": "01:39:11.0",
+      "asl_seconds": 6.3,
+      "msl_seconds": 3.3,
+      "comment": "Frame accurate recording from a BluRay disc at 24 fps. This version has been cut downto remove the scene and the parts of scenes that had been removed in making the Gus van Sant version. Thus the content of this and the Gus Van Sant version matches almost completely.",
+      "title_api": "Psycho",
+      "description_api": "1960 US film by Alfred Hitchcock",
+      "imdb_ids_api": [
+        "tt0054215"
+      ],
+      "release_years_api": [
+        1960
+      ],
+      "director_ids": [
+        "Q7374"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q2484376",
+        "Q853630",
+        "Q1200678",
+        "Q109629396",
+        "Q185867",
+        "Q11304653",
+        "Q63214877",
+        "Q109733304",
+        "Q200092",
+        "Q959790",
+        "Q113485322",
+        "Q19367312",
+        "Q20442589",
+        "Q459290",
+        "Q130232"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q163038",
+      "runtime_minutes_api": [
+        109.0
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "thriller film",
+        "slasher film",
+        "mystery film",
+        "psychological horror film",
+        "film noir",
+        "suspense film",
+        "psychological drama film",
+        "psychological thriller film",
+        "horror film",
+        "crime film",
+        "crime drama film",
+        "crime thriller film",
+        "LGBTQ-related film",
+        "independent film",
+        "drama film"
+      ],
+      "identity_check": "IMDb + year",
+      "measurement_check": "possible excerpt",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "The Apartment",
+      "title_zh": "桃色公寓",
+      "year": 1960,
+      "decade": 1960,
+      "rank_source": "BFI Sight and Sound 2022 critics",
+      "reference_rank": 54,
+      "reference_rating": null,
+      "reference_url": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "The Apartment",
+      "wikidata_id": "Q270510",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/588d00d8-df03-45c6-b38f-18de7563932e",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "The Apartment",
+      "page_director": "Billy Wilder",
+      "title_html": "The Apartment",
+      "year_html": 1960,
+      "imdb_ids_html": [
+        "tt0053604"
+      ],
+      "shot_count": 460,
+      "measured_duration": "02:03:13.2",
+      "asl_seconds": 16.1,
+      "msl_seconds": 8.3,
+      "comment": "",
+      "title_api": "The Apartment",
+      "description_api": "1960 film directed by Billy Wilder",
+      "imdb_ids_api": [
+        "tt0053604"
+      ],
+      "release_years_api": [
+        1960,
+        1961
+      ],
+      "director_ids": [
+        "Q51547"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q118612349",
+        "Q130232",
+        "Q28026639"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q270510",
+      "runtime_minutes_api": [
+        125.0
+      ],
+      "directors": [
+        "Billy Wilder"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "romantic comedy film",
+        "drama film",
+        "Christmas film"
+      ],
+      "identity_check": "IMDb + year",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "The Sound of Music",
+      "title_zh": "音乐之声",
+      "year": 1965,
+      "decade": 1960,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 70,
+      "reference_rating": 9.1,
+      "reference_url": "https://movie.douban.com/top250?start=50",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "The Sound of Music (film)",
+      "wikidata_id": "Q60072",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/154528dc-5fa8-4199-bf6d-c476bac888d1",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "The Sound of Music",
+      "page_director": null,
+      "title_html": "The Sound of Music",
+      "year_html": 1965,
+      "imdb_ids_html": [],
+      "shot_count": 1443,
+      "measured_duration": "02:44:31.1",
+      "asl_seconds": 6.8,
+      "msl_seconds": 4.1,
+      "comment": "",
+      "title_api": "The Sound of Music",
+      "description_api": "1965 film by Robert Wise",
+      "imdb_ids_api": [
+        "tt0059742"
+      ],
+      "release_years_api": [
+        1965
+      ],
+      "director_ids": [
+        "Q59821"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q842256",
+        "Q645928",
+        "Q130232",
+        "Q1054574"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q60072",
+      "runtime_minutes_api": [
+        174.0
+      ],
+      "directors": [
+        "Robert Wise"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "musical film",
+        "biographical film",
+        "drama film",
+        "romance film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "title_zh": "2001太空漫游",
+      "year": 1968,
+      "decade": 1960,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 181,
+      "reference_rating": 8.9,
+      "reference_url": "https://movie.douban.com/top250?start=175",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "2001: A Space Odyssey",
+      "wikidata_id": "Q103474",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/6b999961-bc91-4719-826d-791cfff8c344",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "2001: A Space Odyssey",
+      "page_director": "Stanley Kubrick",
+      "title_html": "2001: A Space Odyssey",
+      "year_html": 1968,
+      "imdb_ids_html": [
+        "tt0062622"
+      ],
+      "shot_count": 601,
+      "measured_duration": "02:16:31.2",
+      "asl_seconds": 13.6,
+      "msl_seconds": 9.2,
+      "comment": "I counted the Intermission segment, including the black screen, although I'm not sure if that counts as a shot.",
+      "title_api": "2001: A Space Odyssey",
+      "description_api": "1968 film by Stanley Kubrick",
+      "imdb_ids_api": [
+        "tt0062622"
+      ],
+      "release_years_api": [
+        1968
+      ],
+      "director_ids": [
+        "Q2001"
+      ],
+      "country_ids": [
+        "Q30",
+        "Q145"
+      ],
+      "genre_ids": [
+        "Q66914288",
+        "Q1200678",
+        "Q652256",
+        "Q108084492"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q103474",
+      "runtime_minutes_api": [
+        143.0
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "genres": [
+        "space adventure film",
+        "mystery film",
+        "epic film",
+        "arthouse science fiction film"
+      ],
+      "identity_check": "IMDb + year",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "The Godfather",
+      "title_zh": "教父",
+      "year": 1972,
+      "decade": 1970,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 24,
+      "reference_rating": 9.3,
+      "reference_url": "https://movie.douban.com/top250",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "The Godfather",
+      "wikidata_id": "Q47703",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/91fc3cdc-00c4-4401-8759-7be85ae0a4a0",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "The godfather",
+      "page_director": null,
+      "title_html": "The godfather",
+      "year_html": 1972,
+      "imdb_ids_html": [],
+      "shot_count": 25,
+      "measured_duration": "00:54.1",
+      "asl_seconds": 2.2,
+      "msl_seconds": 1.4,
+      "comment": "the scene changes point of view 25 times in 55 seconds or once every 2.5 seconds",
+      "title_api": "The Godfather",
+      "description_api": "1972 film directed by Francis Ford Coppola",
+      "imdb_ids_api": [
+        "tt0068646"
+      ],
+      "release_years_api": [
+        1972
+      ],
+      "director_ids": [
+        "Q56094"
+      ],
+      "country_ids": [
+        "Q30",
+        "Q38"
+      ],
+      "genre_ids": [
+        "Q652256",
+        "Q7444356",
+        "Q959790",
+        "Q130232",
+        "Q113485322",
+        "Q17013749",
+        "Q116514801",
+        "Q11304653",
+        "Q19367312",
+        "Q109733630",
+        "Q2484376"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q47703",
+      "runtime_minutes_api": [
+        175.0
+      ],
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "countries": [
+        "United States",
+        "Italy"
+      ],
+      "genres": [
+        "epic film",
+        "gangster film",
+        "crime film",
+        "drama film",
+        "crime drama film",
+        "historical film",
+        "historical drama film",
+        "suspense film",
+        "crime thriller film",
+        "police procedural film",
+        "thriller film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "possible excerpt",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "The Godfather Part II",
+      "title_zh": "教父2",
+      "year": 1974,
+      "decade": 1970,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 57,
+      "reference_rating": 9.3,
+      "reference_url": "https://movie.douban.com/top250?start=50",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "The Godfather Part II",
+      "wikidata_id": "Q184768",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/bcb2c58a-2ceb-4d9a-a976-eafd39123605",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "The Godfather Part II",
+      "page_director": "Francis Ford Coppola",
+      "title_html": "The Godfather Part II",
+      "year_html": 1974,
+      "imdb_ids_html": [
+        "tt0071562"
+      ],
+      "shot_count": 1443,
+      "measured_duration": "03:07:15.1",
+      "asl_seconds": 7.8,
+      "msl_seconds": 5.0,
+      "comment": "",
+      "title_api": "The Godfather Part II",
+      "description_api": "1974 film by Francis Ford Coppola",
+      "imdb_ids_api": [
+        "tt0071562"
+      ],
+      "release_years_api": [
+        1974,
+        1975
+      ],
+      "director_ids": [
+        "Q56094"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q130232",
+        "Q959790",
+        "Q21401869",
+        "Q652256",
+        "Q19367312",
+        "Q113485322",
+        "Q7444356",
+        "Q17013749",
+        "Q116514801",
+        "Q2484376",
+        "Q11304653",
+        "Q1200678",
+        "Q109733630",
+        "Q188473"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q184768",
+      "runtime_minutes_api": [
+        165.0,
+        202.0
+      ],
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "drama film",
+        "crime film",
+        "flashback film",
+        "epic film",
+        "crime thriller film",
+        "crime drama film",
+        "gangster film",
+        "historical film",
+        "historical drama film",
+        "thriller film",
+        "suspense film",
+        "mystery film",
+        "police procedural film",
+        "action film"
+      ],
+      "identity_check": "IMDb + year",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "title_zh": "飞越疯人院",
+      "year": 1975,
+      "decade": 1970,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 82,
+      "reference_rating": 9.1,
+      "reference_url": "https://movie.douban.com/top250?start=75",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "One Flew Over the Cuckoo's Nest (film)",
+      "wikidata_id": "Q171669",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/65c7186e-7afa-47a5-9bd0-ad9a03460316",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "One Flew Over the Cuckoo's Nest",
+      "page_director": "Milos Forman",
+      "title_html": "One Flew Over the Cuckoo's Nest",
+      "year_html": 1975,
+      "imdb_ids_html": [],
+      "shot_count": 1479,
+      "measured_duration": "02:11:19.2",
+      "asl_seconds": 5.3,
+      "msl_seconds": 3.7,
+      "comment": "",
+      "title_api": "One Flew Over the Cuckoo's Nest",
+      "description_api": "1975 film directed by Miloš Forman",
+      "imdb_ids_api": [
+        "tt0073486"
+      ],
+      "release_years_api": [
+        1975,
+        1976
+      ],
+      "director_ids": [
+        "Q51525"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q157443",
+        "Q1786567",
+        "Q586250"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q171669",
+      "runtime_minutes_api": [
+        133.0,
+        136.0
+      ],
+      "directors": [
+        "Miloš Forman"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "comedy film",
+        "medical drama",
+        "prison film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "Taxi Driver",
+      "title_zh": "出租车司机",
+      "year": 1976,
+      "decade": 1970,
+      "rank_source": "BFI Sight and Sound 2022 critics",
+      "reference_rank": 29,
+      "reference_rating": null,
+      "reference_url": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Taxi Driver",
+      "wikidata_id": "Q47221",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/16de7be1-43e4-435d-99df-b50e999b96dd",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Taxi Driver",
+      "page_director": "Martin Scorsese",
+      "title_html": "Taxi Driver",
+      "year_html": 1976,
+      "imdb_ids_html": [
+        "tt0075314"
+      ],
+      "shot_count": 860,
+      "measured_duration": "01:52:40.5",
+      "asl_seconds": 7.9,
+      "msl_seconds": 4.4,
+      "comment": "",
+      "title_api": "Taxi Driver",
+      "description_api": "1976 film directed by Martin Scorsese",
+      "imdb_ids_api": [
+        "tt0075314"
+      ],
+      "release_years_api": [
+        1976,
+        1977
+      ],
+      "director_ids": [
+        "Q41148"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q2421031",
+        "Q63214877",
+        "Q959790",
+        "Q185867",
+        "Q188473",
+        "Q113485322",
+        "Q19367312",
+        "Q109733304",
+        "Q109733630",
+        "Q11304653",
+        "Q2642760",
+        "Q130232",
+        "Q2484376"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q47221",
+      "runtime_minutes_api": [
+        114.0
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "neo-noir",
+        "psychological drama film",
+        "crime film",
+        "film noir",
+        "action film",
+        "crime drama film",
+        "crime thriller film",
+        "psychological thriller film",
+        "police procedural film",
+        "suspense film",
+        "vigilante film",
+        "drama film",
+        "thriller film"
+      ],
+      "identity_check": "IMDb + year",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "Once Upon a Time in America",
+      "title_zh": "美国往事",
+      "year": 1984,
+      "decade": 1980,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 97,
+      "reference_rating": 9.1,
+      "reference_url": "https://movie.douban.com/top250?start=75",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Once Upon a Time in America",
+      "wikidata_id": "Q206388",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/28edb44b-3ffd-454d-980e-b52df0f60097",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Once Upon a Time in America",
+      "page_director": "Sergio Leone",
+      "title_html": "Once Upon a Time in America",
+      "year_html": 1984,
+      "imdb_ids_html": [
+        "tt0087843"
+      ],
+      "shot_count": 1687,
+      "measured_duration": "03:41:00.3",
+      "asl_seconds": 7.9,
+      "msl_seconds": 4.9,
+      "comment": "Full movie (without the opening credits). Data is divided by close-ups, extreme close-ups and other framings (with and wothout reframings).",
+      "title_api": "Once Upon a Time in America",
+      "description_api": "1984 film directed by Sergio Leone",
+      "imdb_ids_api": [
+        "tt0087843"
+      ],
+      "release_years_api": [
+        1984
+      ],
+      "director_ids": [
+        "Q164562"
+      ],
+      "country_ids": [
+        "Q30",
+        "Q38",
+        "Q142"
+      ],
+      "genre_ids": [
+        "Q959790",
+        "Q21401869",
+        "Q130232",
+        "Q7444356",
+        "Q17013749",
+        "Q113485322",
+        "Q19367312",
+        "Q2484376",
+        "Q116514801",
+        "Q188473",
+        "Q93204",
+        "Q652256",
+        "Q172980",
+        "Q542475"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q206388",
+      "runtime_minutes_api": [
+        227.0,
+        229.0
+      ],
+      "directors": [
+        "Sergio Leone"
+      ],
+      "countries": [
+        "United States",
+        "Italy",
+        "France"
+      ],
+      "genres": [
+        "crime film",
+        "flashback film",
+        "drama film",
+        "gangster film",
+        "historical film",
+        "crime drama film",
+        "crime thriller film",
+        "thriller film",
+        "historical drama film",
+        "action film",
+        "documentary film",
+        "epic film",
+        "Western film",
+        "period drama film"
+      ],
+      "identity_check": "IMDb + year",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "The Last Emperor",
+      "title_zh": "末代皇帝",
+      "year": 1987,
+      "decade": 1980,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 26,
+      "reference_rating": 9.3,
+      "reference_url": "https://movie.douban.com/top250?start=25",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "The Last Emperor",
+      "wikidata_id": "Q212775",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/a8dedca0-c85b-4e2f-b050-82d559dfd31b",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "The Last Emperor",
+      "page_director": "Bernardo Bertolucci",
+      "title_html": "The Last Emperor",
+      "year_html": 1987,
+      "imdb_ids_html": [
+        "tt0093389"
+      ],
+      "shot_count": 1192,
+      "measured_duration": "02:30:20.9",
+      "asl_seconds": 7.6,
+      "msl_seconds": 4.0,
+      "comment": "From Italian PAL DVD. Credits not included.",
+      "title_api": "The Last Emperor",
+      "description_api": "1987 film by Bernardo Bertolucci",
+      "imdb_ids_api": [
+        "tt0093389"
+      ],
+      "release_years_api": [
+        1987
+      ],
+      "director_ids": [
+        "Q53009"
+      ],
+      "country_ids": [
+        "Q148",
+        "Q142",
+        "Q145",
+        "Q38",
+        "Q1054923"
+      ],
+      "genre_ids": [
+        "Q130232",
+        "Q645928",
+        "Q17013749",
+        "Q652256"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q212775",
+      "runtime_minutes_api": [
+        165.0
+      ],
+      "directors": [
+        "Bernardo Bertolucci"
+      ],
+      "countries": [
+        "People's Republic of China",
+        "France",
+        "United Kingdom",
+        "Italy",
+        "British Hong Kong"
+      ],
+      "genres": [
+        "drama film",
+        "biographical film",
+        "historical film",
+        "epic film"
+      ],
+      "identity_check": "IMDb + year",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "Cinema Paradiso",
+      "title_zh": "天堂电影院",
+      "year": 1988,
+      "decade": 1980,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 59,
+      "reference_rating": 9.2,
+      "reference_url": "https://movie.douban.com/top250?start=50",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Cinema Paradiso",
+      "wikidata_id": "Q464032",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/079e881f-1f11-4159-99ae-e75d37e39a8a",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Cinema Paradiso",
+      "page_director": null,
+      "title_html": "Cinema Paradiso",
+      "year_html": 1988,
+      "imdb_ids_html": [],
+      "shot_count": 1116,
+      "measured_duration": "01:55:23.8",
+      "asl_seconds": 6.2,
+      "msl_seconds": 3.9,
+      "comment": "",
+      "title_api": "Cinema Paradiso",
+      "description_api": "1988 film by Giuseppe Tornatore",
+      "imdb_ids_api": [
+        "tt0095765"
+      ],
+      "release_years_api": [
+        1988,
+        1989,
+        1990,
+        2019
+      ],
+      "director_ids": [
+        "Q53045"
+      ],
+      "country_ids": [
+        "Q142",
+        "Q38"
+      ],
+      "genre_ids": [
+        "Q102429885",
+        "Q130232"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q464032",
+      "runtime_minutes_api": [
+        155.0
+      ],
+      "directors": [
+        "Giuseppe Tornatore"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "genres": [
+        "coming-of-age film",
+        "drama film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "My Neighbor Totoro",
+      "title_zh": "龙猫",
+      "year": 1988,
+      "decade": 1980,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 28,
+      "reference_rating": 9.2,
+      "reference_url": "https://movie.douban.com/top250?start=25",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "My Neighbor Totoro",
+      "wikidata_id": "Q39571",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/8acc83dc-883e-41d7-99f0-2bd0043abe20",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "龙猫（景别）",
+      "page_director": "宫崎骏",
+      "title_html": "龙猫（景别）",
+      "year_html": 1988,
+      "imdb_ids_html": [],
+      "shot_count": 956,
+      "measured_duration": "01:24:20.9",
+      "asl_seconds": 5.3,
+      "msl_seconds": 4.5,
+      "comment": "",
+      "title_api": "My Neighbor Totoro",
+      "description_api": "1988 anime film directed by Hayao Miyazaki",
+      "imdb_ids_api": [
+        "tt0096283"
+      ],
+      "release_years_api": [
+        1988,
+        1990
+      ],
+      "director_ids": [
+        "Q55400"
+      ],
+      "country_ids": [
+        "Q17"
+      ],
+      "genre_ids": [
+        "Q157394",
+        "Q130232",
+        "Q2143665",
+        "Q3634883"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q39571",
+      "runtime_minutes_api": [
+        86.0
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "genres": [
+        "fantasy film",
+        "drama film",
+        "children's film",
+        "supernatural film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "Dead Poets Society",
+      "title_zh": "死亡诗社",
+      "year": 1989,
+      "decade": 1980,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 46,
+      "reference_rating": 9.2,
+      "reference_url": "https://movie.douban.com/top250?start=25",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Dead Poets Society",
+      "wikidata_id": "Q106316",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/341d3c21-70d6-47c6-b323-a97c6277d438",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Dead Poets Society",
+      "page_director": "peter weir",
+      "title_html": "Dead Poets Society",
+      "year_html": 1989,
+      "imdb_ids_html": [],
+      "shot_count": 1144,
+      "measured_duration": "01:59:50.8",
+      "asl_seconds": 6.3,
+      "msl_seconds": 4.0,
+      "comment": "",
+      "title_api": "Dead Poets Society",
+      "description_api": "1989 film directed by Peter Weir",
+      "imdb_ids_api": [
+        "tt0097165"
+      ],
+      "release_years_api": [
+        1989,
+        1990
+      ],
+      "director_ids": [
+        "Q55424"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q102429885",
+        "Q130232",
+        "Q1146335"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q106316",
+      "runtime_minutes_api": [
+        123.0
+      ],
+      "directors": [
+        "Peter Weir"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "coming-of-age film",
+        "drama film",
+        "teen film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "Farewell My Concubine",
+      "title_zh": "霸王别姬",
+      "year": 1993,
+      "decade": 1990,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 2,
+      "reference_rating": 9.6,
+      "reference_url": "https://movie.douban.com/top250",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Farewell My Concubine (film)",
+      "wikidata_id": "Q696413",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/9a3e700f-659c-41f9-bc55-65bf2abda02b",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Farewell My Concubine",
+      "page_director": "Kaige Chen",
+      "title_html": "Farewell My Concubine",
+      "year_html": 1993,
+      "imdb_ids_html": [],
+      "shot_count": 1056,
+      "measured_duration": "02:41:40.7",
+      "asl_seconds": 9.2,
+      "msl_seconds": 5.4,
+      "comment": "",
+      "title_api": "Farewell My Concubine",
+      "description_api": "1993 film directed by Chen Kaige",
+      "imdb_ids_api": [
+        "tt0106332"
+      ],
+      "release_years_api": [
+        1993
+      ],
+      "director_ids": [
+        "Q202597"
+      ],
+      "country_ids": [
+        "Q148"
+      ],
+      "genre_ids": [
+        "Q130232",
+        "Q1054574",
+        "Q17013749"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q696413",
+      "runtime_minutes_api": [
+        171.0
+      ],
+      "directors": [
+        "Chen Kaige"
+      ],
+      "countries": [
+        "People's Republic of China"
+      ],
+      "genres": [
+        "drama film",
+        "romance film",
+        "historical film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "Forrest Gump",
+      "title_zh": "阿甘正传",
+      "year": 1994,
+      "decade": 1990,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 4,
+      "reference_rating": 9.5,
+      "reference_url": "https://movie.douban.com/top250",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Forrest Gump",
+      "wikidata_id": "Q134773",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/3ef93348-71f2-46c5-b9c3-46d0216ab03e",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Forrest Gump",
+      "page_director": null,
+      "title_html": "Forrest Gump",
+      "year_html": 1994,
+      "imdb_ids_html": [],
+      "shot_count": 14,
+      "measured_duration": "11:16.8",
+      "asl_seconds": 48.3,
+      "msl_seconds": 0.5,
+      "comment": "",
+      "title_api": "Forrest Gump",
+      "description_api": "1994 film directed by Robert Zemeckis",
+      "imdb_ids_api": [
+        "tt0109830"
+      ],
+      "release_years_api": [
+        1994
+      ],
+      "director_ids": [
+        "Q187364"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q102429885",
+        "Q21401869",
+        "Q157443",
+        "Q130232",
+        "Q7168625",
+        "Q118612349",
+        "Q192881",
+        "Q111278985"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q134773",
+      "runtime_minutes_api": [
+        142.0
+      ],
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "coming-of-age film",
+        "flashback film",
+        "comedy film",
+        "drama film",
+        "historical drama",
+        "romantic comedy film",
+        "tragicomedy",
+        "American football film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "title_zh": "肖申克的救赎",
+      "year": 1994,
+      "decade": 1990,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 1,
+      "reference_rating": 9.7,
+      "reference_url": "https://movie.douban.com/top250",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "The Shawshank Redemption",
+      "wikidata_id": "Q172241",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/85d8f00a-0e8f-482a-ae91-c356d41077cc",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "The Shawshank Redemption",
+      "page_director": null,
+      "title_html": "The Shawshank Redemption",
+      "year_html": 1994,
+      "imdb_ids_html": [],
+      "shot_count": 1057,
+      "measured_duration": "02:17:06.3",
+      "asl_seconds": 7.8,
+      "msl_seconds": 5.5,
+      "comment": "",
+      "title_api": "The Shawshank Redemption",
+      "description_api": "1994 film directed by Frank Darabont",
+      "imdb_ids_api": [
+        "tt0111161"
+      ],
+      "release_years_api": [
+        1994,
+        1995
+      ],
+      "director_ids": [
+        "Q295445"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q130232",
+        "Q663106",
+        "Q586250",
+        "Q959790"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q172241",
+      "runtime_minutes_api": [
+        142.0
+      ],
+      "directors": [
+        "Frank Darabont"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "drama film",
+        "buddy film",
+        "prison film",
+        "crime film"
+      ],
+      "identity_check": "review",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "Life Is Beautiful",
+      "title_zh": "美丽人生",
+      "year": 1997,
+      "decade": 1990,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 7,
+      "reference_rating": 9.5,
+      "reference_url": "https://movie.douban.com/top250",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Life Is Beautiful",
+      "wikidata_id": "Q19355",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/ad097b95-a3aa-4c17-b016-c573d7736ab4",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Life Is Beautiful",
+      "page_director": "Roberto Benigni",
+      "title_html": "Life Is Beautiful",
+      "year_html": 1997,
+      "imdb_ids_html": [
+        "tt0118799"
+      ],
+      "shot_count": 1128,
+      "measured_duration": "01:52:05.1",
+      "asl_seconds": 6.0,
+      "msl_seconds": 3.6,
+      "comment": "Viewing this film so soon after The Conformist and The Garden of the Finzi-Continis makes comparisons irresistible. Like the two earlier films, this one features a lush, \"retro\" mise-en-scene. But it is much more rapidly cut, with a heavy use of eyeline cues to stitch together the changes from shot to shot. Another way to put this is to say that Life is Beautiful, with its pattern of actions and reactions, exemplifies what Deleuze had called the action-image, whereas the earlier films, especially The Conformist, unfold in the manner of the time-image, whereby the cutting may occasionally disconnect itself from character psychology. All the same, Life Is Beautiful certainly exhibits some peculiarities in structure. Its first 48 minutes work almost as a separate film, with its own unique narrative arc, concerned with Guido and Dora's courtship, prior to the birth of Joshua. But while doing the cinemetrics count, I didn't detect any difference in editing between the film's first and second halves. I did, however, notice that the final scenes in the camp between Guido and his son featured some unusually long takes, as if the director wanted, at this point in the story, to keep these two characters within the same frame. 0.00: \"Arrezo 1939\"; the brakes on the car fail, causing Guido and Ferruccio to careen out of control, and crash by the roadside, near a facist parade; 25.00: Guido and Dora attend an Offenbach operetta set in Venice; 48.30: flashforward to the married life of Guido and Dora, and their six-year old son Giosue, a.k.a. Joshua; 61.30: the train arrives in the concentration camp, and the prisoners, including Guido and his family, disembark.",
+      "title_api": "Life Is Beautiful",
+      "description_api": "1997 film by Roberto Benigni",
+      "imdb_ids_api": [
+        "tt0118799"
+      ],
+      "release_years_api": [
+        1997,
+        1998,
+        1999
+      ],
+      "director_ids": [
+        "Q23301"
+      ],
+      "country_ids": [
+        "Q38"
+      ],
+      "genre_ids": [
+        "Q157443",
+        "Q130232"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q19355",
+      "runtime_minutes_api": [
+        116.0
+      ],
+      "directors": [
+        "Roberto Benigni"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "genres": [
+        "comedy film",
+        "drama film"
+      ],
+      "identity_check": "IMDb + year",
+      "measurement_check": "possible excerpt",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    },
+    {
+      "title": "Titanic",
+      "title_zh": "泰坦尼克号",
+      "year": 1997,
+      "decade": 1990,
+      "rank_source": "Douban Top 250",
+      "reference_rank": 3,
+      "reference_rating": 9.5,
+      "reference_url": "https://movie.douban.com/top250",
+      "reference_checked": "2026-11-09",
+      "wikipedia_title": "Titanic (1997 film)",
+      "wikidata_id": "Q44578",
+      "html_url": "https://cinemetrics.uchicago.edu/movie/0e9a80c6-ce7f-45b3-976b-6211e51bd19b",
+      "source_check": "Title/year candidate; identity and measurement boundaries need review.",
+      "page_title": "Titanic",
+      "page_director": "James Cameron",
+      "title_html": "Titanic",
+      "year_html": 1997,
+      "imdb_ids_html": [
+        "tt0120338"
+      ],
+      "shot_count": 2673,
+      "measured_duration": "03:06:45.6",
+      "asl_seconds": 4.2,
+      "msl_seconds": 3.0,
+      "comment": "1996- Includes opening titles, brief flashbacks in beginning, and ending shot I- After Rose starts her story. IIa- After Jack rescues Rose and is invited to First Class IIb- After 1996 intercut (\"flying\" sequence); Rose's drawing IIc- Beginning of Disc/Tape 2. Cal slaps Rose, and she rescues Jack. IId- Rose jumps back to Titanic, and the ship sinks. III- After the ship sinks (first underwater shot) and remainder of 1912 scenes, including intercuts at the end.",
+      "title_api": "Titanic",
+      "description_api": "1997 film directed by James Cameron",
+      "imdb_ids_api": [
+        "tt0120338"
+      ],
+      "release_years_api": [
+        1997,
+        1998
+      ],
+      "director_ids": [
+        "Q42574"
+      ],
+      "country_ids": [
+        "Q30"
+      ],
+      "genre_ids": [
+        "Q846544",
+        "Q130232",
+        "Q1054574",
+        "Q21401869",
+        "Q1919632",
+        "Q17013749",
+        "Q652256"
+      ],
+      "api_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q44578",
+      "runtime_minutes_api": [
+        194.0
+      ],
+      "directors": [
+        "James Cameron"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "disaster film",
+        "drama film",
+        "romance film",
+        "flashback film",
+        "melodrama",
+        "historical film",
+        "epic film"
+      ],
+      "identity_check": "IMDb + year",
+      "measurement_check": "review boundaries",
+      "selected_for_main_analysis": false,
+      "evidence_run": "20261109T122528914398Z"
+    }
+  ]
+}
