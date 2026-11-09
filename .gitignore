@@ -1,0 +1,39 @@
+# Local environments and notebook caches
+.venv/
+venv/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Course material, recordings and submission archives stay local.
+/ADS206_CW1.pdf
+*.mp4
+*.mov
+*.mkv
+*.zip
+*.rar
+*.7z
+
+# Retired experiments are kept on disk, outside the current Git snapshot.
+/03_notebooks/
+/02_audit/three_page_audit.csv
+/02_audit/url_manifest.csv
+/01_raw/20261101T102603220414Z/
+/01_raw/active_run.txt
+/01_raw/single_film_demo/latest_run.txt
+/01_raw/single_film_demo/20261106T154920657926Z/
+
+# Keep the current Titanic replay and future runs; exclude earlier demo runs.
+/01_raw/single_film_demo/titanic_1997/20261106T163721917744Z/
+/01_raw/single_film_demo/titanic_1997/20261107T070456151983Z/
+/01_raw/single_film_demo/titanic_1997/20261107T071043141718Z/
+/01_raw/single_film_demo/titanic_1997/20261107T071827229181Z/
+/01_raw/single_film_demo/titanic_1997/20261107T082404596242Z/
+/01_raw/single_film_demo/titanic_1997/20261107T082510290359Z/
+/01_raw/single_film_demo/titanic_1997/20261107T151114850830Z/
+/01_raw/single_film_demo/titanic_1997/20261107T151242240411Z/

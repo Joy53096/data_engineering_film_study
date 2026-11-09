@@ -1,0 +1,2 @@
+{"time": "2026-11-07T16:23:03.631452+00:00", "url": "https://cinemetrics.uchicago.edu/movie/0e9a80c6-ce7f-45b3-976b-6211e51bd19b", "status": 200, "seconds": 4.107, "retry_count": 0, "file": "cinemetrics.html", "collector": "AI-assisted demo run"}
+{"time": "2026-11-07T16:23:08.933660+00:00", "url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q44578", "status": 200, "seconds": 2.177, "retry_count": 0, "file": "wikidata.json", "collector": "AI-assisted demo run"}

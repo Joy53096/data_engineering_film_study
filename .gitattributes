@@ -1,0 +1,7 @@
+# Keep source files consistent across Windows and other systems.
+* text=auto eol=lf
+*.ipynb text eol=lf
+
+# Response hashes depend on the original bytes. Do not change line endings.
+01_raw/** -text
+02_audit/** -text

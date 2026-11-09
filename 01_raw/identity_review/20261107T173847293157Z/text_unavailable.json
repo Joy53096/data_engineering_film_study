@@ -1,0 +1,40 @@
+{
+  "state": "unavailable",
+  "reason": "ConnectionError / ReadTimeout after three attempts",
+  "attempts": [
+    {
+      "time_utc": "2026-11-09T08:46:37.880930+00:00",
+      "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts%7Cpageprops%7Cinfo&inprop=url&titles=Dressed+to+Kill+%281980+film%29%7CMandala+%28film%29%7CMy+Neighbor+Totoro%7CStalker+%281979+film%29%7CThe+Haunting+%281963+film%29%7CThe+Shining+%28film%29%7CThe+Strategy+of+the+Snail%7CThe+Texas+Chain+Saw+Massacre%7CTokyo+Story%7CTop+Gun%7CWeekend+Lover%7CYoung+Frankenstein&exintro=1&explaintext=1&exlimit=20&redirects=1&format=json&formatversion=2",
+      "retry_count": 0,
+      "method": "GET",
+      "file": "introductions_1_1_20261109T084637880942Z_attempt_1.json",
+      "cache_file": "introductions_1_1.json",
+      "collector": "AI-assisted coverage check",
+      "error": "ConnectionError",
+      "seconds": 0.798
+    },
+    {
+      "time_utc": "2026-11-09T08:46:44.679848+00:00",
+      "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts%7Cpageprops%7Cinfo&inprop=url&titles=Dressed+to+Kill+%281980+film%29%7CMandala+%28film%29%7CMy+Neighbor+Totoro%7CStalker+%281979+film%29%7CThe+Haunting+%281963+film%29%7CThe+Shining+%28film%29%7CThe+Strategy+of+the+Snail%7CThe+Texas+Chain+Saw+Massacre%7CTokyo+Story%7CTop+Gun%7CWeekend+Lover%7CYoung+Frankenstein&exintro=1&explaintext=1&exlimit=20&redirects=1&format=json&formatversion=2",
+      "retry_count": 1,
+      "method": "GET",
+      "file": "introductions_1_1_20261109T084644679985Z_attempt_2.json",
+      "cache_file": "introductions_1_1.json",
+      "collector": "AI-assisted coverage check",
+      "error": "ConnectionError",
+      "seconds": 1.029
+    },
+    {
+      "time_utc": "2026-11-09T08:46:52.709692+00:00",
+      "url": "https://en.wikipedia.org/w/api.php?action=query&prop=extracts%7Cpageprops%7Cinfo&inprop=url&titles=Dressed+to+Kill+%281980+film%29%7CMandala+%28film%29%7CMy+Neighbor+Totoro%7CStalker+%281979+film%29%7CThe+Haunting+%281963+film%29%7CThe+Shining+%28film%29%7CThe+Strategy+of+the+Snail%7CThe+Texas+Chain+Saw+Massacre%7CTokyo+Story%7CTop+Gun%7CWeekend+Lover%7CYoung+Frankenstein&exintro=1&explaintext=1&exlimit=20&redirects=1&format=json&formatversion=2",
+      "retry_count": 2,
+      "method": "GET",
+      "file": "introductions_1_1_20261109T084652709722Z_attempt_3.json",
+      "cache_file": "introductions_1_1.json",
+      "collector": "AI-assisted coverage check",
+      "error": "ReadTimeout",
+      "seconds": 20.9
+    }
+  ],
+  "source": "derived failure record from requests.jsonl; not an API response"
+}

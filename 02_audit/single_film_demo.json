@@ -1,0 +1,22 @@
+{
+  "title_html": "Titanic",
+  "year_page": 1997,
+  "imdb_id_html": "tt0120338",
+  "shot_count": 2673,
+  "measured_duration": "03:06:45.6",
+  "asl_seconds": 4.2,
+  "msl_seconds": 3.0,
+  "wikidata_id": "Q44578",
+  "title_api": "Titanic",
+  "description_api": "1997 film directed by James Cameron",
+  "imdb_id_api": "tt0120338",
+  "release_years_api": [
+    1997,
+    1998
+  ],
+  "html_source_url": "https://cinemetrics.uchicago.edu/movie/0e9a80c6-ce7f-45b3-976b-6211e51bd19b",
+  "api_source_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q44578",
+  "measurement_scope_status": "pending version, speed and boundary checks",
+  "selected_for_main_analysis": false,
+  "evidence_run": "20261107T162303612368Z"
+}
