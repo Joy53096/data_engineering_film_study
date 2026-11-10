@@ -149,3 +149,21 @@ Retained separate HTML and REST sources, published shot statistics, title/year/I
 - Executed the new collector in a fresh Jupyter kernel: 22 HTML pages, 22 REST film items and two related-label batches, all 46 HTTP responses returned 200. All received-response hashes matched. Ten candidate records passed the shared-IMDb-plus-year check; twelve stayed marked for review. Three comments triggered a possible-excerpt flag; all other boundaries also remain under review. These flags overlap, and none of the 22 records is selected for the main analysis.
 - Saved new outputs to 02_audit/ranked_films.json and a run-local records.json. Older audits, raw evidence and the Titanic demo were left intact. Retained the earlier Top Gun scene example as a short saved example at the end of the notebook. Article text and final-sample work remain pending.
 - All six code cells passed again in a fresh kernel with HTTP requests blocked. The recomputed result exactly matched the saved audit; raw responses and audit files were unchanged. The default remains live=False. Updated the README for the new input file and single live/replay switch.
+
+
+## 2026-11-10: TMDB connection test
+
+- The student obtained a TMDB API Read Access Token and saved it in the ignored local .env file. The credential was not displayed or included in request logs.
+- Sent one authenticated GET request to /3/movie/597, using the TMDB ID in the saved Titanic Wikidata response. HTTP 200 returned Titanic (1997), with IMDb ID tt0120338. Ratings, vote count and runtime were present.
+- Saved the response and a request log in 01_raw/tmdb_check/20261110T080131389935Z/. Checked the saved response hash. This is a connection test, not a new decade sample. The notebooks and final sampling rules were not changed.
+
+
+## 2026-11-10: TMDB five-decade candidate check
+
+- Added Film_Selection.ipynb as a mainline selection step, separate from the short Titanic demo and the existing HTML/API collector. It has four code cells and 105 non-empty code lines, using requests, JSON, loops and pandas. Its default is live=False.
+- Read page 1 of discover/movie for each decade from 1950 to 1999, sorted by vote_count.desc. The five sequential requests returned HTTP 200 and 20 records each: 100 distinct TMDB IDs. Date bounds, numeric rating fields, sort order and duplicate IDs passed the collection checks. No blank overview was found on these pages.
+- No rating, vote-count, country or genre cutoff was set. Adult and video results were excluded through the API flags. These are high-vote first-page candidates, not a random sample, a final classics list or 100 verified whole-film Cinemetrics records. The existing 25-film pilot was not replaced.
+- All five API responses reported total_results=20001 and total_pages=1001. Preserved those values as received, but did not treat them as verified decade totals or coverage estimates. Only the 100 returned records count as collected candidate data.
+- The original-language field covers several languages overall, but every returned 1970s record uses English. Language is not production country, and this check does not establish geographic coverage. More rows from the same ordering would not by itself remove selection bias.
+- Saved exact response bytes, per-attempt hashes, non-secret request logs and the derived candidate JSON. The local token was read only for live requests and was absent from saved outputs and logs. Added TMDB credit, its logo link and the required notice.
+- Ran all four cells in a fresh Jupyter kernel with HTTP blocked. The recomputed candidates exactly matched the saved audit, no token was read in replay, and raw/audit bytes were unchanged. Final sampling parameters, Cinemetrics coverage, full-film boundaries and later analysis remain for review.

@@ -1,0 +1,2012 @@
+{
+  "stage": "one-page coverage check; final sample pending",
+  "run_id": "20261110T080633012171Z",
+  "source": "TMDB discover/movie",
+  "sort_by": "vote_count.desc",
+  "rating_cutoff": null,
+  "vote_count_cutoff": null,
+  "pages_per_decade": 1,
+  "checks": [
+    {
+      "decade": "1950s",
+      "page_read": 1,
+      "returned": 20,
+      "api_reported_total": 20001,
+      "api_reported_pages": 1001,
+      "blank_overviews": 0
+    },
+    {
+      "decade": "1960s",
+      "page_read": 1,
+      "returned": 20,
+      "api_reported_total": 20001,
+      "api_reported_pages": 1001,
+      "blank_overviews": 0
+    },
+    {
+      "decade": "1970s",
+      "page_read": 1,
+      "returned": 20,
+      "api_reported_total": 20001,
+      "api_reported_pages": 1001,
+      "blank_overviews": 0
+    },
+    {
+      "decade": "1980s",
+      "page_read": 1,
+      "returned": 20,
+      "api_reported_total": 20001,
+      "api_reported_pages": 1001,
+      "blank_overviews": 0
+    },
+    {
+      "decade": "1990s",
+      "page_read": 1,
+      "returned": 20,
+      "api_reported_total": 20001,
+      "api_reported_pages": 1001,
+      "blank_overviews": 0
+    }
+  ],
+  "records": [
+    {
+      "tmdb_id": 389,
+      "title": "12 Angry Men",
+      "original_title": "12 Angry Men",
+      "release_date": "1957-04-10",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 1,
+      "rating": 8.577,
+      "vote_count": 10579,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/389"
+    },
+    {
+      "tmdb_id": 567,
+      "title": "Rear Window",
+      "original_title": "Rear Window",
+      "release_date": "1954-08-01",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 2,
+      "rating": 8.333,
+      "vote_count": 7487,
+      "original_language": "en",
+      "genre_ids": [
+        53,
+        9648,
+        18
+      ],
+      "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/567"
+    },
+    {
+      "tmdb_id": 11224,
+      "title": "Cinderella",
+      "original_title": "Cinderella",
+      "release_date": "1950-02-22",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 3,
+      "rating": 7.057,
+      "vote_count": 7347,
+      "original_language": "en",
+      "genre_ids": [
+        10751,
+        14,
+        16,
+        10749
+      ],
+      "overview": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/11224"
+    },
+    {
+      "tmdb_id": 426,
+      "title": "Vertigo",
+      "original_title": "Vertigo",
+      "release_date": "1958-05-28",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 4,
+      "rating": 8.131,
+      "vote_count": 6613,
+      "original_language": "en",
+      "genre_ids": [
+        9648,
+        10749,
+        53
+      ],
+      "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/426"
+    },
+    {
+      "tmdb_id": 12092,
+      "title": "Alice in Wonderland",
+      "original_title": "Alice in Wonderland",
+      "release_date": "1951-08-09",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 5,
+      "rating": 7.197,
+      "vote_count": 6465,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        12
+      ],
+      "overview": "On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/12092"
+    },
+    {
+      "tmdb_id": 10693,
+      "title": "Peter Pan",
+      "original_title": "Peter Pan",
+      "release_date": "1953-02-05",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 6,
+      "rating": 7.188,
+      "vote_count": 5901,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14
+      ],
+      "overview": "Leaving the safety of their nursery behind, Wendy, Michael and John follow Peter Pan to a magical world where childhood lasts forever. But while in Neverland, the kids must face Captain Hook and foil his attempts to get rid of Peter for good.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/10693"
+    },
+    {
+      "tmdb_id": 10340,
+      "title": "Lady and the Tramp",
+      "original_title": "Lady and the Tramp",
+      "release_date": "1955-06-22",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 7,
+      "rating": 7.126,
+      "vote_count": 5798,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10751,
+        10749,
+        12,
+        35
+      ],
+      "overview": "Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/10340"
+    },
+    {
+      "tmdb_id": 10882,
+      "title": "Sleeping Beauty",
+      "original_title": "Sleeping Beauty",
+      "release_date": "1959-02-17",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 8,
+      "rating": 6.945,
+      "vote_count": 5637,
+      "original_language": "en",
+      "genre_ids": [
+        14,
+        16,
+        10749,
+        10751
+      ],
+      "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/10882"
+    },
+    {
+      "tmdb_id": 213,
+      "title": "North by Northwest",
+      "original_title": "North by Northwest",
+      "release_date": "1959-08-06",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 9,
+      "rating": 8.0,
+      "vote_count": 4728,
+      "original_language": "en",
+      "genre_ids": [
+        53,
+        12
+      ],
+      "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/213"
+    },
+    {
+      "tmdb_id": 346,
+      "title": "Seven Samurai",
+      "original_title": "七人の侍",
+      "release_date": "1954-04-26",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 10,
+      "rating": 8.452,
+      "vote_count": 4455,
+      "original_language": "ja",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/346"
+    },
+    {
+      "tmdb_id": 239,
+      "title": "Some Like It Hot",
+      "original_title": "Some Like It Hot",
+      "release_date": "1959-03-19",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 11,
+      "rating": 8.1,
+      "vote_count": 4055,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        10749,
+        80
+      ],
+      "overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/239"
+    },
+    {
+      "tmdb_id": 872,
+      "title": "Singin' in the Rain",
+      "original_title": "Singin' in the Rain",
+      "release_date": "1952-04-10",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 12,
+      "rating": 8.1,
+      "vote_count": 3683,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/872"
+    },
+    {
+      "tmdb_id": 490,
+      "title": "The Seventh Seal",
+      "original_title": "Det sjunde inseglet",
+      "release_date": "1957-02-16",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 13,
+      "rating": 8.1,
+      "vote_count": 3510,
+      "original_language": "sv",
+      "genre_ids": [
+        14,
+        18
+      ],
+      "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/490"
+    },
+    {
+      "tmdb_id": 975,
+      "title": "Paths of Glory",
+      "original_title": "Paths of Glory",
+      "release_date": "1957-10-25",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 14,
+      "rating": 8.254,
+      "vote_count": 3434,
+      "original_language": "en",
+      "genre_ids": [
+        10752,
+        18
+      ],
+      "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/975"
+    },
+    {
+      "tmdb_id": 665,
+      "title": "Ben-Hur",
+      "original_title": "Ben-Hur",
+      "release_date": "1959-11-18",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 15,
+      "rating": 7.9,
+      "vote_count": 3334,
+      "original_language": "en",
+      "genre_ids": [
+        36,
+        18,
+        12
+      ],
+      "overview": "In ancient Judea, a Jewish aristocrat opposing Roman occupation of his homeland reunites with his childhood friend, now a Roman commander — setting in motion a saga of betrayal, adventure, tragedy, revenge, and faith.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/665"
+    },
+    {
+      "tmdb_id": 599,
+      "title": "Sunset Boulevard",
+      "original_title": "Sunset Boulevard",
+      "release_date": "1950-08-10",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 16,
+      "rating": 8.3,
+      "vote_count": 3090,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/599"
+    },
+    {
+      "tmdb_id": 521,
+      "title": "Dial M for Murder",
+      "original_title": "Dial M for Murder",
+      "release_date": "1954-05-29",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 17,
+      "rating": 8.002,
+      "vote_count": 2995,
+      "original_language": "en",
+      "genre_ids": [
+        53,
+        80,
+        18
+      ],
+      "overview": "When her American lover visits London, a wealthy woman’s jealous husband hatches a plan to murder her and inherit her fortune.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/521"
+    },
+    {
+      "tmdb_id": 548,
+      "title": "Rashomon",
+      "original_title": "羅生門",
+      "release_date": "1950-08-26",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 18,
+      "rating": 8.02,
+      "vote_count": 2666,
+      "original_language": "ja",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "overview": "Four people recount different versions of the story of a man's murder and the rape of his wife.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/548"
+    },
+    {
+      "tmdb_id": 826,
+      "title": "The Bridge on the River Kwai",
+      "original_title": "The Bridge on the River Kwai",
+      "release_date": "1957-10-11",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 19,
+      "rating": 7.8,
+      "vote_count": 2508,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/826"
+    },
+    {
+      "tmdb_id": 147,
+      "title": "The 400 Blows",
+      "original_title": "Les Quatre Cents Coups",
+      "release_date": "1959-06-03",
+      "decade": "1950s",
+      "page": 1,
+      "rank_on_page": 20,
+      "rating": 7.994,
+      "vote_count": 2424,
+      "original_language": "fr",
+      "genre_ids": [
+        18
+      ],
+      "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/147"
+    },
+    {
+      "tmdb_id": 62,
+      "title": "2001: A Space Odyssey",
+      "original_title": "2001: A Space Odyssey",
+      "release_date": "1968-04-02",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 1,
+      "rating": 8.042,
+      "vote_count": 13127,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        9648,
+        12
+      ],
+      "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/62"
+    },
+    {
+      "tmdb_id": 539,
+      "title": "Psycho",
+      "original_title": "Psycho",
+      "release_date": "1960-06-22",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 2,
+      "rating": 8.405,
+      "vote_count": 11427,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53,
+        9648
+      ],
+      "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/539"
+    },
+    {
+      "tmdb_id": 429,
+      "title": "The Good, the Bad and the Ugly",
+      "original_title": "Il buono, il brutto, il cattivo",
+      "release_date": "1966-12-23",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 3,
+      "rating": 8.468,
+      "vote_count": 10133,
+      "original_language": "it",
+      "genre_ids": [
+        37
+      ],
+      "overview": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/429"
+    },
+    {
+      "tmdb_id": 9325,
+      "title": "The Jungle Book",
+      "original_title": "The Jungle Book",
+      "release_date": "1967-10-18",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 4,
+      "rating": 7.287,
+      "vote_count": 6837,
+      "original_language": "en",
+      "genre_ids": [
+        10751,
+        16,
+        12
+      ],
+      "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/9325"
+    },
+    {
+      "tmdb_id": 12230,
+      "title": "One Hundred and One Dalmatians",
+      "original_title": "One Hundred and One Dalmatians",
+      "release_date": "1961-01-25",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 5,
+      "rating": 7.178,
+      "vote_count": 6827,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751
+      ],
+      "overview": "When a litter of dalmatian puppies are abducted by the minions of Cruella De Vil, the parents must find them before she uses them for a diabolical fashion statement.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/12230"
+    },
+    {
+      "tmdb_id": 935,
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "release_date": "1964-01-29",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 6,
+      "rating": 8.118,
+      "vote_count": 6465,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        10752
+      ],
+      "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/935"
+    },
+    {
+      "tmdb_id": 433,
+      "title": "Mary Poppins",
+      "original_title": "Mary Poppins",
+      "release_date": "1964-12-17",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 7,
+      "rating": 7.55,
+      "vote_count": 5166,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "overview": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/433"
+    },
+    {
+      "tmdb_id": 335,
+      "title": "Once Upon a Time in the West",
+      "original_title": "C'era una volta il West",
+      "release_date": "1968-12-21",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 8,
+      "rating": 8.3,
+      "vote_count": 5128,
+      "original_language": "it",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "overview": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/335"
+    },
+    {
+      "tmdb_id": 391,
+      "title": "A Fistful of Dollars",
+      "original_title": "Per un pugno di dollari",
+      "release_date": "1964-09-12",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 9,
+      "rating": 7.821,
+      "vote_count": 4958,
+      "original_language": "it",
+      "genre_ids": [
+        37
+      ],
+      "overview": "The Man With No Name enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers and sheriff John Baxter. When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/391"
+    },
+    {
+      "tmdb_id": 938,
+      "title": "For a Few Dollars More",
+      "original_title": "Per qualche dollaro in più",
+      "release_date": "1965-12-18",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 10,
+      "rating": 8.028,
+      "vote_count": 4693,
+      "original_language": "it",
+      "genre_ids": [
+        37
+      ],
+      "overview": "Two bounty hunters both pursue the brutal and sadistic bandit, El Indio, who has a large bounty on his head.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/938"
+    },
+    {
+      "tmdb_id": 571,
+      "title": "The Birds",
+      "original_title": "The Birds",
+      "release_date": "1963-03-28",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 11,
+      "rating": 7.5,
+      "vote_count": 4643,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "overview": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/571"
+    },
+    {
+      "tmdb_id": 164,
+      "title": "Breakfast at Tiffany's",
+      "original_title": "Breakfast at Tiffany's",
+      "release_date": "1961-10-06",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 12,
+      "rating": 7.6,
+      "vote_count": 4624,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/164"
+    },
+    {
+      "tmdb_id": 805,
+      "title": "Rosemary's Baby",
+      "original_title": "Rosemary's Baby",
+      "release_date": "1968-06-12",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 13,
+      "rating": 7.8,
+      "vote_count": 4579,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        27,
+        53
+      ],
+      "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/805"
+    },
+    {
+      "tmdb_id": 646,
+      "title": "Dr. No",
+      "original_title": "Dr. No",
+      "release_date": "1962-10-07",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 14,
+      "rating": 6.985,
+      "vote_count": 4244,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "overview": "Agent 007 battles mysterious Dr. No, a scientific genius bent on destroying the U.S. space program. As the countdown to disaster begins, Bond must go to Jamaica, where he encounters beautiful Honey Ryder, to confront a megalomaniacal villain in his massive island headquarters.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/646"
+    },
+    {
+      "tmdb_id": 9078,
+      "title": "The Sword in the Stone",
+      "original_title": "The Sword in the Stone",
+      "release_date": "1963-12-25",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 15,
+      "rating": 7.227,
+      "vote_count": 4216,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "overview": "Wart is a young boy who aspires to be a knight's squire. On a hunting trip he falls in on Merlin, a powerful but amnesiac wizard who has plans for him beyond mere squiredom. He starts by trying to give him an education, believing that once one has an education, one can go anywhere. Needless to say, it doesn't quite work out that way.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/9078"
+    },
+    {
+      "tmdb_id": 871,
+      "title": "Planet of the Apes",
+      "original_title": "Planet of the Apes",
+      "release_date": "1968-02-07",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 16,
+      "rating": 7.657,
+      "vote_count": 4184,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        12,
+        18,
+        28
+      ],
+      "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/871"
+    },
+    {
+      "tmdb_id": 658,
+      "title": "Goldfinger",
+      "original_title": "Goldfinger",
+      "release_date": "1964-09-20",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 17,
+      "rating": 7.356,
+      "vote_count": 4166,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "overview": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/658"
+    },
+    {
+      "tmdb_id": 37247,
+      "title": "The Graduate",
+      "original_title": "The Graduate",
+      "release_date": "1967-12-21",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 18,
+      "rating": 7.628,
+      "vote_count": 3878,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10749,
+        35
+      ],
+      "overview": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/37247"
+    },
+    {
+      "tmdb_id": 15121,
+      "title": "The Sound of Music",
+      "original_title": "The Sound of Music",
+      "release_date": "1965-03-29",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 19,
+      "rating": 7.729,
+      "vote_count": 3796,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10751,
+        10402,
+        10749
+      ],
+      "overview": "In the years before World War II, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children and brings a new love of life and music into the home.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/15121"
+    },
+    {
+      "tmdb_id": 947,
+      "title": "Lawrence of Arabia",
+      "original_title": "Lawrence of Arabia",
+      "release_date": "1962-12-11",
+      "decade": "1960s",
+      "page": 1,
+      "rank_on_page": 20,
+      "rating": 8.002,
+      "vote_count": 3663,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        36,
+        10752
+      ],
+      "overview": "During World War I, English officer Thomas Edward 'T.E.' Lawrence sets out to unite and lead the diverse, often warring, Arab tribes to fight the Turks.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/947"
+    },
+    {
+      "tmdb_id": 238,
+      "title": "The Godfather",
+      "original_title": "The Godfather",
+      "release_date": "1972-03-14",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 1,
+      "rating": 8.688,
+      "vote_count": 23951,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/238"
+    },
+    {
+      "tmdb_id": 11,
+      "title": "Star Wars",
+      "original_title": "Star Wars",
+      "release_date": "1977-05-25",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 2,
+      "rating": 8.2,
+      "vote_count": 23146,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/11"
+    },
+    {
+      "tmdb_id": 348,
+      "title": "Alien",
+      "original_title": "Alien",
+      "release_date": "1979-05-25",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 3,
+      "rating": 8.176,
+      "vote_count": 17101,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/348"
+    },
+    {
+      "tmdb_id": 240,
+      "title": "The Godfather Part II",
+      "original_title": "The Godfather Part II",
+      "release_date": "1974-12-20",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 4,
+      "rating": 8.572,
+      "vote_count": 14594,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/240"
+    },
+    {
+      "tmdb_id": 185,
+      "title": "A Clockwork Orange",
+      "original_title": "A Clockwork Orange",
+      "release_date": "1971-10-28",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 5,
+      "rating": 8.167,
+      "vote_count": 14299,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        80
+      ],
+      "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/185"
+    },
+    {
+      "tmdb_id": 103,
+      "title": "Taxi Driver",
+      "original_title": "Taxi Driver",
+      "release_date": "1976-02-09",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 6,
+      "rating": 8.115,
+      "vote_count": 13997,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/103"
+    },
+    {
+      "tmdb_id": 578,
+      "title": "Jaws",
+      "original_title": "Jaws",
+      "release_date": "1975-06-20",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 7,
+      "rating": 7.686,
+      "vote_count": 12017,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53,
+        12
+      ],
+      "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/578"
+    },
+    {
+      "tmdb_id": 510,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "original_title": "One Flew Over the Cuckoo's Nest",
+      "release_date": "1975-11-19",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 8,
+      "rating": 8.4,
+      "vote_count": 11956,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/510"
+    },
+    {
+      "tmdb_id": 28,
+      "title": "Apocalypse Now",
+      "original_title": "Apocalypse Now",
+      "release_date": "1979-05-19",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 9,
+      "rating": 8.256,
+      "vote_count": 9543,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/28"
+    },
+    {
+      "tmdb_id": 1366,
+      "title": "Rocky",
+      "original_title": "Rocky",
+      "release_date": "1976-12-03",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 10,
+      "rating": 7.803,
+      "vote_count": 9068,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "overview": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time — a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/1366"
+    },
+    {
+      "tmdb_id": 9552,
+      "title": "The Exorcist",
+      "original_title": "The Exorcist",
+      "release_date": "1973-12-26",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 11,
+      "rating": 7.751,
+      "vote_count": 9023,
+      "original_language": "en",
+      "genre_ids": [
+        27
+      ],
+      "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/9552"
+    },
+    {
+      "tmdb_id": 621,
+      "title": "Grease",
+      "original_title": "Grease",
+      "release_date": "1978-06-16",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 12,
+      "rating": 7.362,
+      "vote_count": 7909,
+      "original_language": "en",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/621"
+    },
+    {
+      "tmdb_id": 762,
+      "title": "Monty Python and the Holy Grail",
+      "original_title": "Monty Python and the Holy Grail",
+      "release_date": "1975-04-03",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 13,
+      "rating": 7.802,
+      "vote_count": 6714,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        35,
+        14
+      ],
+      "overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/762"
+    },
+    {
+      "tmdb_id": 948,
+      "title": "Halloween",
+      "original_title": "Halloween",
+      "release_date": "1978-10-25",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 14,
+      "rating": 7.559,
+      "vote_count": 6520,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/948"
+    },
+    {
+      "tmdb_id": 10112,
+      "title": "The Aristocats",
+      "original_title": "The Aristocats",
+      "release_date": "1970-12-24",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 15,
+      "rating": 7.3,
+      "vote_count": 5511,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        12
+      ],
+      "overview": "When Madame Adelaide Bonfamille leaves her fortune to Duchess and her children—Bonfamille’s beloved family of cats—the butler plots to steal the money and kidnaps the legatees, leaving them out on a country road. All seems lost until the wily Thomas O’Malley Cat and his jazz-playing alley cats come to the aristocats’ rescue.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/10112"
+    },
+    {
+      "tmdb_id": 9659,
+      "title": "Mad Max",
+      "original_title": "Mad Max",
+      "release_date": "1979-04-12",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 16,
+      "rating": 6.7,
+      "vote_count": 5192,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "overview": "In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/9659"
+    },
+    {
+      "tmdb_id": 583,
+      "title": "Life of Brian",
+      "original_title": "Life of Brian",
+      "release_date": "1979-08-17",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 17,
+      "rating": 7.763,
+      "vote_count": 5181,
+      "original_language": "en",
+      "genre_ids": [
+        35
+      ],
+      "overview": "Brian Cohen is an average young Jewish man, but through a series of ridiculous events, he gains a reputation as the Messiah. When he's not dodging his followers or being scolded by his shrill mother, the hapless Brian has to contend with the pompous Pontius Pilate and acronym-obsessed members of a separatist movement. Rife with Monty Python's signature absurdity, the tale finds Brian's life paralleling Biblical lore, albeit with many more laughs.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/583"
+    },
+    {
+      "tmdb_id": 1367,
+      "title": "Rocky II",
+      "original_title": "Rocky II",
+      "release_date": "1979-06-15",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 18,
+      "rating": 7.297,
+      "vote_count": 5050,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        28
+      ],
+      "overview": "After Rocky goes the distance with champ Apollo Creed, both try to put the fight behind them and move on. Rocky settles down with Adrian but can't put his life together outside the ring, while Creed seeks a rematch to restore his reputation. Soon enough, the \"Master of Disaster\" and the \"Italian Stallion\" are set on a collision course for a climactic battle that is brutal and unforgettable.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/1367"
+    },
+    {
+      "tmdb_id": 840,
+      "title": "Close Encounters of the Third Kind",
+      "original_title": "Close Encounters of the Third Kind",
+      "release_date": "1977-12-14",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 19,
+      "rating": 7.35,
+      "vote_count": 4907,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        18
+      ],
+      "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/840"
+    },
+    {
+      "tmdb_id": 11886,
+      "title": "Robin Hood",
+      "original_title": "Robin Hood",
+      "release_date": "1973-11-08",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 20,
+      "rating": 7.313,
+      "vote_count": 4792,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "overview": "With King Richard off to the Crusades, Prince John and his slithering minion, Sir Hiss, set about taxing Nottingham's citizens with support from the corrupt sheriff - and staunch opposition by the wily Robin Hood and his band of merry men.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/11886"
+    },
+    {
+      "tmdb_id": 105,
+      "title": "Back to the Future",
+      "original_title": "Back to the Future",
+      "release_date": "1985-07-03",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 1,
+      "rating": 8.332,
+      "vote_count": 22733,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        35,
+        878
+      ],
+      "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/105"
+    },
+    {
+      "tmdb_id": 694,
+      "title": "The Shining",
+      "original_title": "The Shining",
+      "release_date": "1980-05-23",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 2,
+      "rating": 8.2,
+      "vote_count": 19664,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/694"
+    },
+    {
+      "tmdb_id": 1891,
+      "title": "The Empire Strikes Back",
+      "original_title": "The Empire Strikes Back",
+      "release_date": "1980-05-20",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 3,
+      "rating": 8.392,
+      "vote_count": 19110,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/1891"
+    },
+    {
+      "tmdb_id": 1892,
+      "title": "Return of the Jedi",
+      "original_title": "Return of the Jedi",
+      "release_date": "1983-05-25",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 4,
+      "rating": 7.911,
+      "vote_count": 17538,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/1892"
+    },
+    {
+      "tmdb_id": 78,
+      "title": "Blade Runner",
+      "original_title": "Blade Runner",
+      "release_date": "1982-06-25",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 5,
+      "rating": 7.937,
+      "vote_count": 15615,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        18,
+        53
+      ],
+      "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/78"
+    },
+    {
+      "tmdb_id": 218,
+      "title": "The Terminator",
+      "original_title": "The Terminator",
+      "release_date": "1984-10-26",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 6,
+      "rating": 7.7,
+      "vote_count": 15404,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/218"
+    },
+    {
+      "tmdb_id": 165,
+      "title": "Back to the Future Part II",
+      "original_title": "Back to the Future Part II",
+      "release_date": "1989-11-22",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 7,
+      "rating": 7.784,
+      "vote_count": 14499,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        35,
+        878
+      ],
+      "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/165"
+    },
+    {
+      "tmdb_id": 85,
+      "title": "Raiders of the Lost Ark",
+      "original_title": "Raiders of the Lost Ark",
+      "release_date": "1981-06-12",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 8,
+      "rating": 7.928,
+      "vote_count": 14203,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/85"
+    },
+    {
+      "tmdb_id": 111,
+      "title": "Scarface",
+      "original_title": "Scarface",
+      "release_date": "1983-12-09",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 9,
+      "rating": 8.155,
+      "vote_count": 13664,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/111"
+    },
+    {
+      "tmdb_id": 207,
+      "title": "Dead Poets Society",
+      "original_title": "Dead Poets Society",
+      "release_date": "1989-06-02",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 10,
+      "rating": 8.3,
+      "vote_count": 13159,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/207"
+    },
+    {
+      "tmdb_id": 562,
+      "title": "Die Hard",
+      "original_title": "Die Hard",
+      "release_date": "1988-07-15",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 11,
+      "rating": 7.818,
+      "vote_count": 12848,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/562"
+    },
+    {
+      "tmdb_id": 601,
+      "title": "E.T. the Extra-Terrestrial",
+      "original_title": "E.T. the Extra-Terrestrial",
+      "release_date": "1982-06-11",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 12,
+      "rating": 7.519,
+      "vote_count": 12406,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        878,
+        10751
+      ],
+      "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/601"
+    },
+    {
+      "tmdb_id": 600,
+      "title": "Full Metal Jacket",
+      "original_title": "Full Metal Jacket",
+      "release_date": "1987-06-26",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 13,
+      "rating": 8.119,
+      "vote_count": 11926,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/600"
+    },
+    {
+      "tmdb_id": 89,
+      "title": "Indiana Jones and the Last Crusade",
+      "original_title": "Indiana Jones and the Last Crusade",
+      "release_date": "1989-05-24",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 14,
+      "rating": 7.858,
+      "vote_count": 11522,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/89"
+    },
+    {
+      "tmdb_id": 679,
+      "title": "Aliens",
+      "original_title": "Aliens",
+      "release_date": "1986-07-18",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 15,
+      "rating": 7.969,
+      "vote_count": 11363,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/679"
+    },
+    {
+      "tmdb_id": 87,
+      "title": "Indiana Jones and the Temple of Doom",
+      "original_title": "Indiana Jones and the Temple of Doom",
+      "release_date": "1984-05-23",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 16,
+      "rating": 7.309,
+      "vote_count": 10513,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/87"
+    },
+    {
+      "tmdb_id": 620,
+      "title": "Ghostbusters",
+      "original_title": "Ghostbusters",
+      "release_date": "1984-06-08",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 17,
+      "rating": 7.5,
+      "vote_count": 10138,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        14
+      ],
+      "overview": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/620"
+    },
+    {
+      "tmdb_id": 744,
+      "title": "Top Gun",
+      "original_title": "Top Gun",
+      "release_date": "1986-05-16",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 18,
+      "rating": 7.071,
+      "vote_count": 10080,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        18,
+        10749
+      ],
+      "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/744"
+    },
+    {
+      "tmdb_id": 106,
+      "title": "Predator",
+      "original_title": "Predator",
+      "release_date": "1987-06-12",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 19,
+      "rating": 7.587,
+      "vote_count": 9663,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        28,
+        12,
+        53
+      ],
+      "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/106"
+    },
+    {
+      "tmdb_id": 8392,
+      "title": "My Neighbor Totoro",
+      "original_title": "となりのトトロ",
+      "release_date": "1988-04-16",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 20,
+      "rating": 8.1,
+      "vote_count": 9234,
+      "original_language": "ja",
+      "genre_ids": [
+        14,
+        16,
+        10751
+      ],
+      "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/8392"
+    },
+    {
+      "tmdb_id": 550,
+      "title": "Fight Club",
+      "original_title": "Fight Club",
+      "release_date": "1999-10-15",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 1,
+      "rating": 8.4,
+      "vote_count": 33295,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/550"
+    },
+    {
+      "tmdb_id": 278,
+      "title": "The Shawshank Redemption",
+      "original_title": "The Shawshank Redemption",
+      "release_date": "1994-09-23",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 2,
+      "rating": 8.735,
+      "vote_count": 31809,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/278"
+    },
+    {
+      "tmdb_id": 680,
+      "title": "Pulp Fiction",
+      "original_title": "Pulp Fiction",
+      "release_date": "1994-09-10",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 3,
+      "rating": 8.48,
+      "vote_count": 31288,
+      "original_language": "en",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/680"
+    },
+    {
+      "tmdb_id": 13,
+      "title": "Forrest Gump",
+      "original_title": "Forrest Gump",
+      "release_date": "1994-06-23",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 4,
+      "rating": 8.461,
+      "vote_count": 30857,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/13"
+    },
+    {
+      "tmdb_id": 603,
+      "title": "The Matrix",
+      "original_title": "The Matrix",
+      "release_date": "1999-03-31",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 5,
+      "rating": 8.263,
+      "vote_count": 29205,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/603"
+    },
+    {
+      "tmdb_id": 597,
+      "title": "Titanic",
+      "original_title": "Titanic",
+      "release_date": "1997-12-18",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 6,
+      "rating": 7.9,
+      "vote_count": 28049,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/597"
+    },
+    {
+      "tmdb_id": 807,
+      "title": "Se7en",
+      "original_title": "Se7en",
+      "release_date": "1995-09-22",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 7,
+      "rating": 8.4,
+      "vote_count": 24182,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/807"
+    },
+    {
+      "tmdb_id": 37165,
+      "title": "The Truman Show",
+      "original_title": "The Truman Show",
+      "release_date": "1998-06-04",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 8,
+      "rating": 8.161,
+      "vote_count": 21204,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "overview": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/37165"
+    },
+    {
+      "tmdb_id": 862,
+      "title": "Toy Story",
+      "original_title": "Toy Story",
+      "release_date": "1995-11-22",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 9,
+      "rating": 7.99,
+      "vote_count": 20807,
+      "original_language": "en",
+      "genre_ids": [
+        10751,
+        35,
+        16,
+        12
+      ],
+      "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/862"
+    },
+    {
+      "tmdb_id": 8587,
+      "title": "The Lion King",
+      "original_title": "The Lion King",
+      "release_date": "1994-06-15",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 10,
+      "rating": 8.25,
+      "vote_count": 20387,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10751,
+        18
+      ],
+      "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/8587"
+    },
+    {
+      "tmdb_id": 497,
+      "title": "The Green Mile",
+      "original_title": "The Green Mile",
+      "release_date": "1999-12-10",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 11,
+      "rating": 8.504,
+      "vote_count": 20113,
+      "original_language": "en",
+      "genre_ids": [
+        14,
+        18,
+        80
+      ],
+      "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/497"
+    },
+    {
+      "tmdb_id": 274,
+      "title": "The Silence of the Lambs",
+      "original_title": "The Silence of the Lambs",
+      "release_date": "1991-02-14",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 12,
+      "rating": 8.345,
+      "vote_count": 18825,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/274"
+    },
+    {
+      "tmdb_id": 329,
+      "title": "Jurassic Park",
+      "original_title": "Jurassic Park",
+      "release_date": "1993-06-11",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 13,
+      "rating": 7.977,
+      "vote_count": 18588,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        878
+      ],
+      "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/329"
+    },
+    {
+      "tmdb_id": 424,
+      "title": "Schindler's List",
+      "original_title": "Schindler's List",
+      "release_date": "1993-12-15",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 14,
+      "rating": 8.57,
+      "vote_count": 18163,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/424"
+    },
+    {
+      "tmdb_id": 857,
+      "title": "Saving Private Ryan",
+      "original_title": "Saving Private Ryan",
+      "release_date": "1998-07-24",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 15,
+      "rating": 8.235,
+      "vote_count": 18058,
+      "original_language": "en",
+      "genre_ids": [
+        10752,
+        18,
+        36
+      ],
+      "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/857"
+    },
+    {
+      "tmdb_id": 101,
+      "title": "Léon: The Professional",
+      "original_title": "Léon",
+      "release_date": "1994-09-14",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 16,
+      "rating": 8.289,
+      "vote_count": 16777,
+      "original_language": "fr",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/101"
+    },
+    {
+      "tmdb_id": 1893,
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "original_title": "Star Wars: Episode I - The Phantom Menace",
+      "release_date": "1999-05-19",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 17,
+      "rating": 6.582,
+      "vote_count": 16412,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/1893"
+    },
+    {
+      "tmdb_id": 500,
+      "title": "Reservoir Dogs",
+      "original_title": "Reservoir Dogs",
+      "release_date": "1992-09-02",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 18,
+      "rating": 8.109,
+      "vote_count": 16017,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/500"
+    },
+    {
+      "tmdb_id": 863,
+      "title": "Toy Story 2",
+      "original_title": "Toy Story 2",
+      "release_date": "1999-10-30",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 19,
+      "rating": 7.624,
+      "vote_count": 15576,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/863"
+    },
+    {
+      "tmdb_id": 607,
+      "title": "Men in Black",
+      "original_title": "Men in Black",
+      "release_date": "1997-07-02",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 20,
+      "rating": 7.234,
+      "vote_count": 15418,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        878
+      ],
+      "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/607"
+    }
+  ]
+}
