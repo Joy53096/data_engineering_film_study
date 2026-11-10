@@ -1,0 +1,1831 @@
+{
+  "candidate_run": "20261110T090154767976Z",
+  "stage": "exact-title directory candidates; identity and full-film scope pending",
+  "decades": [
+    {
+      "decade": 1970,
+      "reported_measurements": 44,
+      "returned_rows": 44,
+      "rows": [
+        {
+          "country": "Stany Zjednoczone",
+          "year": 1978,
+          "director": "Steven Spilberg",
+          "title": "Jaws",
+          "uuid": "f1a6e68c-37ba-45c5-a69e-6567619557a7"
+        },
+        {
+          "country": "USA",
+          "year": 1975,
+          "director": "Stewen Spielberg",
+          "title": "Jaws",
+          "uuid": "8336a0c0-8d69-47ef-a137-cb861dbf85dd"
+        },
+        {
+          "country": {},
+          "year": 1979,
+          "director": {},
+          "title": "Alien",
+          "uuid": "eeb16d10-2cd7-4eed-816c-d49b221d109e"
+        },
+        {
+          "country": {},
+          "year": 1977,
+          "director": {},
+          "title": "Close Encounters of the Third Kind",
+          "uuid": "c883d4c4-640e-4ef0-a5eb-f26940522884"
+        },
+        {
+          "country": {},
+          "year": 1979,
+          "director": {},
+          "title": "Alien",
+          "uuid": "128e62b7-5df9-48f2-97fa-382dfc9362bd"
+        },
+        {
+          "country": {},
+          "year": 1979,
+          "director": {},
+          "title": "Alien",
+          "uuid": "ca982a26-6c12-490b-923f-171d4221dccd"
+        },
+        {
+          "country": {},
+          "year": 1979,
+          "director": {},
+          "title": "Alien",
+          "uuid": "d7318b97-0ec2-4996-bb45-7c4919edd946"
+        },
+        {
+          "country": {},
+          "year": 1979,
+          "director": {},
+          "title": "Alien",
+          "uuid": "22a3387f-ac20-49f4-9cf5-4f304c22aa1b"
+        },
+        {
+          "country": {},
+          "year": 1975,
+          "director": {},
+          "title": "Jaws",
+          "uuid": "52c200f5-4e82-410f-81ad-3a7c0caadd66"
+        },
+        {
+          "country": {},
+          "year": 1975,
+          "director": {},
+          "title": "jaws",
+          "uuid": "88b09914-722a-436f-80a6-66fdcb19780c"
+        },
+        {
+          "country": {},
+          "year": 1976,
+          "director": {},
+          "title": "Carrie",
+          "uuid": "1e4ff8d7-0a78-40a1-bf8e-e1d2382cf268"
+        },
+        {
+          "country": {},
+          "year": 1975,
+          "director": {},
+          "title": "Jaws",
+          "uuid": "32dd435f-0894-46f6-87f3-0bac037e7dfe"
+        },
+        {
+          "country": {},
+          "year": 1978,
+          "director": {},
+          "title": "Grease",
+          "uuid": "bab34b89-5928-4b0a-b0d7-8ce20885efac"
+        },
+        {
+          "country": {},
+          "year": 1979,
+          "director": {},
+          "title": "Alien",
+          "uuid": "8331869a-ac86-4d27-bfdd-c2c155325963"
+        },
+        {
+          "country": {},
+          "year": 1979,
+          "director": {},
+          "title": "alien",
+          "uuid": "32fe9dfa-f813-46b4-b739-090c34c71868"
+        },
+        {
+          "country": {},
+          "year": 1978,
+          "director": {},
+          "title": "Halloween",
+          "uuid": "e3d738da-c239-4d4e-b679-23becd3ebfd4"
+        },
+        {
+          "country": {},
+          "year": 1978,
+          "director": {},
+          "title": "Halloween",
+          "uuid": "e4ff293d-34fc-4896-af70-d7f77e5524ac"
+        },
+        {
+          "country": {},
+          "year": 1975,
+          "director": {},
+          "title": "Jaws",
+          "uuid": "b9b9653d-bccd-413f-9a9e-b1aae4006a32"
+        },
+        {
+          "country": {},
+          "year": 1975,
+          "director": {},
+          "title": "Jaws",
+          "uuid": "158a33f1-c7cf-499e-ad99-3da66cada3e3"
+        },
+        {
+          "country": "USA",
+          "year": 1979,
+          "director": "Ridley Scott",
+          "title": "Alien",
+          "uuid": "7a48be43-c546-446e-a1ca-f98e05257f76"
+        },
+        {
+          "country": {},
+          "year": 1976,
+          "director": {},
+          "title": "Carrie",
+          "uuid": "523411c4-de4c-48fa-8d0b-ee8fed39d963"
+        },
+        {
+          "country": {},
+          "year": 1978,
+          "director": "John Carpenter",
+          "title": "Halloween",
+          "uuid": "15fad178-d364-49b7-9453-62d09a91e681"
+        },
+        {
+          "country": "United States",
+          "year": 1973,
+          "director": "William Friedkin",
+          "title": "The Exorcist",
+          "uuid": "4f708b52-5a35-4463-84a2-d28e03e6e064"
+        },
+        {
+          "country": {},
+          "year": 1972,
+          "director": {},
+          "title": "The godfather",
+          "uuid": "91fc3cdc-00c4-4401-8759-7be85ae0a4a0"
+        },
+        {
+          "country": {},
+          "year": 1971,
+          "director": {},
+          "title": "A Clockwork Orange",
+          "uuid": "d13c9039-41c9-4286-9b40-ba8b9cdd72be"
+        },
+        {
+          "country": "United States",
+          "year": 1975,
+          "director": "Milos Forman",
+          "title": "One Flew Over the Cuckoo's Nest",
+          "uuid": "65c7186e-7afa-47a5-9bd0-ad9a03460316"
+        },
+        {
+          "country": {},
+          "year": 1973,
+          "director": {},
+          "title": "robin hood",
+          "uuid": "120395c5-24db-4ff6-8766-d3a8e1b46a23"
+        },
+        {
+          "country": "United States",
+          "year": 1973,
+          "director": "Wolfgang Reitherman",
+          "title": "Robin Hood",
+          "uuid": "59ec8237-0cec-4498-9f71-b6490a769cd5"
+        },
+        {
+          "country": {},
+          "year": 1976,
+          "director": {},
+          "title": "Taxi Driver",
+          "uuid": "a345c15b-22c2-47d9-8a63-2271572d6aef"
+        },
+        {
+          "country": {},
+          "year": 1979,
+          "director": {},
+          "title": "Alien",
+          "uuid": "07398008-c4b1-4600-babc-f0cd7ef885df"
+        },
+        {
+          "country": "United States",
+          "year": 1978,
+          "director": "John Carpenter",
+          "title": "Halloween",
+          "uuid": "0c67d3f3-fb9c-4df2-8919-0278dc6cc309"
+        },
+        {
+          "country": "United States",
+          "year": 1979,
+          "director": "Sylvester Stallone",
+          "title": "Rocky II",
+          "uuid": "2e4047c6-5021-414a-a9de-b8a7c10a066b"
+        },
+        {
+          "country": "USA",
+          "year": 1976,
+          "director": "John G. Avildsen",
+          "title": "Rocky",
+          "uuid": "23945e60-5547-4ffc-af07-5abb3bfa09d2"
+        },
+        {
+          "country": "USA",
+          "year": 1975,
+          "director": "Steven Spielberg",
+          "title": "Jaws",
+          "uuid": "2340248f-99eb-4625-9b1f-b24cde0f0aa4"
+        },
+        {
+          "country": "USA",
+          "year": 1975,
+          "director": "Terry Gilliam, Terry Jones",
+          "title": "Monty Python and the Holy Grail",
+          "uuid": "75285509-0a65-47b2-9bcd-88ba8a127764"
+        },
+        {
+          "country": {},
+          "year": 1979,
+          "director": {},
+          "title": "Alien",
+          "uuid": "8fc48b0f-0939-45a8-9536-48390a5544f1"
+        },
+        {
+          "country": "USA",
+          "year": 1976,
+          "director": "Brian De Palma",
+          "title": "Carrie",
+          "uuid": "7e5cd9c4-eeb6-4ef5-8f7e-5fb69264d04f"
+        },
+        {
+          "country": "USA",
+          "year": 1974,
+          "director": "Francis Ford Coppola",
+          "title": "The Godfather Part II",
+          "uuid": "bcb2c58a-2ceb-4d9a-a976-eafd39123605"
+        },
+        {
+          "country": {},
+          "year": 1978,
+          "director": {},
+          "title": "Grease",
+          "uuid": "0036366b-df66-4311-abb7-eb0173c63975"
+        },
+        {
+          "country": "UK",
+          "year": 1971,
+          "director": "Stanley Kubrick",
+          "title": "A Clockwork Orange",
+          "uuid": "76ff7e21-e001-4210-968e-7f67ed27bd3d"
+        },
+        {
+          "country": "UK",
+          "year": 1971,
+          "director": "Stanley Kubrick",
+          "title": "A Clockwork Orange",
+          "uuid": "5f962aac-f2f1-48eb-9ccb-dee1fe2ba206"
+        },
+        {
+          "country": "USA",
+          "year": 1975,
+          "director": "Steven Spielberg",
+          "title": "Jaws",
+          "uuid": "d619bbfe-7a55-460b-b987-5744217f5da1"
+        },
+        {
+          "country": "USA",
+          "year": 1976,
+          "director": "Martin Scorsese",
+          "title": "Taxi Driver",
+          "uuid": "16de7be1-43e4-435d-99df-b50e999b96dd"
+        },
+        {
+          "country": "USA",
+          "year": 1975,
+          "director": "Milos Forman",
+          "title": "One Flew Over the Cuckoo's Nest",
+          "uuid": "1ec4a9b2-03fa-4ed9-9254-bd5d839010c4"
+        }
+      ],
+      "directory_pages_read": 1
+    },
+    {
+      "decade": 1980,
+      "reported_measurements": 49,
+      "returned_rows": 49,
+      "rows": [
+        {
+          "country": {},
+          "year": 1980,
+          "director": "Stanley Kubrick",
+          "title": "The Shining",
+          "uuid": "95c6bd3c-edf7-43bd-a17b-d6711280ac3e"
+        },
+        {
+          "country": {},
+          "year": 1980,
+          "director": "Stanley Kubrick",
+          "title": "The Shining",
+          "uuid": "c17ba370-d9f1-48e5-9a1c-ba762cba669f"
+        },
+        {
+          "country": {},
+          "year": 1980,
+          "director": "Stanley Kubrick",
+          "title": "The Shining",
+          "uuid": "b675e34d-a91c-4914-943f-b6aa98f9833b"
+        },
+        {
+          "country": {},
+          "year": 1986,
+          "director": "Tony Scott",
+          "title": "Top Gun",
+          "uuid": "da8e6e29-72a2-4279-984c-a4aacccc582b"
+        },
+        {
+          "country": "United States",
+          "year": 1985,
+          "director": "Robert Zemeckis",
+          "title": "Back to the Future",
+          "uuid": "5810268a-f62a-4bd1-a978-ab5a23558352"
+        },
+        {
+          "country": "United States",
+          "year": 1985,
+          "director": "Robert Zemeckis",
+          "title": "Back to the Future",
+          "uuid": "86ebd981-6482-41ed-8f32-efa428103775"
+        },
+        {
+          "country": {},
+          "year": 1984,
+          "director": {},
+          "title": "The Terminator",
+          "uuid": "55a342e7-2687-4377-ab79-5d4d6752a398"
+        },
+        {
+          "country": {},
+          "year": 1985,
+          "director": {},
+          "title": "Back To The Future",
+          "uuid": "a5535eba-cf1f-4b89-85fd-641ac491f628"
+        },
+        {
+          "country": {},
+          "year": 1980,
+          "director": {},
+          "title": "The Shining",
+          "uuid": "30fa5b5e-3598-4f32-9534-f932ec0f5bb6"
+        },
+        {
+          "country": "United States",
+          "year": 1982,
+          "director": "Ridley Scott",
+          "title": "Blade Runner",
+          "uuid": "68e6663c-bf43-4d95-9a17-36e249b6cfad"
+        },
+        {
+          "country": "United States",
+          "year": 1988,
+          "director": "John McTiernan",
+          "title": "Die Hard",
+          "uuid": "f45559fb-7f89-47c4-b394-2629ff9bdc23"
+        },
+        {
+          "country": {},
+          "year": 1985,
+          "director": {},
+          "title": "Back To The Future",
+          "uuid": "92ad7ba0-551e-4122-a885-0e1de56127d0"
+        },
+        {
+          "country": {},
+          "year": 1985,
+          "director": {},
+          "title": "Back To The Future",
+          "uuid": "73366f46-e408-40db-b788-47e30f3f6cc3"
+        },
+        {
+          "country": {},
+          "year": 1981,
+          "director": {},
+          "title": "Raiders of the Lost Ark",
+          "uuid": "ed3d5a6e-aa1a-43b0-8c6e-e81c89ad5996"
+        },
+        {
+          "country": {},
+          "year": 1981,
+          "director": {},
+          "title": "Raiders of the Lost Ark",
+          "uuid": "055882e5-c6f9-44b4-8fce-018db847c0d6"
+        },
+        {
+          "country": "USA",
+          "year": 1980,
+          "director": "Stanley Kubrick",
+          "title": "The Shining",
+          "uuid": "740830df-1d61-4681-a49b-5e6609abe6ed"
+        },
+        {
+          "country": "United States",
+          "year": 1986,
+          "director": "Tony Scott",
+          "title": "Top Gun",
+          "uuid": "ce7b3e90-d867-4c59-9e5c-a5dee7da90a3"
+        },
+        {
+          "country": "United States",
+          "year": 1986,
+          "director": "Tony Scott",
+          "title": "Top Gun",
+          "uuid": "3ebe050a-2141-4054-9c75-2713ad081d3a"
+        },
+        {
+          "country": {},
+          "year": 1985,
+          "director": {},
+          "title": "Back to the future",
+          "uuid": "4384e383-c1b9-45a6-9ee3-f47d47a7cec8"
+        },
+        {
+          "country": {},
+          "year": 1988,
+          "director": "John McTiernan",
+          "title": "Die Hard",
+          "uuid": "0313efa2-8c32-48f9-b609-f30ae6b7e15d"
+        },
+        {
+          "country": "United States",
+          "year": 1987,
+          "director": "Stanley Kubrick",
+          "title": "Full metal jacket",
+          "uuid": "ec5d222a-e2b1-4a67-ad00-221fb868185d"
+        },
+        {
+          "country": "United States",
+          "year": 1981,
+          "director": "Steven Spielberg",
+          "title": "Raiders of the Lost Ark",
+          "uuid": "8f9fe5db-85b0-402f-8306-87d7a8fa5a72"
+        },
+        {
+          "country": "United States",
+          "year": 1989,
+          "director": "Steven Spielberg",
+          "title": "Indiana Jones and the Last Crusade",
+          "uuid": "fa7ce196-0179-4d19-bc3f-2ecf4bcec543"
+        },
+        {
+          "country": "United States",
+          "year": 1984,
+          "director": "Steven Spielberg",
+          "title": "Indiana Jones and the Temple of Doom",
+          "uuid": "500b5dac-563f-43f1-a85e-96fda98eaed4"
+        },
+        {
+          "country": {},
+          "year": 1980,
+          "director": {},
+          "title": "The Shining",
+          "uuid": "c617e38b-c9c9-4f9a-be41-a94760334b30"
+        },
+        {
+          "country": "United States",
+          "year": 1985,
+          "director": "Robert Zemeckis",
+          "title": "Back to the Future",
+          "uuid": "4394f943-cbd7-46d0-be12-a61a06497bf0"
+        },
+        {
+          "country": {},
+          "year": 1986,
+          "director": {},
+          "title": "Aliens",
+          "uuid": "6580f1f4-ad8a-4d9f-8158-67f84ba6d76c"
+        },
+        {
+          "country": "United States",
+          "year": 1989,
+          "director": "Robert Zemeckis",
+          "title": "Back to the Future Part II",
+          "uuid": "840c225b-5a4f-40b5-b05e-2a08d2c3437d"
+        },
+        {
+          "country": "United States",
+          "year": 1983,
+          "director": "Brian De Palma",
+          "title": "Scarface",
+          "uuid": "d2824ce7-3143-4a01-8cae-848f06eb4da7"
+        },
+        {
+          "country": {},
+          "year": 1984,
+          "director": {},
+          "title": "GhostBusters",
+          "uuid": "cb455db0-774b-452e-9b39-1fc256f050f8"
+        },
+        {
+          "country": "USA",
+          "year": 1985,
+          "director": "Robert Zemeckis",
+          "title": "Back To The Future",
+          "uuid": "f188bae1-b76c-4add-b600-834b69823c83"
+        },
+        {
+          "country": "USA",
+          "year": 1984,
+          "director": "James Cameron",
+          "title": "The Terminator",
+          "uuid": "cdfdc4f1-4281-4b93-a564-d067ad813a7c"
+        },
+        {
+          "country": {},
+          "year": 1984,
+          "director": {},
+          "title": "The Terminator",
+          "uuid": "cdc51d20-0b93-47c5-b9fa-01fbd5acf652"
+        },
+        {
+          "country": "USA",
+          "year": 1983,
+          "director": "Brian De Palma",
+          "title": "Scarface",
+          "uuid": "76a51e87-3ade-499a-ad7b-b07ad7c0e047"
+        },
+        {
+          "country": {},
+          "year": 1983,
+          "director": {},
+          "title": "Scarface",
+          "uuid": "8bc9115b-9a45-4b3c-aedd-af5dd80d9723"
+        },
+        {
+          "country": {},
+          "year": 1984,
+          "director": {},
+          "title": "The Terminator",
+          "uuid": "4e9e1ad5-c7b1-4928-a366-b66f3fd3aacf"
+        },
+        {
+          "country": {},
+          "year": 1982,
+          "director": {},
+          "title": "Blade Runner",
+          "uuid": "67dd052e-12bc-487e-ac93-556e5ee6972b"
+        },
+        {
+          "country": {},
+          "year": 1982,
+          "director": {},
+          "title": "Blade Runner",
+          "uuid": "d22dbc8d-d397-4a76-8621-a94c2fe83d72"
+        },
+        {
+          "country": {},
+          "year": 1985,
+          "director": {},
+          "title": "Back to the Future",
+          "uuid": "fe3495bb-3a10-40b5-b34e-51a2b0ccaab0"
+        },
+        {
+          "country": "USA",
+          "year": 1984,
+          "director": "James Cameron",
+          "title": "The Terminator",
+          "uuid": "1f1428a6-8d95-45ea-8ad4-d9973b08a71a"
+        },
+        {
+          "country": {},
+          "year": 1987,
+          "director": {},
+          "title": "Predator",
+          "uuid": "2bb872fd-9ea4-4bf9-b014-7a859d07053e"
+        },
+        {
+          "country": "Taiwan, Province of China",
+          "year": 1988,
+          "director": "http://rlojjsylnfms.com/",
+          "title": "Die Hard",
+          "uuid": "695b0c83-a815-485a-9f0c-1166bcbfde55"
+        },
+        {
+          "country": "USA",
+          "year": 1985,
+          "director": "Robert Zemeckis",
+          "title": "Back To The Future",
+          "uuid": "3f27626c-a7e0-4ea8-aef4-10da74423aaf"
+        },
+        {
+          "country": "USA",
+          "year": 1984,
+          "director": "Ivan Reitman",
+          "title": "Ghostbusters",
+          "uuid": "6816bde1-95c2-40ef-82bd-170d81d175e5"
+        },
+        {
+          "country": "USA",
+          "year": 1986,
+          "director": "Tony Scott",
+          "title": "Top Gun",
+          "uuid": "67e6817b-a3d0-48f6-b603-994f01a28b06"
+        },
+        {
+          "country": "USA",
+          "year": 1985,
+          "director": "Robert Zemeckis",
+          "title": "Back To The Future",
+          "uuid": "15a74976-15a4-4c14-a728-c64d77f7f197"
+        },
+        {
+          "country": "USA",
+          "year": 1985,
+          "director": "Robert Zemeckis",
+          "title": "Back to the future",
+          "uuid": "14ea0849-3c61-4d47-9f74-155665a87c60"
+        },
+        {
+          "country": "USA",
+          "year": 1989,
+          "director": "peter weir",
+          "title": "Dead Poets Society",
+          "uuid": "341d3c21-70d6-47c6-b323-a97c6277d438"
+        },
+        {
+          "country": "USA",
+          "year": 1986,
+          "director": "Tony Scott",
+          "title": "Top Gun",
+          "uuid": "573a8800-22a5-4bb9-9821-6140ed280e55"
+        }
+      ],
+      "directory_pages_read": 1
+    },
+    {
+      "decade": 1990,
+      "reported_measurements": 70,
+      "returned_rows": 70,
+      "rows": [
+        {
+          "country": {},
+          "year": 1999,
+          "director": {},
+          "title": "The Matrix",
+          "uuid": "67cb0ba1-0cf5-4eb2-90e1-68c61d26d832"
+        },
+        {
+          "country": {},
+          "year": 1995,
+          "director": {},
+          "title": "Se7en",
+          "uuid": "fa78b78a-22fd-4bad-9c2b-89a2db5c28e9"
+        },
+        {
+          "country": {},
+          "year": 1999,
+          "director": {},
+          "title": "Fight Club",
+          "uuid": "828b4814-cf6b-47f0-a66f-39fd48b0c1b3"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "Forrest Gump",
+          "uuid": "3ef93348-71f2-46c5-b9c3-46d0216ab03e"
+        },
+        {
+          "country": {},
+          "year": 1993,
+          "director": {},
+          "title": "Schindler's List",
+          "uuid": "c5133feb-406e-47d8-a81d-34e5a2eae775"
+        },
+        {
+          "country": {},
+          "year": 1998,
+          "director": {},
+          "title": "Saving Private Ryan",
+          "uuid": "32c006c3-e0ea-4c31-baa3-53a124d9fadd"
+        },
+        {
+          "country": {},
+          "year": 1995,
+          "director": {},
+          "title": "Toy Story",
+          "uuid": "e82be225-f2fd-44fd-a27d-147683c1e2e6"
+        },
+        {
+          "country": {},
+          "year": 1993,
+          "director": {},
+          "title": "Jurassic Park",
+          "uuid": "9d4cfde3-3479-4584-8a57-5407211bdace"
+        },
+        {
+          "country": "United States",
+          "year": 1995,
+          "director": "John Alan Lasseter",
+          "title": "Toy Story",
+          "uuid": "bc8749aa-870f-46b5-9424-fbb599806df8"
+        },
+        {
+          "country": {},
+          "year": 1995,
+          "director": {},
+          "title": "Toy Story",
+          "uuid": "c6b51ed1-4035-4589-8d1a-5f7ea23e65c6"
+        },
+        {
+          "country": {},
+          "year": 1995,
+          "director": {},
+          "title": "Toy Story",
+          "uuid": "315c48ae-e27f-4c47-9409-b1f4a1484394"
+        },
+        {
+          "country": {},
+          "year": 1991,
+          "director": {},
+          "title": "The Silence Of the Lambs",
+          "uuid": "8c7eabfc-c1c3-4201-ba95-9a325baf0c38"
+        },
+        {
+          "country": {},
+          "year": 1991,
+          "director": {},
+          "title": "The Silence of the Lambs",
+          "uuid": "b0b1b767-69b8-4929-849e-c45dbd718afa"
+        },
+        {
+          "country": {},
+          "year": 1990,
+          "director": {},
+          "title": "The Silence of the Lambs",
+          "uuid": "1b79f15d-9b1e-424f-a876-5db6df153d1e"
+        },
+        {
+          "country": {},
+          "year": 1991,
+          "director": {},
+          "title": "The Silence of the Lambs",
+          "uuid": "f853b2a7-fd19-4da3-bfaf-15864f07a919"
+        },
+        {
+          "country": {},
+          "year": 1991,
+          "director": {},
+          "title": "The Silence of the Lambs",
+          "uuid": "51f13dc2-d8d7-47ed-94b1-e9403c22eb1c"
+        },
+        {
+          "country": {},
+          "year": 1991,
+          "director": {},
+          "title": "The Silence of the Lambs",
+          "uuid": "2358b3c3-d9b7-4ec6-8fa5-031f5bb31a90"
+        },
+        {
+          "country": {},
+          "year": 1991,
+          "director": "Jonathan Demme",
+          "title": "The silence of the lambs",
+          "uuid": "b178562c-90f1-4a08-abdb-4ee83535c2c5"
+        },
+        {
+          "country": {},
+          "year": 1991,
+          "director": {},
+          "title": "The Silence of the Lambs",
+          "uuid": "a402cfe3-fd95-4858-a777-ceef77f69d97"
+        },
+        {
+          "country": "United States",
+          "year": 1991,
+          "director": "Janathan Demme",
+          "title": "The Silence of the Lambs",
+          "uuid": "d8758eac-5b0a-433d-95db-083c0643fef5"
+        },
+        {
+          "country": {},
+          "year": 1991,
+          "director": {},
+          "title": "The Silence of the Lambs",
+          "uuid": "0198b850-1573-429f-a76d-ec16cbdc47e6"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "Pulp Fiction",
+          "uuid": "85eef03d-f7f2-4450-bb56-429b4023f4f6"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "The Shawshank Redemption",
+          "uuid": "85d8f00a-0e8f-482a-ae91-c356d41077cc"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "The Shawshank Redemption",
+          "uuid": "7448e3ef-75e5-4d3d-aaef-e40c3024f78b"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "The Shawshank Redemption",
+          "uuid": "34b17ef7-c264-4e03-aad4-458f5ddb85df"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "The Shawshank Redemption",
+          "uuid": "68d89464-f394-41dd-a508-4ab1e3838fad"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "The Shawshank Redemption",
+          "uuid": "41cc3415-8323-4157-8d47-ba7fa3476b66"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "The Shawshank Redemption",
+          "uuid": "729a83cd-fb1d-4d81-b5e2-ac896b3bf476"
+        },
+        {
+          "country": {},
+          "year": 1992,
+          "director": {},
+          "title": "Reservoir Dogs",
+          "uuid": "a396aed5-1b8f-4377-a81c-8e02f9016514"
+        },
+        {
+          "country": "USA",
+          "year": 1994,
+          "director": "Quentin Tarantino",
+          "title": "Pulp Fiction",
+          "uuid": "45fc6066-8e55-49dd-a432-71fefba350d1"
+        },
+        {
+          "country": "USA",
+          "year": 1994,
+          "director": "Quentin Tarantino",
+          "title": "Pulp Fiction",
+          "uuid": "aeb2e7b4-402a-4f1b-b440-523e975790ee"
+        },
+        {
+          "country": "United States",
+          "year": 1995,
+          "director": "John Lasetter",
+          "title": "Toy Story",
+          "uuid": "3d9fd966-7216-49fe-a455-739379d90d7c"
+        },
+        {
+          "country": {},
+          "year": 1998,
+          "director": {},
+          "title": "The Truman Show",
+          "uuid": "c3a5170c-4ba2-4bab-939e-c1c012a4b125"
+        },
+        {
+          "country": {},
+          "year": 1998,
+          "director": {},
+          "title": "The Truman Show",
+          "uuid": "af0d64ff-4bd4-4132-b88e-dd76462422fb"
+        },
+        {
+          "country": "United States",
+          "year": 1992,
+          "director": "Quentin Tarantino",
+          "title": "Reservoir Dogs",
+          "uuid": "feffbe2d-0fca-4b83-ac4a-795ca5597473"
+        },
+        {
+          "country": "United States",
+          "year": 1994,
+          "director": "Quentin Tarantino",
+          "title": "Pulp Fiction",
+          "uuid": "7cf186a2-85da-4faf-bc28-384fe7baa2c7"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "The Lion King",
+          "uuid": "d876df73-c104-4539-ae70-faf3710b3e6e"
+        },
+        {
+          "country": {},
+          "year": 1995,
+          "director": {},
+          "title": "Toy Story",
+          "uuid": "5684a0c7-e150-4625-b769-25274e8f949e"
+        },
+        {
+          "country": "United States",
+          "year": 1993,
+          "director": "Steven Spielberg",
+          "title": "Jurassic Park",
+          "uuid": "45838742-2846-4e49-83f3-c1f22a7d18ca"
+        },
+        {
+          "country": {},
+          "year": 1992,
+          "director": {},
+          "title": "Reservoir Dogs",
+          "uuid": "933d28b6-71f9-4813-9fec-e6e2155dab77"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "Pulp Fiction",
+          "uuid": "492c429e-3319-4d5d-9179-a8f5e1bf5a8a"
+        },
+        {
+          "country": {},
+          "year": 1992,
+          "director": {},
+          "title": "Reservoir Dogs",
+          "uuid": "fd75290a-3494-4130-8611-73db6af12fb7"
+        },
+        {
+          "country": {},
+          "year": 1992,
+          "director": {},
+          "title": "Reservoir Dogs",
+          "uuid": "bab6093d-b13f-4149-b139-061f883f49c0"
+        },
+        {
+          "country": {},
+          "year": 1993,
+          "director": {},
+          "title": "Jurassic Park",
+          "uuid": "78c5508f-a841-42ec-a87b-b3f2179f4f18"
+        },
+        {
+          "country": "United States",
+          "year": 1998,
+          "director": "Steven Spielberg",
+          "title": "Saving Private Ryan",
+          "uuid": "5ae9cbc0-0505-4883-b1f5-902507915142"
+        },
+        {
+          "country": {},
+          "year": 1997,
+          "director": {},
+          "title": "Titanic",
+          "uuid": "a9368955-a89e-484a-83b0-8fc949121988"
+        },
+        {
+          "country": "United States",
+          "year": 1994,
+          "director": "Quentin Tarantino",
+          "title": "Pulp Fiction",
+          "uuid": "f113f8bb-838a-4026-b5fa-06c1d7bef64f"
+        },
+        {
+          "country": {},
+          "year": 1992,
+          "director": {},
+          "title": "Reservoir Dogs",
+          "uuid": "99642533-3246-4933-abe8-2b4c61c6fdda"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "Pulp Fiction",
+          "uuid": "da8143e2-20e5-491a-a38e-1025eb67e0d5"
+        },
+        {
+          "country": {},
+          "year": 1992,
+          "director": {},
+          "title": "Reservoir Dogs",
+          "uuid": "45490fe5-0278-4e7c-8764-9925e6ab7bba"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "Pulp Fiction",
+          "uuid": "78fd2a32-e4a8-479b-ade3-382a1189d910"
+        },
+        {
+          "country": {},
+          "year": 1999,
+          "director": {},
+          "title": "The Matrix",
+          "uuid": "d7cdef25-d79a-494c-a989-3ee54b8474d2"
+        },
+        {
+          "country": {},
+          "year": 1999,
+          "director": {},
+          "title": "The Matrix",
+          "uuid": "07dfd1f6-2429-4627-986f-ae14eb044ba5"
+        },
+        {
+          "country": "USA",
+          "year": 1995,
+          "director": "John Lasseter",
+          "title": "Toy Story",
+          "uuid": "e9553686-3b6b-48e7-bfcd-dfc9931a6721"
+        },
+        {
+          "country": {},
+          "year": 1999,
+          "director": {},
+          "title": "The Matrix",
+          "uuid": "52695a1f-9969-4576-b94a-787a3ca9e653"
+        },
+        {
+          "country": {},
+          "year": 1991,
+          "director": {},
+          "title": "Terminator 2: Judgment Day",
+          "uuid": "da870e99-d548-4b1f-9c66-965f21c89fe9"
+        },
+        {
+          "country": "USA",
+          "year": 1995,
+          "director": "David Fincher",
+          "title": "Se7en",
+          "uuid": "e100643c-4f42-45ca-8026-a25255437c14"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "The Shawshank Redemption",
+          "uuid": "09c16fa1-7d21-4935-aa13-7a29aec3ffa1"
+        },
+        {
+          "country": {},
+          "year": 1995,
+          "director": {},
+          "title": "Se7en",
+          "uuid": "6315aaa7-3561-4d29-a850-fce6157ef811"
+        },
+        {
+          "country": {},
+          "year": 1999,
+          "director": {},
+          "title": "Fight Club",
+          "uuid": "19f8f1ca-7ee1-4edc-84fe-dc21634b1547"
+        },
+        {
+          "country": {},
+          "year": 1999,
+          "director": {},
+          "title": "Toy Story 2",
+          "uuid": "e50f2fb4-f9ee-49e1-8338-7d0b32accc52"
+        },
+        {
+          "country": {},
+          "year": 1994,
+          "director": {},
+          "title": "Forrest Gump",
+          "uuid": "b049ec54-a513-4a25-a49e-6051b1a3a4ee"
+        },
+        {
+          "country": {},
+          "year": 1993,
+          "director": {},
+          "title": "Jurassic Park",
+          "uuid": "aad213c0-9f0d-44b3-bb71-4b041e37c9ee"
+        },
+        {
+          "country": "USA",
+          "year": 1998,
+          "director": "Steven Spielberg",
+          "title": "Saving Private Ryan",
+          "uuid": "e5209364-a96b-4021-ac52-472edcecf25a"
+        },
+        {
+          "country": "USA",
+          "year": 1992,
+          "director": "Quentin Tarantino",
+          "title": "reservoir dogs",
+          "uuid": "541c48a1-d6a0-4da8-a012-6f9555e18904"
+        },
+        {
+          "country": "USA",
+          "year": 1997,
+          "director": "James Cameron",
+          "title": "Titanic",
+          "uuid": "0e9a80c6-ce7f-45b3-976b-6211e51bd19b"
+        },
+        {
+          "country": "USA",
+          "year": 1995,
+          "director": "John Lasseter",
+          "title": "Toy Story",
+          "uuid": "44cc6cf3-a976-429e-bd0d-0cfd762cd0c0"
+        },
+        {
+          "country": "USA",
+          "year": 1992,
+          "director": "Quentin Tarantino",
+          "title": "Reservoir Dogs",
+          "uuid": "bf924894-3f85-4d2e-8ec1-33ad05fe3c79"
+        },
+        {
+          "country": "USA",
+          "year": 1992,
+          "director": "Quentin Tarantino",
+          "title": "Reservoir Dogs",
+          "uuid": "d4d58472-6c6a-4053-b1c3-015d77db4301"
+        },
+        {
+          "country": "USA",
+          "year": 1994,
+          "director": "Quentin Tarantino",
+          "title": "Pulp Fiction",
+          "uuid": "0839b89e-58de-4b9a-a0b9-f9fc3c9853f3"
+        }
+      ],
+      "directory_pages_read": 2
+    },
+    {
+      "decade": 2000,
+      "reported_measurements": 49,
+      "returned_rows": 49,
+      "rows": [
+        {
+          "country": {},
+          "year": 2002,
+          "director": "Sam Raimi",
+          "title": "Spider-Man",
+          "uuid": "bf14f35d-9d19-4f3b-ab42-dd36da75ef24"
+        },
+        {
+          "country": {},
+          "year": 2008,
+          "director": {},
+          "title": "The Dark Knight",
+          "uuid": "e14707e4-56f2-4bd5-992e-8eebbb602df9"
+        },
+        {
+          "country": {},
+          "year": 2008,
+          "director": {},
+          "title": "The Dark Knight",
+          "uuid": "a1381fc0-7a11-426e-aa72-ca3ce9d44a46"
+        },
+        {
+          "country": {},
+          "year": 2008,
+          "director": {},
+          "title": "The Dark Knight",
+          "uuid": "976df9ec-d800-4470-ab36-a676507b5b92"
+        },
+        {
+          "country": {},
+          "year": 2008,
+          "director": {},
+          "title": "Iron Man",
+          "uuid": "2c1f1942-55e2-4858-89e3-8834b55be7c5"
+        },
+        {
+          "country": {},
+          "year": 2008,
+          "director": {},
+          "title": "Iron Man",
+          "uuid": "a55ef650-a7cf-4425-bbfd-e589eeaf9d49"
+        },
+        {
+          "country": {},
+          "year": 2002,
+          "director": {},
+          "title": "Spider-man",
+          "uuid": "8a9168a3-9a05-41d9-8bc3-3711f9d0b6c9"
+        },
+        {
+          "country": {},
+          "year": 2002,
+          "director": {},
+          "title": "Spider-man",
+          "uuid": "a42d6ad6-2e95-4fb9-bd1c-fb7d763ae939"
+        },
+        {
+          "country": "United States",
+          "year": 2002,
+          "director": "Sam Raimi",
+          "title": "Spider-man",
+          "uuid": "b4f26ade-3c47-4c48-a569-9c9cbded1bfb"
+        },
+        {
+          "country": {},
+          "year": 2000,
+          "director": {},
+          "title": "Gladiator",
+          "uuid": "83689c7f-5d62-4867-862a-6f02dc4e4406"
+        },
+        {
+          "country": {},
+          "year": 2001,
+          "director": {},
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "uuid": "38763eaa-acc8-4763-beb1-953c059eda6d"
+        },
+        {
+          "country": {},
+          "year": 2001,
+          "director": {},
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "uuid": "fdc6ece0-184f-4304-bf78-07129173960d"
+        },
+        {
+          "country": {},
+          "year": 2008,
+          "director": {},
+          "title": "the dark knight",
+          "uuid": "50881dbe-78e8-4f3b-8df5-7edae30aed46"
+        },
+        {
+          "country": {},
+          "year": 2008,
+          "director": {},
+          "title": "The Dark Knight",
+          "uuid": "8159971e-c20c-440f-87e1-b4a001a09b79"
+        },
+        {
+          "country": {},
+          "year": 2009,
+          "director": {},
+          "title": "Inglourious Basterds",
+          "uuid": "8abc9498-c7e4-47bb-b80c-ac31d270483c"
+        },
+        {
+          "country": {},
+          "year": 2004,
+          "director": {},
+          "title": "Harry Potter and the Prisoner of Azkaban",
+          "uuid": "0a442962-af00-4e5f-a73c-28af0411e466"
+        },
+        {
+          "country": {},
+          "year": 2002,
+          "director": {},
+          "title": "Spider-Man",
+          "uuid": "a56d4365-b729-4555-aa93-81e1acb67bae"
+        },
+        {
+          "country": "Philippines",
+          "year": 2000,
+          "director": "uSiBQqCrfFDEFsmwx",
+          "title": "Gladiator",
+          "uuid": "80b7ad44-b298-48d1-9abe-ea46bff05d0c"
+        },
+        {
+          "country": {},
+          "year": 2009,
+          "director": {},
+          "title": "Avatar",
+          "uuid": "d97886db-c313-4c93-9b6b-1f47219c6b12"
+        },
+        {
+          "country": "United States",
+          "year": 2009,
+          "director": "Pete Docter",
+          "title": "Up",
+          "uuid": "9f8e2411-4f5a-42d8-9fb0-091d28ee425f"
+        },
+        {
+          "country": {},
+          "year": 2009,
+          "director": {},
+          "title": "Avatar",
+          "uuid": "90a8cf0c-5642-44db-89a0-1ccfb562f23c"
+        },
+        {
+          "country": "United States",
+          "year": 2009,
+          "director": "Quentin Tarantino",
+          "title": "Inglourious Basterds",
+          "uuid": "9c4e3ba9-1267-40c1-b37f-ec53ac4aa853"
+        },
+        {
+          "country": {},
+          "year": 2000,
+          "director": {},
+          "title": "Gladiator",
+          "uuid": "a8519994-8b74-4cb3-8f6c-8051070f4250"
+        },
+        {
+          "country": "United Kingdom",
+          "year": 2009,
+          "director": "David Yates",
+          "title": "Harry Potter and the Half-Blood Prince",
+          "uuid": "76c58f0d-13ea-4e64-98ae-9b5229e9c049"
+        },
+        {
+          "country": "United States",
+          "year": 2008,
+          "director": "Jon Favreau",
+          "title": "Iron Man",
+          "uuid": "5741910d-564b-4df8-b544-cc0d1b04d691"
+        },
+        {
+          "country": {},
+          "year": 2003,
+          "director": {},
+          "title": "Finding Nemo",
+          "uuid": "2c0f985b-e553-4ee8-a5f2-8d2dd9f37802"
+        },
+        {
+          "country": {},
+          "year": 2002,
+          "director": {},
+          "title": "Spider-man",
+          "uuid": "9842ea5d-b7d2-4f3f-b5cc-3ddb2f162db7"
+        },
+        {
+          "country": {},
+          "year": 2009,
+          "director": {},
+          "title": "Inglourious Basterds",
+          "uuid": "675d97da-5e7b-499f-9991-c4d2c44fbbda"
+        },
+        {
+          "country": {},
+          "year": 2002,
+          "director": {},
+          "title": "Spider-man",
+          "uuid": "a4ac7f1c-46c0-4403-b18f-1cac5736f16a"
+        },
+        {
+          "country": {},
+          "year": 2009,
+          "director": {},
+          "title": "Inglourious Basterds",
+          "uuid": "dbd6aa5c-744e-496c-868a-adf3579746a4"
+        },
+        {
+          "country": {},
+          "year": 2009,
+          "director": {},
+          "title": "Avatar",
+          "uuid": "45263c51-a195-4cba-aa72-bacc59d9f0f8"
+        },
+        {
+          "country": {},
+          "year": 2009,
+          "director": {},
+          "title": "Avatar",
+          "uuid": "8af8d813-cd3e-4c90-a25b-87531b0e8aa3"
+        },
+        {
+          "country": {},
+          "year": 2009,
+          "director": {},
+          "title": "Avatar",
+          "uuid": "089c8e02-4869-4f00-b66b-cf4eeb378d6c"
+        },
+        {
+          "country": {},
+          "year": 2009,
+          "director": {},
+          "title": "Avatar",
+          "uuid": "df7f1b94-ca80-49bd-b98e-c9f55b64bc55"
+        },
+        {
+          "country": "USA",
+          "year": 2004,
+          "director": "Alfonso Cuarn",
+          "title": "Harry Potter and the Prisoner of Azkaban",
+          "uuid": "d31a5090-3f5e-4e66-b611-730a36cc1180"
+        },
+        {
+          "country": "USA",
+          "year": 2005,
+          "director": "Mike Newell",
+          "title": "Harry Potter and the Goblet of Fire",
+          "uuid": "515c72ab-b916-4262-b336-31ab2a3af484"
+        },
+        {
+          "country": "USA",
+          "year": 2007,
+          "director": "David Yates",
+          "title": "Harry Potter and the Order of the Phoenix",
+          "uuid": "3d2af232-7d5b-48a9-8047-228ebd226524"
+        },
+        {
+          "country": "USA",
+          "year": 2008,
+          "director": "Christopher Nolan",
+          "title": "The Dark Knight",
+          "uuid": "def26d02-034d-4d3f-8cd4-93096402551f"
+        },
+        {
+          "country": "USA",
+          "year": 2005,
+          "director": "Christopher Nolan",
+          "title": "Batman Begins",
+          "uuid": "8127bed8-08ca-4de9-b4e1-664f612efec5"
+        },
+        {
+          "country": "USA",
+          "year": 2005,
+          "director": "Christopher Nolan",
+          "title": "Batman Begins",
+          "uuid": "4c13c043-a9cb-4574-8418-6134a93c1ae4"
+        },
+        {
+          "country": "USA",
+          "year": 2005,
+          "director": "Christopher Nolan",
+          "title": "Batman Begins",
+          "uuid": "9b7b5faa-ae7d-4683-a43d-86a8c5b742fc"
+        },
+        {
+          "country": {},
+          "year": 2009,
+          "director": {},
+          "title": "Inglourious Basterds",
+          "uuid": "993fbc3e-41d2-4104-8bd9-81484dcd9c7b"
+        },
+        {
+          "country": "USA",
+          "year": 2008,
+          "director": "Christopher Nolan",
+          "title": "The Dark Knight",
+          "uuid": "e337b8f3-51bb-46cc-8d00-b792967a50c4"
+        },
+        {
+          "country": "USA",
+          "year": 2007,
+          "director": "David Yates",
+          "title": "Harry Potter and the Order of the Phoenix",
+          "uuid": "2cb51c34-e8c1-42ed-820b-de2390d0d31f"
+        },
+        {
+          "country": {},
+          "year": 2009,
+          "director": {},
+          "title": "Inglourious Basterds",
+          "uuid": "f6167d76-9c0d-4026-8ded-e9516e596ec7"
+        },
+        {
+          "country": "USA",
+          "year": 2009,
+          "director": "James Cameron",
+          "title": "Avatar",
+          "uuid": "7bd453e8-21c0-4ca2-8d4c-62402146e1d2"
+        },
+        {
+          "country": "USA",
+          "year": 2009,
+          "director": "Quentin Tarantino",
+          "title": "Inglourious Basterds",
+          "uuid": "3fca354c-d50b-420b-8187-1396970102e1"
+        },
+        {
+          "country": "USA",
+          "year": 2003,
+          "director": "Andrew Stanton, Lee Unkrich (co-director)",
+          "title": "Finding Nemo",
+          "uuid": "5c3d4c46-c865-425f-a8ff-604107b44656"
+        },
+        {
+          "country": "USA",
+          "year": 2005,
+          "director": "Christopher Nolan",
+          "title": "Batman Begins",
+          "uuid": "8797e567-8538-4781-bbf3-6cce0de986c1"
+        }
+      ],
+      "directory_pages_read": 1
+    },
+    {
+      "decade": 2010,
+      "reported_measurements": 43,
+      "returned_rows": 43,
+      "rows": [
+        {
+          "country": {},
+          "year": 2019,
+          "director": "Todd Phillips",
+          "title": "Joker",
+          "uuid": "e90ffbfb-782d-490a-8101-0032131dd414"
+        },
+        {
+          "country": {},
+          "year": 2018,
+          "director": "Anthony Russo and Joe Russo",
+          "title": "Avengers: Infinity War",
+          "uuid": "2288d3ec-5389-4eee-a1e3-63a309ccb0ee"
+        },
+        {
+          "country": {},
+          "year": 2018,
+          "director": "Ryan Coogler",
+          "title": "Black Panther",
+          "uuid": "8bc5b6a6-7bde-41c0-b622-def8927f425c"
+        },
+        {
+          "country": "Australia",
+          "year": 2015,
+          "director": "Goerge Miller",
+          "title": "Mad Max: Fury Road",
+          "uuid": "fa4c4d7f-3d2d-4eb1-b98e-3f6d83c65284"
+        },
+        {
+          "country": {},
+          "year": 2014,
+          "director": {},
+          "title": "INTERSTELLAR",
+          "uuid": "8f1c2850-62e5-4402-8e8f-9b51ee0c5435"
+        },
+        {
+          "country": {},
+          "year": 2014,
+          "director": {},
+          "title": "interstellar",
+          "uuid": "4d0f959f-d97a-4295-96b5-be9296672680"
+        },
+        {
+          "country": {},
+          "year": 2012,
+          "director": {},
+          "title": "Django Unchained",
+          "uuid": "b6f044b0-c17a-4825-ba94-6a78c389bb45"
+        },
+        {
+          "country": {},
+          "year": 2014,
+          "director": {},
+          "title": "Interstellar",
+          "uuid": "2ea2c8ad-8ff0-4cdb-8307-eb05f00b39a2"
+        },
+        {
+          "country": {},
+          "year": 2013,
+          "director": {},
+          "title": "The Wolf of Wall Street",
+          "uuid": "88d713cd-253f-493e-80d8-158685f6e6c6"
+        },
+        {
+          "country": {},
+          "year": 2019,
+          "director": {},
+          "title": "Avengers: Endgame",
+          "uuid": "de7486ec-f603-44a3-8680-154fd615a759"
+        },
+        {
+          "country": "United States",
+          "year": 2015,
+          "director": "Joss Whedon",
+          "title": "Avengers: Age of Ultron",
+          "uuid": "7ab6fb05-0aef-46a6-b1de-2e6cd1ba240d"
+        },
+        {
+          "country": {},
+          "year": 2014,
+          "director": {},
+          "title": "interstellar",
+          "uuid": "4498a7c9-4f03-4bf8-8820-021bb9f87be9"
+        },
+        {
+          "country": {},
+          "year": 2014,
+          "director": {},
+          "title": "Interstellar",
+          "uuid": "a5da8319-d7b6-4cc6-bf99-db7c0486f87d"
+        },
+        {
+          "country": {},
+          "year": 2017,
+          "director": {},
+          "title": "Spider-man: Homecoming",
+          "uuid": "5f3e1e47-f344-40aa-835e-c198265130d9"
+        },
+        {
+          "country": "United States",
+          "year": 2017,
+          "director": "Jon Watts",
+          "title": "Spider-man: Homecoming",
+          "uuid": "5dc9aefa-bf4b-447f-8466-f6c301c05a00"
+        },
+        {
+          "country": {},
+          "year": 2015,
+          "director": {},
+          "title": "Avengers: Age of Ultron",
+          "uuid": "c121a5f8-28bb-4717-ab3a-9dd12411a93c"
+        },
+        {
+          "country": {},
+          "year": 2018,
+          "director": {},
+          "title": "Avengers: Infinity War",
+          "uuid": "de4be9bf-d041-4fca-8265-ed0745b5ca03"
+        },
+        {
+          "country": "United States",
+          "year": 2019,
+          "director": "Todd Phillips",
+          "title": "Joker",
+          "uuid": "1ebaf976-78f3-4b31-8116-65b9378d25ac"
+        },
+        {
+          "country": {},
+          "year": 2012,
+          "director": {},
+          "title": "The Avengers",
+          "uuid": "975aab63-5d52-487b-9ee6-32e38fce652e"
+        },
+        {
+          "country": {},
+          "year": 2012,
+          "director": {},
+          "title": "The Hunger Games",
+          "uuid": "64cd54e4-c1c2-4b55-b54d-d7d5db464b09"
+        },
+        {
+          "country": "United States",
+          "year": 2010,
+          "director": "Christopher Nolan",
+          "title": "Inception",
+          "uuid": "e3cea7f6-1cb1-450c-99c3-c97fab539eaa"
+        },
+        {
+          "country": {},
+          "year": 2015,
+          "director": {},
+          "title": "Inside Out",
+          "uuid": "c2bd9a05-5751-405b-8b85-7db69f65bae8"
+        },
+        {
+          "country": "United States",
+          "year": 2012,
+          "director": "Garry Ross",
+          "title": "The Hunger Games",
+          "uuid": "d53e9074-e415-40c7-935a-e5b4cc19104e"
+        },
+        {
+          "country": {},
+          "year": 2012,
+          "director": {},
+          "title": "The Hunger Games",
+          "uuid": "78aa38a9-d944-4ca6-a921-3128e2ecf1f6"
+        },
+        {
+          "country": "United States",
+          "year": 2014,
+          "director": "Christopher Nolan",
+          "title": "Interstellar",
+          "uuid": "4fb4e5e8-f7cb-4b29-95cf-0d0e21b98991"
+        },
+        {
+          "country": "USA, Australia",
+          "year": 2015,
+          "director": "George Miller",
+          "title": "Mad Max: Fury Road",
+          "uuid": "2ca9f589-167a-4488-bb9d-a7e48575fffc"
+        },
+        {
+          "country": {},
+          "year": 2010,
+          "director": {},
+          "title": "Inception",
+          "uuid": "9260a4ee-ddfe-4a2a-bb0e-d2e67afedb79"
+        },
+        {
+          "country": {},
+          "year": 2010,
+          "director": {},
+          "title": "Inception",
+          "uuid": "5f09c56e-7bc1-4527-b794-29554fee64e8"
+        },
+        {
+          "country": "United States",
+          "year": 2014,
+          "director": "Christopher Nolan",
+          "title": "Interstellar",
+          "uuid": "493d0bc1-106d-4434-a048-b68f191a2a43"
+        },
+        {
+          "country": {},
+          "year": 2014,
+          "director": {},
+          "title": "Guardians of the Galaxy",
+          "uuid": "fc9a1773-c22d-4b94-ace0-56a58711b0c4"
+        },
+        {
+          "country": {},
+          "year": 2010,
+          "director": {},
+          "title": "Shutter Island",
+          "uuid": "d2878471-a965-4e49-b499-02c5c36f3b72"
+        },
+        {
+          "country": "United States",
+          "year": 2012,
+          "director": "Quentin Tarantino",
+          "title": "Django Unchained",
+          "uuid": "72f4835f-a945-4cfa-a5f8-66fafb703449"
+        },
+        {
+          "country": {},
+          "year": 2012,
+          "director": {},
+          "title": "The Avengers",
+          "uuid": "2a412e1a-2024-4204-a84b-36f038b9bd60"
+        },
+        {
+          "country": {},
+          "year": 2012,
+          "director": {},
+          "title": "The Hunger Games",
+          "uuid": "d0a0397b-ee80-4590-aab1-2b95f35308e4"
+        },
+        {
+          "country": {},
+          "year": 2012,
+          "director": {},
+          "title": "The Avengers",
+          "uuid": "3e89d3a9-8404-4953-a03e-41a7565f992a"
+        },
+        {
+          "country": "United States",
+          "year": 2012,
+          "director": "Christopher Nolan",
+          "title": "The Dark Knight Rises",
+          "uuid": "f38c7516-b194-4724-9cac-3767a53ca798"
+        },
+        {
+          "country": {},
+          "year": 2010,
+          "director": {},
+          "title": "Inception",
+          "uuid": "d0447034-75b0-4b6c-9075-bc4315016f37"
+        },
+        {
+          "country": "USA",
+          "year": 2010,
+          "director": "Christopher Nolan",
+          "title": "Inception",
+          "uuid": "76624b31-94ae-4b8c-b0a8-8ce6d4c49aa1"
+        },
+        {
+          "country": "USA",
+          "year": 2010,
+          "director": "Christopher Nolan",
+          "title": "Inception",
+          "uuid": "7919b262-be26-4487-b44d-05efae04a92f"
+        },
+        {
+          "country": "USA",
+          "year": 2010,
+          "director": "Martin Scorsese",
+          "title": "Shutter Island",
+          "uuid": "7feab94c-18ea-45b7-9df2-28c16fec39e6"
+        },
+        {
+          "country": "USA",
+          "year": 2010,
+          "director": "Christopher Nolan",
+          "title": "Inception",
+          "uuid": "62a30b3f-76b2-4af0-9b0d-0214b34e972c"
+        },
+        {
+          "country": {},
+          "year": 2010,
+          "director": {},
+          "title": "Shutter Island",
+          "uuid": "371d2000-9a96-4ae0-ada8-7641a95e00b3"
+        },
+        {
+          "country": {},
+          "year": 2010,
+          "director": {},
+          "title": "Shutter Island",
+          "uuid": "0de1693a-eb08-4540-ae51-e01d6c8c696b"
+        }
+      ],
+      "directory_pages_read": 1
+    }
+  ]
+}

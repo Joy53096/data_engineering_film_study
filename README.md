@@ -1,30 +1,34 @@
-# Film shot lengths, 1950–1999
+# Film shot lengths, 1970–2019
 
 This project collects shot statistics from Cinemetrics and metadata from Wikidata. TMDB provides ratings and vote counts for checking a larger candidate pool. It explores changes across decades and genres, and whether average and median shot lengths tell the same story.
 
-The current starter sample focuses on well-known films. It is a purposive sample, so its results will describe the selected classics rather than all films.
+The main candidate pool now covers 1970–2019. It uses TMDB ratings and vote counts, with the same cutoffs in every decade. A vote-ranked candidate list is purposive, so later results will describe selected films rather than all cinema. Earlier 1950–1999 files remain as pilot evidence.
 
 ## Current stage
 
 - The Titanic demo shows one HTML/API match.
-- `Film_Selection.ipynb` reads one TMDB results page per decade, sorted by vote count: 100 candidates from five successful requests. No rating or vote-count cutoff has been chosen. These candidates have not been matched to Cinemetrics.
-- `film_list.json` proposes five familiar films per decade: 25 candidates in total.
+- `Film_Selection.ipynb` collects one TMDB page per decade from 1970 to 2019, then requests film details. The student confirmed rating >= 7.0 and vote count >= 1,000. Identity and full-film measurement checks remain pending.
+- The earlier `film_list.json` contains 25 familiar 1950–1999 pilot candidates. It is not the new main sample.
 - Twenty-three titles refer to Douban Top 250; two use the BFI Sight and Sound 2022 critics' list. The source, rank, audience score where available, and check date are recorded separately. These measures are not combined.
-- Page links were found for 22 candidates in a bounded title/year directory check. Three remain pending; this does not prove that the site has no matching measurement.
-- Identity and full-film boundaries still need review. No final sample or decade trend is claimed. The project remains below the course's 2,000-record requirement.
+- The earlier 25-film pilot found links for 22 titles. Its files and review flags remain separate from the new candidate pool.
+- The current batch contains 253 parsed HTML measurements for 80 of the 100 candidates. After recorded identity/duration/source checks and one-per-film selection, 54 films form a provisional working sample. No decade trend is claimed. The project remains below the written 2,000-record requirement.
 
 ## Main files
 
 | File or folder | Purpose |
 | --- | --- |
 | `Titanic_Demo.ipynb` | Short one-film walkthrough |
-| `Film_Selection.ipynb` | Check TMDB candidates before setting final selection rules |
-| `Film_Collection.ipynb` | Read the list, request HTML/API data, match and save |
-| `film_list.json` | Editable titles, years, source links, item IDs and ranking references |
-| `01_raw/ranked_films/` | Current saved responses, logs and source-discovery evidence |
+| `Film_Selection.ipynb` | Collect 1970–2019 candidates with confirmed rating/vote cutoffs and film details |
+| `Film_Collection.ipynb` | Fetch Cinemetrics measurement pages and join the current TMDB candidates |
+| `film_list.json` | Earlier pilot titles, source links, item IDs and ranking references |
+| `01_raw/ranked_films/` | Earlier 25-film pilot responses and logs |
+| `01_raw/candidate_links/` | Directory lookups and candidate-page link checks |
+| `01_raw/film_measurements/` | Current HTML responses, input snapshot and logs |
 | `01_raw/tmdb_candidates/` | TMDB candidate responses and request logs |
-| `02_audit/tmdb_candidates.json` | The 100 candidates and collection checks |
-| `02_audit/ranked_films.json` | Output from the current collector |
+| `02_audit/tmdb_candidates.json` | The current TMDB candidates, film details and collection checks |
+| `02_audit/ranked_films.json` | Earlier 25-film pilot output |
+| `02_audit/film_measurements.json` | Current HTML/API measurement records and review flags |
+| `data_passport.json` | Active collection window, request outcomes, units and field dictionary |
 | `04_process/session_notes.md` | Development history and known problems |
 
 Earlier coverage and identity-review files remain as process evidence. They are separate from the new candidate list. The first Git commit preserves the earlier notebook version.
@@ -41,25 +45,41 @@ python -m venv .venv
 
 Open a notebook and select **Restart Kernel and Run All Cells**. Each notebook runs independently. Keep the three notebook files beside `01_raw`.
 
-All three notebooks default to `live = False`, which reads saved responses. Set `live = True` for new requests. After editing the film list, collect a new batch before replaying it. A live run creates a new folder and saves raw responses and a request log. Keep each complete run folder together with its `latest_run.txt` pointer when committing evidence.
+All three notebooks default to `live = False`, which reads saved responses. Set `live = True` for new requests. After editing the film list, collect a new batch before replaying it. A live run creates a new folder and saves raw responses and a request log. Keep each complete run folder together with its `latest_run.txt` pointer when committing evidence. The current order is `Film_Selection.ipynb` then `Film_Collection.ipynb`; the Titanic demo is a separate walkthrough.
 
-To add a film, copy its public Cinemetrics page URL and Wikidata item ID into the list, then check its title, year and director. The teaching notebook does not run the earlier directory-query or automatic-search system.
+The HTML collector reads a saved, reviewed directory-link input. Exact-title directory lookups are a discovery step; title/year matches do not alone approve identity. A failed lookup does not prove that Cinemetrics has no measurement. Repeat measurements are retained as separate records for review. The shorter teaching notebook does not contain the directory-query engine.
 
-## TMDB candidate check
+## Collection standard
 
-Run `Film_Selection.ipynb` before expanding the film list. Its default mode reads the saved responses without a token. To make new requests, create a local `.env` file with `TMDB_READ_TOKEN=your_token`, then set `live = True`. Never print the token or headers. `.env` is ignored by Git.
+| Item | Rule |
+| --- | --- |
+| Window | 1970-01-01 through 2019-12-31, grouped into five decades |
+| Rating source | TMDB; do not mix Douban or IMDb scores into this cutoff |
+| Rating cutoff | At least 7.0, confirmed by the student |
+| Vote cutoff | At least 1,000 ratings, confirmed by the student |
+| Candidate order | Vote count descending, using the same query in every decade |
+| Current request budget | One page / up to 20 candidates per decade; this is not a final sample quota |
+| Country and genre | No restrictions; retain all production countries and genre names |
+| Eligible film scope | Feature films; exclude TV episodes, shorts, clips and excerpt measurements |
+| Required match | Shared IMDb ID and year, or a documented manual title/year/director check |
+| Duration screen | Measured seconds / (TMDB runtime minutes * 60) from 0.90 through 1.10, confirmed by the student |
+| Shot measurements | Require supported identity, positive finite fields, no clear partial wording and no source accuracy warning |
+| Duplicates | One film in the working table: choose the passing measurement closest to reference runtime, then page ID for a fixed tie-break; keep all alternatives |
+| Missing or unclear evidence | Keep pending; do not invent shot data or silently replace a failed title |
 
-This check uses page 1 from each decade and sorts by vote count. It is not a random sample or a final list of classics. No country or genre cutoff is applied; English labels do not mean English-only films. Original language does not establish production country. Shorts and full-film measurement boundaries still need review.
+Screen ratings and vote counts from the saved discovery response. Keep detail-response values separately if they differ. Both describe the request-time data. No film is selected by its average shot length or whether it supports a decade trend. These rules are applied to each measurement before counting it in the working sample and before trend analysis. A duration over one hour alone does not establish a whole film. Rejected records keep their reasons; replacements should follow the same vote-ranked candidate order. A final whole-dataset audit is still needed. Future rule changes must be recorded.
 
-All five saved responses report 20,001 results and 1,001 pages. These totals were not verified and are not used as coverage estimates. Only the 100 returned records are counted here. The existing 25-film pilot stays separate.
+Run `Film_Selection.ipynb` to read the saved candidate pool and film details. Its default is `live = False`, which does not need a token. For new requests, use a local `.env` file containing `TMDB_READ_TOKEN=your_token` and set `live = True`. Never print the token or request headers. `.env` is ignored by Git. If your network needs a proxy, add an optional `HTTPS_PROXY` URL to that local file; the collector uses it only for requests.
+
+The candidate pool comes from the first page ordered by vote count. English labels and original language do not establish production country. Date, rating and vote checks do not prove that a film has usable Cinemetrics data. The first screened working sample contains 54 films (13, 13, 8, 11 and 9 by decade). It is provisional: source editions and playback speed were not independently verified. Final sample size is not yet fixed. Earlier runs remain in their dated raw folders; only the latest pointer identifies the active candidate run.
 
 ## What the collector keeps
 
 HTML: title, year, IMDb links, shot count, measured duration, ASL, MSL and contributor comment.
 
-API: IMDb IDs, release years, directors, countries, genres and runtimes. Multiple values are retained and IDs receive readable labels. The published shot statistics are read from the source.
+API: TMDB IMDb ID, release date, runtime, all production countries, genre names, overview, rating and vote count. Discovery and detail values are retained separately when they can change. Wikidata remains the API source for the Titanic demo and earlier pilots. The published shot statistics are read from the HTML source.
 
-A shared IMDb ID and supported year are labelled as an identity match. Other records stay marked for review. A match does not establish full-film measurement. Article text is still pending. The earlier Top Gun excerpt remains a saved teaching example in the notebook.
+Identity uses a shared IMDb ID and year, or exact title/year plus a shared director name. Other records stay marked for review. Identity alone does not establish full-film measurement. The working sample uses the recorded duration and source-wording screens; edition and playback uncertainty remain explicit limitations. The current pool includes TMDB overviews for later text work; that analysis has not started. The earlier Top Gun excerpt remains documented in the pilot audit and Git history.
 
 ## Sources and assistance
 

@@ -1,0 +1,4668 @@
+{
+  "stage": "candidate collection; identity and full-film checks pending",
+  "run_id": "20261110T090154767976Z",
+  "source": "TMDB discover/movie",
+  "sort_by": "vote_count.desc",
+  "date_start": "1970-01-01",
+  "date_end": "2019-12-31",
+  "rating_cutoff": 7.0,
+  "vote_count_cutoff": 1000,
+  "rules_status": "cutoffs confirmed by student",
+  "pages_per_decade": 1,
+  "country_restriction": null,
+  "required_scope": "feature film and full-film Cinemetrics measurement",
+  "collector": "AI-assisted acquisition; numerical cutoffs confirmed by student",
+  "final_sample_size": null,
+  "checks": [
+    {
+      "decade": "1970s",
+      "page_read": 1,
+      "returned": 20,
+      "api_reported_total": 95,
+      "api_reported_pages": 5,
+      "blank_overviews": 0
+    },
+    {
+      "decade": "1980s",
+      "page_read": 1,
+      "returned": 20,
+      "api_reported_total": 154,
+      "api_reported_pages": 8,
+      "blank_overviews": 0
+    },
+    {
+      "decade": "1990s",
+      "page_read": 1,
+      "returned": 20,
+      "api_reported_total": 269,
+      "api_reported_pages": 14,
+      "blank_overviews": 0
+    },
+    {
+      "decade": "2000s",
+      "page_read": 1,
+      "returned": 20,
+      "api_reported_total": 397,
+      "api_reported_pages": 20,
+      "blank_overviews": 0
+    },
+    {
+      "decade": "2010s",
+      "page_read": 1,
+      "returned": 20,
+      "api_reported_total": 594,
+      "api_reported_pages": 30,
+      "blank_overviews": 0
+    }
+  ],
+  "records": [
+    {
+      "tmdb_id": 238,
+      "title": "The Godfather",
+      "original_title": "The Godfather",
+      "release_date": "1972-03-14",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 1,
+      "rating": 8.689,
+      "vote_count": 23952,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/238",
+      "imdb_id": "tt0068646",
+      "runtime_minutes": 175,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "title_details": "The Godfather",
+      "release_date_details": "1972-03-14",
+      "rating_details": 8.688,
+      "vote_count_details": 23951,
+      "overview_details": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "director_ids": [
+        1776
+      ]
+    },
+    {
+      "tmdb_id": 11,
+      "title": "Star Wars",
+      "original_title": "Star Wars",
+      "release_date": "1977-05-25",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 2,
+      "rating": 8.2,
+      "vote_count": 23146,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/11",
+      "imdb_id": "tt0076759",
+      "runtime_minutes": 121,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "title_details": "Star Wars",
+      "release_date_details": "1977-05-25",
+      "rating_details": 8.2,
+      "vote_count_details": 23146,
+      "overview_details": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "George Lucas"
+      ],
+      "director_ids": [
+        1
+      ]
+    },
+    {
+      "tmdb_id": 348,
+      "title": "Alien",
+      "original_title": "Alien",
+      "release_date": "1979-05-25",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 3,
+      "rating": 8.176,
+      "vote_count": 17101,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/348",
+      "imdb_id": "tt0078748",
+      "runtime_minutes": 117,
+      "countries": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "country_codes": [
+        "US",
+        "GB"
+      ],
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "title_details": "Alien",
+      "release_date_details": "1979-05-25",
+      "rating_details": 8.176,
+      "vote_count_details": 17101,
+      "overview_details": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "director_ids": [
+        578
+      ]
+    },
+    {
+      "tmdb_id": 240,
+      "title": "The Godfather Part II",
+      "original_title": "The Godfather Part II",
+      "release_date": "1974-12-20",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 4,
+      "rating": 8.572,
+      "vote_count": 14594,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/240",
+      "imdb_id": "tt0071562",
+      "runtime_minutes": 202,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "title_details": "The Godfather Part II",
+      "release_date_details": "1974-12-20",
+      "rating_details": 8.572,
+      "vote_count_details": 14594,
+      "overview_details": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "director_ids": [
+        1776
+      ]
+    },
+    {
+      "tmdb_id": 185,
+      "title": "A Clockwork Orange",
+      "original_title": "A Clockwork Orange",
+      "release_date": "1971-10-28",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 5,
+      "rating": 8.167,
+      "vote_count": 14299,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        80
+      ],
+      "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/185",
+      "imdb_id": "tt0066921",
+      "runtime_minutes": 137,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Science Fiction",
+        "Crime"
+      ],
+      "title_details": "A Clockwork Orange",
+      "release_date_details": "1971-10-28",
+      "rating_details": 8.167,
+      "vote_count_details": 14299,
+      "overview_details": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "director_ids": [
+        240
+      ]
+    },
+    {
+      "tmdb_id": 103,
+      "title": "Taxi Driver",
+      "original_title": "Taxi Driver",
+      "release_date": "1976-02-09",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 6,
+      "rating": 8.115,
+      "vote_count": 13997,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/103",
+      "imdb_id": "tt0075314",
+      "runtime_minutes": 114,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "title_details": "Taxi Driver",
+      "release_date_details": "1976-02-09",
+      "rating_details": 8.115,
+      "vote_count_details": 13997,
+      "overview_details": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "director_ids": [
+        1032
+      ]
+    },
+    {
+      "tmdb_id": 578,
+      "title": "Jaws",
+      "original_title": "Jaws",
+      "release_date": "1975-06-20",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 7,
+      "rating": 7.686,
+      "vote_count": 12017,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53,
+        12
+      ],
+      "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/578",
+      "imdb_id": "tt0073195",
+      "runtime_minutes": 124,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Adventure"
+      ],
+      "title_details": "Jaws",
+      "release_date_details": "1975-06-20",
+      "rating_details": 7.686,
+      "vote_count_details": 12017,
+      "overview_details": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "director_ids": [
+        488
+      ]
+    },
+    {
+      "tmdb_id": 510,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "original_title": "One Flew Over the Cuckoo's Nest",
+      "release_date": "1975-11-19",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 8,
+      "rating": 8.4,
+      "vote_count": 11956,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/510",
+      "imdb_id": "tt0073486",
+      "runtime_minutes": 135,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "title_details": "One Flew Over the Cuckoo's Nest",
+      "release_date_details": "1975-11-19",
+      "rating_details": 8.4,
+      "vote_count_details": 11956,
+      "overview_details": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Miloš Forman"
+      ],
+      "director_ids": [
+        3974
+      ]
+    },
+    {
+      "tmdb_id": 28,
+      "title": "Apocalypse Now",
+      "original_title": "Apocalypse Now",
+      "release_date": "1979-05-19",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 9,
+      "rating": 8.256,
+      "vote_count": 9543,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/28",
+      "imdb_id": "tt0078788",
+      "runtime_minutes": 147,
+      "countries": [
+        "United States of America",
+        "Philippines"
+      ],
+      "country_codes": [
+        "US",
+        "PH"
+      ],
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "title_details": "Apocalypse Now",
+      "release_date_details": "1979-05-19",
+      "rating_details": 8.256,
+      "vote_count_details": 9543,
+      "overview_details": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "director_ids": [
+        1776
+      ]
+    },
+    {
+      "tmdb_id": 1366,
+      "title": "Rocky",
+      "original_title": "Rocky",
+      "release_date": "1976-12-03",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 10,
+      "rating": 7.803,
+      "vote_count": 9068,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "overview": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time — a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/1366",
+      "imdb_id": "tt0075148",
+      "runtime_minutes": 119,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "title_details": "Rocky",
+      "release_date_details": "1976-12-03",
+      "rating_details": 7.803,
+      "vote_count_details": 9068,
+      "overview_details": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time — a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "John G. Avildsen"
+      ],
+      "director_ids": [
+        16513
+      ]
+    },
+    {
+      "tmdb_id": 9552,
+      "title": "The Exorcist",
+      "original_title": "The Exorcist",
+      "release_date": "1973-12-26",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 11,
+      "rating": 7.751,
+      "vote_count": 9023,
+      "original_language": "en",
+      "genre_ids": [
+        27
+      ],
+      "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/9552",
+      "imdb_id": "tt0070047",
+      "runtime_minutes": 122,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "title_details": "The Exorcist",
+      "release_date_details": "1973-12-26",
+      "rating_details": 7.751,
+      "vote_count_details": 9023,
+      "overview_details": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "William Friedkin"
+      ],
+      "director_ids": [
+        15175
+      ]
+    },
+    {
+      "tmdb_id": 621,
+      "title": "Grease",
+      "original_title": "Grease",
+      "release_date": "1978-06-16",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 12,
+      "rating": 7.362,
+      "vote_count": 7910,
+      "original_language": "en",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/621",
+      "imdb_id": "tt0077631",
+      "runtime_minutes": 110,
+      "countries": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "country_codes": [
+        "US",
+        "GB"
+      ],
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "title_details": "Grease",
+      "release_date_details": "1978-06-16",
+      "rating_details": 7.362,
+      "vote_count_details": 7909,
+      "overview_details": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Randal Kleiser"
+      ],
+      "director_ids": [
+        8876
+      ]
+    },
+    {
+      "tmdb_id": 762,
+      "title": "Monty Python and the Holy Grail",
+      "original_title": "Monty Python and the Holy Grail",
+      "release_date": "1975-04-03",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 13,
+      "rating": 7.802,
+      "vote_count": 6714,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        35,
+        14
+      ],
+      "overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/762",
+      "imdb_id": "tt0071853",
+      "runtime_minutes": 91,
+      "countries": [
+        "United Kingdom"
+      ],
+      "country_codes": [
+        "GB"
+      ],
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "title_details": "Monty Python and the Holy Grail",
+      "release_date_details": "1975-04-03",
+      "rating_details": 7.802,
+      "vote_count_details": 6714,
+      "overview_details": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Terry Gilliam",
+        "Terry Jones"
+      ],
+      "director_ids": [
+        280,
+        10707
+      ]
+    },
+    {
+      "tmdb_id": 948,
+      "title": "Halloween",
+      "original_title": "Halloween",
+      "release_date": "1978-10-25",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 14,
+      "rating": 7.559,
+      "vote_count": 6520,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/948",
+      "imdb_id": "tt0077651",
+      "runtime_minutes": 91,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "title_details": "Halloween",
+      "release_date_details": "1978-10-25",
+      "rating_details": 7.559,
+      "vote_count_details": 6520,
+      "overview_details": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "John Carpenter"
+      ],
+      "director_ids": [
+        11770
+      ]
+    },
+    {
+      "tmdb_id": 10112,
+      "title": "The Aristocats",
+      "original_title": "The Aristocats",
+      "release_date": "1970-12-24",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 15,
+      "rating": 7.3,
+      "vote_count": 5511,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        12
+      ],
+      "overview": "When Madame Adelaide Bonfamille leaves her fortune to Duchess and her children—Bonfamille’s beloved family of cats—the butler plots to steal the money and kidnaps the legatees, leaving them out on a country road. All seems lost until the wily Thomas O’Malley Cat and his jazz-playing alley cats come to the aristocats’ rescue.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/10112",
+      "imdb_id": "tt0065421",
+      "runtime_minutes": 78,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
+      "title_details": "The Aristocats",
+      "release_date_details": "1970-12-24",
+      "rating_details": 7.3,
+      "vote_count_details": 5511,
+      "overview_details": "When Madame Adelaide Bonfamille leaves her fortune to Duchess and her children—Bonfamille’s beloved family of cats—the butler plots to steal the money and kidnaps the legatees, leaving them out on a country road. All seems lost until the wily Thomas O’Malley Cat and his jazz-playing alley cats come to the aristocats’ rescue.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Wolfgang Reitherman"
+      ],
+      "director_ids": [
+        57314
+      ]
+    },
+    {
+      "tmdb_id": 583,
+      "title": "Life of Brian",
+      "original_title": "Life of Brian",
+      "release_date": "1979-08-17",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 16,
+      "rating": 7.763,
+      "vote_count": 5181,
+      "original_language": "en",
+      "genre_ids": [
+        35
+      ],
+      "overview": "Brian Cohen is an average young Jewish man, but through a series of ridiculous events, he gains a reputation as the Messiah. When he's not dodging his followers or being scolded by his shrill mother, the hapless Brian has to contend with the pompous Pontius Pilate and acronym-obsessed members of a separatist movement. Rife with Monty Python's signature absurdity, the tale finds Brian's life paralleling Biblical lore, albeit with many more laughs.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/583",
+      "imdb_id": "tt0079470",
+      "runtime_minutes": 94,
+      "countries": [
+        "United Kingdom"
+      ],
+      "country_codes": [
+        "GB"
+      ],
+      "genres": [
+        "Comedy"
+      ],
+      "title_details": "Life of Brian",
+      "release_date_details": "1979-08-17",
+      "rating_details": 7.763,
+      "vote_count_details": 5181,
+      "overview_details": "Brian Cohen is an average young Jewish man, but through a series of ridiculous events, he gains a reputation as the Messiah. When he's not dodging his followers or being scolded by his shrill mother, the hapless Brian has to contend with the pompous Pontius Pilate and acronym-obsessed members of a separatist movement. Rife with Monty Python's signature absurdity, the tale finds Brian's life paralleling Biblical lore, albeit with many more laughs.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Terry Jones"
+      ],
+      "director_ids": [
+        10707
+      ]
+    },
+    {
+      "tmdb_id": 1367,
+      "title": "Rocky II",
+      "original_title": "Rocky II",
+      "release_date": "1979-06-15",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 17,
+      "rating": 7.297,
+      "vote_count": 5050,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        28
+      ],
+      "overview": "After Rocky goes the distance with champ Apollo Creed, both try to put the fight behind them and move on. Rocky settles down with Adrian but can't put his life together outside the ring, while Creed seeks a rematch to restore his reputation. Soon enough, the \"Master of Disaster\" and the \"Italian Stallion\" are set on a collision course for a climactic battle that is brutal and unforgettable.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/1367",
+      "imdb_id": "tt0079817",
+      "runtime_minutes": 119,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "title_details": "Rocky II",
+      "release_date_details": "1979-06-15",
+      "rating_details": 7.297,
+      "vote_count_details": 5050,
+      "overview_details": "After Rocky goes the distance with champ Apollo Creed, both try to put the fight behind them and move on. Rocky settles down with Adrian but can't put his life together outside the ring, while Creed seeks a rematch to restore his reputation. Soon enough, the \"Master of Disaster\" and the \"Italian Stallion\" are set on a collision course for a climactic battle that is brutal and unforgettable.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Sylvester Stallone"
+      ],
+      "director_ids": [
+        16483
+      ]
+    },
+    {
+      "tmdb_id": 840,
+      "title": "Close Encounters of the Third Kind",
+      "original_title": "Close Encounters of the Third Kind",
+      "release_date": "1977-12-14",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 18,
+      "rating": 7.35,
+      "vote_count": 4907,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        18
+      ],
+      "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/840",
+      "imdb_id": "tt0075860",
+      "runtime_minutes": 137,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "title_details": "Close Encounters of the Third Kind",
+      "release_date_details": "1977-12-14",
+      "rating_details": 7.35,
+      "vote_count_details": 4907,
+      "overview_details": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "director_ids": [
+        488
+      ]
+    },
+    {
+      "tmdb_id": 11886,
+      "title": "Robin Hood",
+      "original_title": "Robin Hood",
+      "release_date": "1973-11-08",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 19,
+      "rating": 7.313,
+      "vote_count": 4792,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "overview": "With King Richard off to the Crusades, Prince John and his slithering minion, Sir Hiss, set about taxing Nottingham's citizens with support from the corrupt sheriff - and staunch opposition by the wily Robin Hood and his band of merry men.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/11886",
+      "imdb_id": "tt0070608",
+      "runtime_minutes": 83,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Adventure"
+      ],
+      "title_details": "Robin Hood",
+      "release_date_details": "1973-11-08",
+      "rating_details": 7.313,
+      "vote_count_details": 4792,
+      "overview_details": "With King Richard off to the Crusades, Prince John and his slithering minion, Sir Hiss, set about taxing Nottingham's citizens with support from the corrupt sheriff - and staunch opposition by the wily Robin Hood and his band of merry men.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Wolfgang Reitherman"
+      ],
+      "director_ids": [
+        57314
+      ]
+    },
+    {
+      "tmdb_id": 7340,
+      "title": "Carrie",
+      "original_title": "Carrie",
+      "release_date": "1976-11-03",
+      "decade": "1970s",
+      "page": 1,
+      "rank_on_page": 20,
+      "rating": 7.3,
+      "vote_count": 4590,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "overview": "Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/7340",
+      "imdb_id": "tt0074285",
+      "runtime_minutes": 98,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "title_details": "Carrie",
+      "release_date_details": "1976-11-03",
+      "rating_details": 7.3,
+      "vote_count_details": 4590,
+      "overview_details": "Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Brian De Palma"
+      ],
+      "director_ids": [
+        1150
+      ]
+    },
+    {
+      "tmdb_id": 105,
+      "title": "Back to the Future",
+      "original_title": "Back to the Future",
+      "release_date": "1985-07-03",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 1,
+      "rating": 8.3,
+      "vote_count": 22733,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        35,
+        878
+      ],
+      "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/105",
+      "imdb_id": "tt0088763",
+      "runtime_minutes": 116,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "title_details": "Back to the Future",
+      "release_date_details": "1985-07-03",
+      "rating_details": 8.3,
+      "vote_count_details": 22733,
+      "overview_details": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "director_ids": [
+        24
+      ]
+    },
+    {
+      "tmdb_id": 694,
+      "title": "The Shining",
+      "original_title": "The Shining",
+      "release_date": "1980-05-23",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 2,
+      "rating": 8.201,
+      "vote_count": 19665,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/694",
+      "imdb_id": "tt0081505",
+      "runtime_minutes": 144,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "title_details": "The Shining",
+      "release_date_details": "1980-05-23",
+      "rating_details": 8.201,
+      "vote_count_details": 19665,
+      "overview_details": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "director_ids": [
+        240
+      ]
+    },
+    {
+      "tmdb_id": 1891,
+      "title": "The Empire Strikes Back",
+      "original_title": "The Empire Strikes Back",
+      "release_date": "1980-05-20",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 3,
+      "rating": 8.4,
+      "vote_count": 19110,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/1891",
+      "imdb_id": "tt0080684",
+      "runtime_minutes": 124,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "title_details": "The Empire Strikes Back",
+      "release_date_details": "1980-05-20",
+      "rating_details": 8.4,
+      "vote_count_details": 19110,
+      "overview_details": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Irvin Kershner"
+      ],
+      "director_ids": [
+        10930
+      ]
+    },
+    {
+      "tmdb_id": 1892,
+      "title": "Return of the Jedi",
+      "original_title": "Return of the Jedi",
+      "release_date": "1983-05-25",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 4,
+      "rating": 7.9,
+      "vote_count": 17539,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/1892",
+      "imdb_id": "tt0086190",
+      "runtime_minutes": 132,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "title_details": "Return of the Jedi",
+      "release_date_details": "1983-05-25",
+      "rating_details": 7.9,
+      "vote_count_details": 17539,
+      "overview_details": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Richard Marquand"
+      ],
+      "director_ids": [
+        19800
+      ]
+    },
+    {
+      "tmdb_id": 78,
+      "title": "Blade Runner",
+      "original_title": "Blade Runner",
+      "release_date": "1982-06-25",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 5,
+      "rating": 7.937,
+      "vote_count": 15615,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        18,
+        53
+      ],
+      "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/78",
+      "imdb_id": "tt0083658",
+      "runtime_minutes": 118,
+      "countries": [
+        "United States of America",
+        "Hong Kong",
+        "United Kingdom"
+      ],
+      "country_codes": [
+        "US",
+        "HK",
+        "GB"
+      ],
+      "genres": [
+        "Science Fiction",
+        "Drama",
+        "Thriller"
+      ],
+      "title_details": "Blade Runner",
+      "release_date_details": "1982-06-25",
+      "rating_details": 7.937,
+      "vote_count_details": 15615,
+      "overview_details": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "director_ids": [
+        578
+      ]
+    },
+    {
+      "tmdb_id": 218,
+      "title": "The Terminator",
+      "original_title": "The Terminator",
+      "release_date": "1984-10-26",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 6,
+      "rating": 7.7,
+      "vote_count": 15404,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/218",
+      "imdb_id": "tt0088247",
+      "runtime_minutes": 108,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "title_details": "The Terminator",
+      "release_date_details": "1984-10-26",
+      "rating_details": 7.7,
+      "vote_count_details": 15404,
+      "overview_details": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "James Cameron"
+      ],
+      "director_ids": [
+        2710
+      ]
+    },
+    {
+      "tmdb_id": 165,
+      "title": "Back to the Future Part II",
+      "original_title": "Back to the Future Part II",
+      "release_date": "1989-11-22",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 7,
+      "rating": 7.784,
+      "vote_count": 14499,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        35,
+        878
+      ],
+      "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/165",
+      "imdb_id": "tt0096874",
+      "runtime_minutes": 108,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "title_details": "Back to the Future Part II",
+      "release_date_details": "1989-11-22",
+      "rating_details": 7.784,
+      "vote_count_details": 14499,
+      "overview_details": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "director_ids": [
+        24
+      ]
+    },
+    {
+      "tmdb_id": 85,
+      "title": "Raiders of the Lost Ark",
+      "original_title": "Raiders of the Lost Ark",
+      "release_date": "1981-06-12",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 8,
+      "rating": 7.928,
+      "vote_count": 14203,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/85",
+      "imdb_id": "tt0082971",
+      "runtime_minutes": 115,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "title_details": "Raiders of the Lost Ark",
+      "release_date_details": "1981-06-12",
+      "rating_details": 7.928,
+      "vote_count_details": 14203,
+      "overview_details": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "director_ids": [
+        488
+      ]
+    },
+    {
+      "tmdb_id": 111,
+      "title": "Scarface",
+      "original_title": "Scarface",
+      "release_date": "1983-12-09",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 9,
+      "rating": 8.155,
+      "vote_count": 13665,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/111",
+      "imdb_id": "tt0086250",
+      "runtime_minutes": 170,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "title_details": "Scarface",
+      "release_date_details": "1983-12-09",
+      "rating_details": 8.155,
+      "vote_count_details": 13665,
+      "overview_details": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Brian De Palma"
+      ],
+      "director_ids": [
+        1150
+      ]
+    },
+    {
+      "tmdb_id": 207,
+      "title": "Dead Poets Society",
+      "original_title": "Dead Poets Society",
+      "release_date": "1989-06-02",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 10,
+      "rating": 8.3,
+      "vote_count": 13159,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/207",
+      "imdb_id": "tt0097165",
+      "runtime_minutes": 129,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "title_details": "Dead Poets Society",
+      "release_date_details": "1989-06-02",
+      "rating_details": 8.3,
+      "vote_count_details": 13159,
+      "overview_details": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Peter Weir"
+      ],
+      "director_ids": [
+        2690
+      ]
+    },
+    {
+      "tmdb_id": 562,
+      "title": "Die Hard",
+      "original_title": "Die Hard",
+      "release_date": "1988-07-15",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 11,
+      "rating": 7.8,
+      "vote_count": 12848,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/562",
+      "imdb_id": "tt0095016",
+      "runtime_minutes": 132,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "title_details": "Die Hard",
+      "release_date_details": "1988-07-15",
+      "rating_details": 7.8,
+      "vote_count_details": 12848,
+      "overview_details": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "John McTiernan"
+      ],
+      "director_ids": [
+        1090
+      ]
+    },
+    {
+      "tmdb_id": 601,
+      "title": "E.T. the Extra-Terrestrial",
+      "original_title": "E.T. the Extra-Terrestrial",
+      "release_date": "1982-06-11",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 12,
+      "rating": 7.519,
+      "vote_count": 12406,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        878,
+        10751
+      ],
+      "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/601",
+      "imdb_id": "tt0083866",
+      "runtime_minutes": 115,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "Family"
+      ],
+      "title_details": "E.T. the Extra-Terrestrial",
+      "release_date_details": "1982-06-11",
+      "rating_details": 7.519,
+      "vote_count_details": 12406,
+      "overview_details": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "director_ids": [
+        488
+      ]
+    },
+    {
+      "tmdb_id": 600,
+      "title": "Full Metal Jacket",
+      "original_title": "Full Metal Jacket",
+      "release_date": "1987-06-26",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 13,
+      "rating": 8.119,
+      "vote_count": 11926,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/600",
+      "imdb_id": "tt0093058",
+      "runtime_minutes": 117,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "title_details": "Full Metal Jacket",
+      "release_date_details": "1987-06-26",
+      "rating_details": 8.119,
+      "vote_count_details": 11926,
+      "overview_details": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "director_ids": [
+        240
+      ]
+    },
+    {
+      "tmdb_id": 89,
+      "title": "Indiana Jones and the Last Crusade",
+      "original_title": "Indiana Jones and the Last Crusade",
+      "release_date": "1989-05-24",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 14,
+      "rating": 7.858,
+      "vote_count": 11522,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/89",
+      "imdb_id": "tt0097576",
+      "runtime_minutes": 127,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "title_details": "Indiana Jones and the Last Crusade",
+      "release_date_details": "1989-05-24",
+      "rating_details": 7.858,
+      "vote_count_details": 11522,
+      "overview_details": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "director_ids": [
+        488
+      ]
+    },
+    {
+      "tmdb_id": 679,
+      "title": "Aliens",
+      "original_title": "Aliens",
+      "release_date": "1986-07-18",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 15,
+      "rating": 7.969,
+      "vote_count": 11363,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/679",
+      "imdb_id": "tt0090605",
+      "runtime_minutes": 137,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "title_details": "Aliens",
+      "release_date_details": "1986-07-18",
+      "rating_details": 7.969,
+      "vote_count_details": 11363,
+      "overview_details": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "James Cameron"
+      ],
+      "director_ids": [
+        2710
+      ]
+    },
+    {
+      "tmdb_id": 87,
+      "title": "Indiana Jones and the Temple of Doom",
+      "original_title": "Indiana Jones and the Temple of Doom",
+      "release_date": "1984-05-23",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 16,
+      "rating": 7.309,
+      "vote_count": 10513,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/87",
+      "imdb_id": "tt0087469",
+      "runtime_minutes": 118,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "title_details": "Indiana Jones and the Temple of Doom",
+      "release_date_details": "1984-05-23",
+      "rating_details": 7.309,
+      "vote_count_details": 10513,
+      "overview_details": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "director_ids": [
+        488
+      ]
+    },
+    {
+      "tmdb_id": 620,
+      "title": "Ghostbusters",
+      "original_title": "Ghostbusters",
+      "release_date": "1984-06-08",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 17,
+      "rating": 7.5,
+      "vote_count": 10138,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        14
+      ],
+      "overview": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/620",
+      "imdb_id": "tt0087332",
+      "runtime_minutes": 105,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "title_details": "Ghostbusters",
+      "release_date_details": "1984-06-08",
+      "rating_details": 7.5,
+      "vote_count_details": 10138,
+      "overview_details": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Ivan Reitman"
+      ],
+      "director_ids": [
+        8858
+      ]
+    },
+    {
+      "tmdb_id": 744,
+      "title": "Top Gun",
+      "original_title": "Top Gun",
+      "release_date": "1986-05-16",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 18,
+      "rating": 7.071,
+      "vote_count": 10080,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        18,
+        10749
+      ],
+      "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/744",
+      "imdb_id": "tt0092099",
+      "runtime_minutes": 110,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "title_details": "Top Gun",
+      "release_date_details": "1986-05-16",
+      "rating_details": 7.071,
+      "vote_count_details": 10080,
+      "overview_details": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Tony Scott"
+      ],
+      "director_ids": [
+        893
+      ]
+    },
+    {
+      "tmdb_id": 106,
+      "title": "Predator",
+      "original_title": "Predator",
+      "release_date": "1987-06-12",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 19,
+      "rating": 7.587,
+      "vote_count": 9663,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        28,
+        12,
+        53
+      ],
+      "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/106",
+      "imdb_id": "tt0093773",
+      "runtime_minutes": 107,
+      "countries": [
+        "United States of America",
+        "Mexico"
+      ],
+      "country_codes": [
+        "US",
+        "MX"
+      ],
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "title_details": "Predator",
+      "release_date_details": "1987-06-12",
+      "rating_details": 7.587,
+      "vote_count_details": 9663,
+      "overview_details": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "John McTiernan"
+      ],
+      "director_ids": [
+        1090
+      ]
+    },
+    {
+      "tmdb_id": 8392,
+      "title": "My Neighbor Totoro",
+      "original_title": "となりのトトロ",
+      "release_date": "1988-04-16",
+      "decade": "1980s",
+      "page": 1,
+      "rank_on_page": 20,
+      "rating": 8.071,
+      "vote_count": 9234,
+      "original_language": "ja",
+      "genre_ids": [
+        14,
+        16,
+        10751
+      ],
+      "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/8392",
+      "imdb_id": "tt0096283",
+      "runtime_minutes": 86,
+      "countries": [
+        "Japan"
+      ],
+      "country_codes": [
+        "JP"
+      ],
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Family"
+      ],
+      "title_details": "My Neighbor Totoro",
+      "release_date_details": "1988-04-16",
+      "rating_details": 8.1,
+      "vote_count_details": 9234,
+      "overview_details": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "director_ids": [
+        608
+      ]
+    },
+    {
+      "tmdb_id": 550,
+      "title": "Fight Club",
+      "original_title": "Fight Club",
+      "release_date": "1999-10-15",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 1,
+      "rating": 8.4,
+      "vote_count": 33295,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/550",
+      "imdb_id": "tt0137523",
+      "runtime_minutes": 139,
+      "countries": [
+        "Germany",
+        "United States of America"
+      ],
+      "country_codes": [
+        "DE",
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "title_details": "Fight Club",
+      "release_date_details": "1999-10-15",
+      "rating_details": 8.4,
+      "vote_count_details": 33295,
+      "overview_details": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "David Fincher"
+      ],
+      "director_ids": [
+        7467
+      ]
+    },
+    {
+      "tmdb_id": 278,
+      "title": "The Shawshank Redemption",
+      "original_title": "The Shawshank Redemption",
+      "release_date": "1994-09-23",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 2,
+      "rating": 8.7,
+      "vote_count": 31809,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/278",
+      "imdb_id": "tt0111161",
+      "runtime_minutes": 142,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "title_details": "The Shawshank Redemption",
+      "release_date_details": "1994-09-23",
+      "rating_details": 8.735,
+      "vote_count_details": 31809,
+      "overview_details": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Frank Darabont"
+      ],
+      "director_ids": [
+        4027
+      ]
+    },
+    {
+      "tmdb_id": 680,
+      "title": "Pulp Fiction",
+      "original_title": "Pulp Fiction",
+      "release_date": "1994-09-10",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 3,
+      "rating": 8.48,
+      "vote_count": 31289,
+      "original_language": "en",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/680",
+      "imdb_id": "tt0110912",
+      "runtime_minutes": 154,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Comedy"
+      ],
+      "title_details": "Pulp Fiction",
+      "release_date_details": "1994-09-10",
+      "rating_details": 8.5,
+      "vote_count_details": 31287,
+      "overview_details": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "director_ids": [
+        138
+      ]
+    },
+    {
+      "tmdb_id": 13,
+      "title": "Forrest Gump",
+      "original_title": "Forrest Gump",
+      "release_date": "1994-06-23",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 4,
+      "rating": 8.461,
+      "vote_count": 30857,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/13",
+      "imdb_id": "tt0109830",
+      "runtime_minutes": 142,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "title_details": "Forrest Gump",
+      "release_date_details": "1994-06-23",
+      "rating_details": 8.461,
+      "vote_count_details": 30857,
+      "overview_details": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "director_ids": [
+        24
+      ]
+    },
+    {
+      "tmdb_id": 603,
+      "title": "The Matrix",
+      "original_title": "The Matrix",
+      "release_date": "1999-03-31",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 5,
+      "rating": 8.263,
+      "vote_count": 29207,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/603",
+      "imdb_id": "tt0133093",
+      "runtime_minutes": 136,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "title_details": "The Matrix",
+      "release_date_details": "1999-03-31",
+      "rating_details": 8.263,
+      "vote_count_details": 29205,
+      "overview_details": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "director_ids": [
+        9340,
+        9339
+      ]
+    },
+    {
+      "tmdb_id": 597,
+      "title": "Titanic",
+      "original_title": "Titanic",
+      "release_date": "1997-12-18",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 6,
+      "rating": 7.9,
+      "vote_count": 28049,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/597",
+      "imdb_id": "tt0120338",
+      "runtime_minutes": 194,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "title_details": "Titanic",
+      "release_date_details": "1997-12-18",
+      "rating_details": 7.9,
+      "vote_count_details": 28049,
+      "overview_details": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "James Cameron"
+      ],
+      "director_ids": [
+        2710
+      ]
+    },
+    {
+      "tmdb_id": 807,
+      "title": "Se7en",
+      "original_title": "Se7en",
+      "release_date": "1995-09-22",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 7,
+      "rating": 8.4,
+      "vote_count": 24182,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/807",
+      "imdb_id": "tt0114369",
+      "runtime_minutes": 127,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "title_details": "Se7en",
+      "release_date_details": "1995-09-22",
+      "rating_details": 8.4,
+      "vote_count_details": 24182,
+      "overview_details": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "David Fincher"
+      ],
+      "director_ids": [
+        7467
+      ]
+    },
+    {
+      "tmdb_id": 37165,
+      "title": "The Truman Show",
+      "original_title": "The Truman Show",
+      "release_date": "1998-06-04",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 8,
+      "rating": 8.161,
+      "vote_count": 21205,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "overview": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/37165",
+      "imdb_id": "tt0120382",
+      "runtime_minutes": 103,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "title_details": "The Truman Show",
+      "release_date_details": "1998-06-04",
+      "rating_details": 8.16,
+      "vote_count_details": 21202,
+      "overview_details": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Peter Weir"
+      ],
+      "director_ids": [
+        2690
+      ]
+    },
+    {
+      "tmdb_id": 862,
+      "title": "Toy Story",
+      "original_title": "Toy Story",
+      "release_date": "1995-11-22",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 9,
+      "rating": 7.99,
+      "vote_count": 20808,
+      "original_language": "en",
+      "genre_ids": [
+        10751,
+        35,
+        16,
+        12
+      ],
+      "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/862",
+      "imdb_id": "tt0114709",
+      "runtime_minutes": 81,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation",
+        "Adventure"
+      ],
+      "title_details": "Toy Story",
+      "release_date_details": "1995-11-22",
+      "rating_details": 7.99,
+      "vote_count_details": 20807,
+      "overview_details": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "John Lasseter"
+      ],
+      "director_ids": [
+        7879
+      ]
+    },
+    {
+      "tmdb_id": 8587,
+      "title": "The Lion King",
+      "original_title": "The Lion King",
+      "release_date": "1994-06-15",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 10,
+      "rating": 8.25,
+      "vote_count": 20387,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10751,
+        18
+      ],
+      "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/8587",
+      "imdb_id": "tt0110357",
+      "runtime_minutes": 89,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Drama"
+      ],
+      "title_details": "The Lion King",
+      "release_date_details": "1994-06-15",
+      "rating_details": 8.25,
+      "vote_count_details": 20387,
+      "overview_details": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Roger Allers",
+        "Rob Minkoff"
+      ],
+      "director_ids": [
+        15812,
+        18898
+      ]
+    },
+    {
+      "tmdb_id": 497,
+      "title": "The Green Mile",
+      "original_title": "The Green Mile",
+      "release_date": "1999-12-10",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 11,
+      "rating": 8.504,
+      "vote_count": 20114,
+      "original_language": "en",
+      "genre_ids": [
+        14,
+        18,
+        80
+      ],
+      "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/497",
+      "imdb_id": "tt0120689",
+      "runtime_minutes": 189,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Crime"
+      ],
+      "title_details": "The Green Mile",
+      "release_date_details": "1999-12-10",
+      "rating_details": 8.504,
+      "vote_count_details": 20112,
+      "overview_details": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Frank Darabont"
+      ],
+      "director_ids": [
+        4027
+      ]
+    },
+    {
+      "tmdb_id": 274,
+      "title": "The Silence of the Lambs",
+      "original_title": "The Silence of the Lambs",
+      "release_date": "1991-02-14",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 12,
+      "rating": 8.345,
+      "vote_count": 18825,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/274",
+      "imdb_id": "tt0102926",
+      "runtime_minutes": 119,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "title_details": "The Silence of the Lambs",
+      "release_date_details": "1991-02-14",
+      "rating_details": 8.345,
+      "vote_count_details": 18825,
+      "overview_details": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Jonathan Demme"
+      ],
+      "director_ids": [
+        16294
+      ]
+    },
+    {
+      "tmdb_id": 329,
+      "title": "Jurassic Park",
+      "original_title": "Jurassic Park",
+      "release_date": "1993-06-11",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 13,
+      "rating": 7.977,
+      "vote_count": 18589,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        878
+      ],
+      "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/329",
+      "imdb_id": "tt0107290",
+      "runtime_minutes": 127,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Science Fiction"
+      ],
+      "title_details": "Jurassic Park",
+      "release_date_details": "1993-06-11",
+      "rating_details": 7.977,
+      "vote_count_details": 18588,
+      "overview_details": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "director_ids": [
+        488
+      ]
+    },
+    {
+      "tmdb_id": 424,
+      "title": "Schindler's List",
+      "original_title": "Schindler's List",
+      "release_date": "1993-12-15",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 14,
+      "rating": 8.57,
+      "vote_count": 18163,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/424",
+      "imdb_id": "tt0108052",
+      "runtime_minutes": 195,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "title_details": "Schindler's List",
+      "release_date_details": "1993-12-15",
+      "rating_details": 8.57,
+      "vote_count_details": 18163,
+      "overview_details": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "director_ids": [
+        488
+      ]
+    },
+    {
+      "tmdb_id": 857,
+      "title": "Saving Private Ryan",
+      "original_title": "Saving Private Ryan",
+      "release_date": "1998-07-24",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 15,
+      "rating": 8.2,
+      "vote_count": 18058,
+      "original_language": "en",
+      "genre_ids": [
+        10752,
+        18,
+        36
+      ],
+      "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/857",
+      "imdb_id": "tt0120815",
+      "runtime_minutes": 169,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "War",
+        "Drama",
+        "History"
+      ],
+      "title_details": "Saving Private Ryan",
+      "release_date_details": "1998-07-24",
+      "rating_details": 8.235,
+      "vote_count_details": 18058,
+      "overview_details": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "director_ids": [
+        488
+      ]
+    },
+    {
+      "tmdb_id": 101,
+      "title": "Léon: The Professional",
+      "original_title": "Léon",
+      "release_date": "1994-09-14",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 16,
+      "rating": 8.289,
+      "vote_count": 16777,
+      "original_language": "fr",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/101",
+      "imdb_id": "tt0110413",
+      "runtime_minutes": 111,
+      "countries": [
+        "France"
+      ],
+      "country_codes": [
+        "FR"
+      ],
+      "genres": [
+        "Crime",
+        "Drama",
+        "Action"
+      ],
+      "title_details": "Léon: The Professional",
+      "release_date_details": "1994-09-14",
+      "rating_details": 8.289,
+      "vote_count_details": 16777,
+      "overview_details": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Luc Besson"
+      ],
+      "director_ids": [
+        59
+      ]
+    },
+    {
+      "tmdb_id": 500,
+      "title": "Reservoir Dogs",
+      "original_title": "Reservoir Dogs",
+      "release_date": "1992-09-02",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 17,
+      "rating": 8.109,
+      "vote_count": 16017,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/500",
+      "imdb_id": "tt0105236",
+      "runtime_minutes": 99,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "title_details": "Reservoir Dogs",
+      "release_date_details": "1992-09-02",
+      "rating_details": 8.109,
+      "vote_count_details": 16017,
+      "overview_details": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "director_ids": [
+        138
+      ]
+    },
+    {
+      "tmdb_id": 863,
+      "title": "Toy Story 2",
+      "original_title": "Toy Story 2",
+      "release_date": "1999-10-30",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 18,
+      "rating": 7.624,
+      "vote_count": 15576,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/863",
+      "imdb_id": "tt0120363",
+      "runtime_minutes": 92,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "title_details": "Toy Story 2",
+      "release_date_details": "1999-10-30",
+      "rating_details": 7.624,
+      "vote_count_details": 15576,
+      "overview_details": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "John Lasseter"
+      ],
+      "director_ids": [
+        7879
+      ]
+    },
+    {
+      "tmdb_id": 607,
+      "title": "Men in Black",
+      "original_title": "Men in Black",
+      "release_date": "1997-07-02",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 19,
+      "rating": 7.234,
+      "vote_count": 15418,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        878
+      ],
+      "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/607",
+      "imdb_id": "tt0119654",
+      "runtime_minutes": 98,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "title_details": "Men in Black",
+      "release_date_details": "1997-07-02",
+      "rating_details": 7.234,
+      "vote_count_details": 15418,
+      "overview_details": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Barry Sonnenfeld"
+      ],
+      "director_ids": [
+        5174
+      ]
+    },
+    {
+      "tmdb_id": 280,
+      "title": "Terminator 2: Judgment Day",
+      "original_title": "Terminator 2: Judgment Day",
+      "release_date": "1991-07-03",
+      "decade": "1990s",
+      "page": 1,
+      "rank_on_page": 20,
+      "rating": 8.2,
+      "vote_count": 15165,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/280",
+      "imdb_id": "tt0103064",
+      "runtime_minutes": 137,
+      "countries": [
+        "France",
+        "United States of America"
+      ],
+      "country_codes": [
+        "FR",
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "title_details": "Terminator 2: Judgment Day",
+      "release_date_details": "1991-07-03",
+      "rating_details": 8.2,
+      "vote_count_details": 15165,
+      "overview_details": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "James Cameron"
+      ],
+      "director_ids": [
+        2710
+      ]
+    },
+    {
+      "tmdb_id": 155,
+      "title": "The Dark Knight",
+      "original_title": "The Dark Knight",
+      "release_date": "2008-07-16",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 1,
+      "rating": 8.54,
+      "vote_count": 37308,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/155",
+      "imdb_id": "tt0468569",
+      "runtime_minutes": 152,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "title_details": "The Dark Knight",
+      "release_date_details": "2008-07-16",
+      "rating_details": 8.54,
+      "vote_count_details": 37303,
+      "overview_details": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "director_ids": [
+        525
+      ]
+    },
+    {
+      "tmdb_id": 19995,
+      "title": "Avatar",
+      "original_title": "Avatar",
+      "release_date": "2009-12-16",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 2,
+      "rating": 7.611,
+      "vote_count": 34996,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/19995",
+      "imdb_id": "tt0499549",
+      "runtime_minutes": 162,
+      "countries": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "country_codes": [
+        "US",
+        "GB"
+      ],
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "title_details": "Avatar",
+      "release_date_details": "2009-12-16",
+      "rating_details": 7.611,
+      "vote_count_details": 34996,
+      "overview_details": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "James Cameron"
+      ],
+      "director_ids": [
+        2710
+      ]
+    },
+    {
+      "tmdb_id": 671,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "original_title": "Harry Potter and the Philosopher's Stone",
+      "release_date": "2001-11-16",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 3,
+      "rating": 7.9,
+      "vote_count": 30596,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/671",
+      "imdb_id": "tt0241527",
+      "runtime_minutes": 152,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "title_details": "Harry Potter and the Philosopher's Stone",
+      "release_date_details": "2001-11-16",
+      "rating_details": 7.9,
+      "vote_count_details": 30596,
+      "overview_details": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Chris Columbus"
+      ],
+      "director_ids": [
+        10965
+      ]
+    },
+    {
+      "tmdb_id": 1726,
+      "title": "Iron Man",
+      "original_title": "Iron Man",
+      "release_date": "2008-04-30",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 4,
+      "rating": 7.668,
+      "vote_count": 29161,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/1726",
+      "imdb_id": "tt0371746",
+      "runtime_minutes": 126,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "title_details": "Iron Man",
+      "release_date_details": "2008-04-30",
+      "rating_details": 7.668,
+      "vote_count_details": 29161,
+      "overview_details": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Jon Favreau"
+      ],
+      "director_ids": [
+        15277
+      ]
+    },
+    {
+      "tmdb_id": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+      "release_date": "2001-12-18",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 5,
+      "rating": 8.45,
+      "vote_count": 28827,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/120",
+      "imdb_id": "tt0120737",
+      "runtime_minutes": 179,
+      "countries": [
+        "New Zealand",
+        "United States of America"
+      ],
+      "country_codes": [
+        "NZ",
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "title_details": "The Lord of the Rings: The Fellowship of the Ring",
+      "release_date_details": "2001-12-18",
+      "rating_details": 8.45,
+      "vote_count_details": 28826,
+      "overview_details": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Peter Jackson"
+      ],
+      "director_ids": [
+        108
+      ]
+    },
+    {
+      "tmdb_id": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "original_title": "The Lord of the Rings: The Return of the King",
+      "release_date": "2003-12-17",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 6,
+      "rating": 8.507,
+      "vote_count": 27790,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/122",
+      "imdb_id": "tt0167260",
+      "runtime_minutes": 201,
+      "countries": [
+        "New Zealand",
+        "United States of America"
+      ],
+      "country_codes": [
+        "NZ",
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "title_details": "The Lord of the Rings: The Return of the King",
+      "release_date_details": "2003-12-17",
+      "rating_details": 8.5,
+      "vote_count_details": 27789,
+      "overview_details": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Peter Jackson"
+      ],
+      "director_ids": [
+        108
+      ]
+    },
+    {
+      "tmdb_id": 16869,
+      "title": "Inglourious Basterds",
+      "original_title": "Inglourious Basterds",
+      "release_date": "2009-08-02",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 7,
+      "rating": 8.217,
+      "vote_count": 25126,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        53,
+        10752
+      ],
+      "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/16869",
+      "imdb_id": "tt0361748",
+      "runtime_minutes": 153,
+      "countries": [
+        "Germany",
+        "United States of America"
+      ],
+      "country_codes": [
+        "DE",
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "Thriller",
+        "War"
+      ],
+      "title_details": "Inglourious Basterds",
+      "release_date_details": "2009-08-02",
+      "rating_details": 8.217,
+      "vote_count_details": 25126,
+      "overview_details": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "director_ids": [
+        138
+      ]
+    },
+    {
+      "tmdb_id": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "original_title": "The Lord of the Rings: The Two Towers",
+      "release_date": "2002-12-18",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 8,
+      "rating": 8.432,
+      "vote_count": 24942,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers - Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/121",
+      "imdb_id": "tt0167261",
+      "runtime_minutes": 179,
+      "countries": [
+        "New Zealand",
+        "United States of America"
+      ],
+      "country_codes": [
+        "NZ",
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "title_details": "The Lord of the Rings: The Two Towers",
+      "release_date_details": "2002-12-18",
+      "rating_details": 8.432,
+      "vote_count_details": 24942,
+      "overview_details": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers - Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Peter Jackson"
+      ],
+      "director_ids": [
+        108
+      ]
+    },
+    {
+      "tmdb_id": 672,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "original_title": "Harry Potter and the Chamber of Secrets",
+      "release_date": "2002-11-13",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 9,
+      "rating": 7.71,
+      "vote_count": 24384,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/672",
+      "imdb_id": "tt0295297",
+      "runtime_minutes": 161,
+      "countries": [
+        "United Kingdom",
+        "United States of America",
+        "Germany"
+      ],
+      "country_codes": [
+        "GB",
+        "US",
+        "DE"
+      ],
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "title_details": "Harry Potter and the Chamber of Secrets",
+      "release_date_details": "2002-11-13",
+      "rating_details": 7.7,
+      "vote_count_details": 24383,
+      "overview_details": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Chris Columbus"
+      ],
+      "director_ids": [
+        10965
+      ]
+    },
+    {
+      "tmdb_id": 673,
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "original_title": "Harry Potter and the Prisoner of Azkaban",
+      "release_date": "2004-05-31",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 10,
+      "rating": 8.0,
+      "vote_count": 23959,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "overview": "Year three at Hogwarts means new fun and new challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/673",
+      "imdb_id": "tt0304141",
+      "runtime_minutes": 141,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "title_details": "Harry Potter and the Prisoner of Azkaban",
+      "release_date_details": "2004-05-31",
+      "rating_details": 8.0,
+      "vote_count_details": 23959,
+      "overview_details": "Year three at Hogwarts means new fun and new challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Alfonso Cuarón"
+      ],
+      "director_ids": [
+        11218
+      ]
+    },
+    {
+      "tmdb_id": 272,
+      "title": "Batman Begins",
+      "original_title": "Batman Begins",
+      "release_date": "2005-06-10",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 11,
+      "rating": 7.733,
+      "vote_count": 23499,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80,
+        28
+      ],
+      "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/272",
+      "imdb_id": "tt0372784",
+      "runtime_minutes": 140,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "Crime",
+        "Action"
+      ],
+      "title_details": "Batman Begins",
+      "release_date_details": "2005-06-10",
+      "rating_details": 7.733,
+      "vote_count_details": 23499,
+      "overview_details": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "director_ids": [
+        525
+      ]
+    },
+    {
+      "tmdb_id": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "release_date": "2003-07-09",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 12,
+      "rating": 7.838,
+      "vote_count": 23066,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "overview": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/22",
+      "imdb_id": "tt0325980",
+      "runtime_minutes": 143,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "title_details": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "release_date_details": "2003-07-09",
+      "rating_details": 7.838,
+      "vote_count_details": 23066,
+      "overview_details": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Gore Verbinski"
+      ],
+      "director_ids": [
+        1704
+      ]
+    },
+    {
+      "tmdb_id": 674,
+      "title": "Harry Potter and the Goblet of Fire",
+      "original_title": "Harry Potter and the Goblet of Fire",
+      "release_date": "2005-11-16",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 13,
+      "rating": 7.8,
+      "vote_count": 22917,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "overview": "After his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools in the Triwizard Tournament. But if Harry never submitted his name for the Tournament, then who did? Nevertheless, Harry must confront a deadly dragon, fierce water monsters, and an enchanted maze—only to find himself in the cruel grasp of He Who Must Not Be Named.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/674",
+      "imdb_id": "tt0330373",
+      "runtime_minutes": 157,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "title_details": "Harry Potter and the Goblet of Fire",
+      "release_date_details": "2005-11-16",
+      "rating_details": 7.804,
+      "vote_count_details": 22917,
+      "overview_details": "After his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools in the Triwizard Tournament. But if Harry never submitted his name for the Tournament, then who did? Nevertheless, Harry must confront a deadly dragon, fierce water monsters, and an enchanted maze—only to find himself in the cruel grasp of He Who Must Not Be Named.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Mike Newell"
+      ],
+      "director_ids": [
+        10723
+      ]
+    },
+    {
+      "tmdb_id": 14160,
+      "title": "Up",
+      "original_title": "Up",
+      "release_date": "2009-05-28",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 14,
+      "rating": 7.961,
+      "vote_count": 22380,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        12
+      ],
+      "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/14160",
+      "imdb_id": "tt1049413",
+      "runtime_minutes": 96,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
+      "title_details": "Up",
+      "release_date_details": "2009-05-28",
+      "rating_details": 7.961,
+      "vote_count_details": 22380,
+      "overview_details": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Pete Docter"
+      ],
+      "director_ids": [
+        12890
+      ]
+    },
+    {
+      "tmdb_id": 98,
+      "title": "Gladiator",
+      "original_title": "Gladiator",
+      "release_date": "2000-05-04",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 15,
+      "rating": 8.233,
+      "vote_count": 21838,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        18,
+        12
+      ],
+      "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/98",
+      "imdb_id": "tt0172495",
+      "runtime_minutes": 155,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Drama",
+        "Adventure"
+      ],
+      "title_details": "Gladiator",
+      "release_date_details": "2000-05-04",
+      "rating_details": 8.233,
+      "vote_count_details": 21838,
+      "overview_details": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "director_ids": [
+        578
+      ]
+    },
+    {
+      "tmdb_id": 557,
+      "title": "Spider-Man",
+      "original_title": "Spider-Man",
+      "release_date": "2002-05-01",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 16,
+      "rating": 7.362,
+      "vote_count": 21759,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/557",
+      "imdb_id": "tt0145487",
+      "runtime_minutes": 121,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "title_details": "Spider-Man",
+      "release_date_details": "2002-05-01",
+      "rating_details": 7.362,
+      "vote_count_details": 21759,
+      "overview_details": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Sam Raimi"
+      ],
+      "director_ids": [
+        7623
+      ]
+    },
+    {
+      "tmdb_id": 675,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "original_title": "Harry Potter and the Order of the Phoenix",
+      "release_date": "2007-07-08",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 17,
+      "rating": 7.7,
+      "vote_count": 21466,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "overview": "Returning for his fifth year at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of motivated students to defend themselves against the Dark Arts.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/675",
+      "imdb_id": "tt0373889",
+      "runtime_minutes": 138,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "title_details": "Harry Potter and the Order of the Phoenix",
+      "release_date_details": "2007-07-08",
+      "rating_details": 7.7,
+      "vote_count_details": 21466,
+      "overview_details": "Returning for his fifth year at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of motivated students to defend themselves against the Dark Arts.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "David Yates"
+      ],
+      "director_ids": [
+        11343
+      ]
+    },
+    {
+      "tmdb_id": 767,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "original_title": "Harry Potter and the Half-Blood Prince",
+      "release_date": "2009-07-15",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 18,
+      "rating": 7.7,
+      "vote_count": 21428,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/767",
+      "imdb_id": "tt0417741",
+      "runtime_minutes": 153,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "title_details": "Harry Potter and the Half-Blood Prince",
+      "release_date_details": "2009-07-15",
+      "rating_details": 7.7,
+      "vote_count_details": 21428,
+      "overview_details": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "David Yates"
+      ],
+      "director_ids": [
+        11343
+      ]
+    },
+    {
+      "tmdb_id": 12,
+      "title": "Finding Nemo",
+      "original_title": "Finding Nemo",
+      "release_date": "2003-05-30",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 19,
+      "rating": 7.822,
+      "vote_count": 21205,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/12",
+      "imdb_id": "tt0266543",
+      "runtime_minutes": 100,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Adventure"
+      ],
+      "title_details": "Finding Nemo",
+      "release_date_details": "2003-05-30",
+      "rating_details": 7.822,
+      "vote_count_details": 21205,
+      "overview_details": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Andrew Stanton"
+      ],
+      "director_ids": [
+        7
+      ]
+    },
+    {
+      "tmdb_id": 10681,
+      "title": "WALL·E",
+      "original_title": "WALL·E",
+      "release_date": "2008-06-26",
+      "decade": "2000s",
+      "page": 1,
+      "rank_on_page": 20,
+      "rating": 8.128,
+      "vote_count": 21166,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10751,
+        878
+      ],
+      "overview": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/10681",
+      "imdb_id": "tt0910970",
+      "runtime_minutes": 98,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Science Fiction"
+      ],
+      "title_details": "WALL·E",
+      "release_date_details": "2008-06-26",
+      "rating_details": 8.128,
+      "vote_count_details": 21166,
+      "overview_details": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Andrew Stanton"
+      ],
+      "director_ids": [
+        7
+      ]
+    },
+    {
+      "tmdb_id": 157336,
+      "title": "Interstellar",
+      "original_title": "Interstellar",
+      "release_date": "2014-11-04",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 1,
+      "rating": 8.493,
+      "vote_count": 41838,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        18,
+        878
+      ],
+      "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/157336",
+      "imdb_id": "tt0816692",
+      "runtime_minutes": 169,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Science Fiction"
+      ],
+      "title_details": "Interstellar",
+      "release_date_details": "2014-11-04",
+      "rating_details": 8.493,
+      "vote_count_details": 41837,
+      "overview_details": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "director_ids": [
+        525
+      ]
+    },
+    {
+      "tmdb_id": 27205,
+      "title": "Inception",
+      "original_title": "Inception",
+      "release_date": "2010-07-15",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 2,
+      "rating": 8.373,
+      "vote_count": 40694,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878,
+        80
+      ],
+      "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/27205",
+      "imdb_id": "tt1375666",
+      "runtime_minutes": 148,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Crime"
+      ],
+      "title_details": "Inception",
+      "release_date_details": "2010-07-15",
+      "rating_details": 8.373,
+      "vote_count_details": 40694,
+      "overview_details": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "director_ids": [
+        525
+      ]
+    },
+    {
+      "tmdb_id": 24428,
+      "title": "The Avengers",
+      "original_title": "The Avengers",
+      "release_date": "2012-04-25",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 3,
+      "rating": 8.084,
+      "vote_count": 40330,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/24428",
+      "imdb_id": "tt0848228",
+      "runtime_minutes": 143,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "title_details": "The Avengers",
+      "release_date_details": "2012-04-25",
+      "rating_details": 8.084,
+      "vote_count_details": 40325,
+      "overview_details": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Joss Whedon"
+      ],
+      "director_ids": [
+        12891
+      ]
+    },
+    {
+      "tmdb_id": 293660,
+      "title": "Deadpool",
+      "original_title": "Deadpool",
+      "release_date": "2016-02-09",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 4,
+      "rating": 7.626,
+      "vote_count": 33604,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        35
+      ],
+      "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/293660",
+      "imdb_id": "tt1431045",
+      "runtime_minutes": 108,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "title_details": "Deadpool",
+      "release_date_details": "2016-02-09",
+      "rating_details": 7.626,
+      "vote_count_details": 33604,
+      "overview_details": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Tim Miller"
+      ],
+      "director_ids": [
+        55252
+      ]
+    },
+    {
+      "tmdb_id": 299536,
+      "title": "Avengers: Infinity War",
+      "original_title": "Avengers: Infinity War",
+      "release_date": "2018-04-25",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 5,
+      "rating": 8.247,
+      "vote_count": 33370,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/299536",
+      "imdb_id": "tt4154756",
+      "runtime_minutes": 149,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "title_details": "Avengers: Infinity War",
+      "release_date_details": "2018-04-25",
+      "rating_details": 8.247,
+      "vote_count_details": 33369,
+      "overview_details": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Joe Russo",
+        "Anthony Russo"
+      ],
+      "director_ids": [
+        19272,
+        19271
+      ]
+    },
+    {
+      "tmdb_id": 118340,
+      "title": "Guardians of the Galaxy",
+      "original_title": "Guardians of the Galaxy",
+      "release_date": "2014-07-30",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 6,
+      "rating": 7.908,
+      "vote_count": 30629,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/118340",
+      "imdb_id": "tt2015381",
+      "runtime_minutes": 121,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "title_details": "Guardians of the Galaxy",
+      "release_date_details": "2014-07-30",
+      "rating_details": 7.908,
+      "vote_count_details": 30629,
+      "overview_details": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "James Gunn"
+      ],
+      "director_ids": [
+        15218
+      ]
+    },
+    {
+      "tmdb_id": 299534,
+      "title": "Avengers: Endgame",
+      "original_title": "Avengers: Endgame",
+      "release_date": "2019-04-24",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 7,
+      "rating": 8.247,
+      "vote_count": 29259,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        878,
+        28
+      ],
+      "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/299534",
+      "imdb_id": "tt4154796",
+      "runtime_minutes": 181,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "Action"
+      ],
+      "title_details": "Avengers: Endgame",
+      "release_date_details": "2019-04-24",
+      "rating_details": 8.247,
+      "vote_count_details": 29259,
+      "overview_details": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "director_ids": [
+        19271,
+        19272
+      ]
+    },
+    {
+      "tmdb_id": 68718,
+      "title": "Django Unchained",
+      "original_title": "Django Unchained",
+      "release_date": "2012-12-25",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 8,
+      "rating": 8.194,
+      "vote_count": 28941,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/68718",
+      "imdb_id": "tt1853728",
+      "runtime_minutes": 165,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "title_details": "Django Unchained",
+      "release_date_details": "2012-12-25",
+      "rating_details": 8.194,
+      "vote_count_details": 28941,
+      "overview_details": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "director_ids": [
+        138
+      ]
+    },
+    {
+      "tmdb_id": 475557,
+      "title": "Joker",
+      "original_title": "Joker",
+      "release_date": "2019-10-01",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 9,
+      "rating": 8.113,
+      "vote_count": 28674,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/475557",
+      "imdb_id": "tt7286456",
+      "runtime_minutes": 122,
+      "countries": [
+        "Canada",
+        "United States of America"
+      ],
+      "country_codes": [
+        "CA",
+        "US"
+      ],
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "title_details": "Joker",
+      "release_date_details": "2019-10-01",
+      "rating_details": 8.113,
+      "vote_count_details": 28674,
+      "overview_details": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Todd Phillips"
+      ],
+      "director_ids": [
+        57130
+      ]
+    },
+    {
+      "tmdb_id": 106646,
+      "title": "The Wolf of Wall Street",
+      "original_title": "The Wolf of Wall Street",
+      "release_date": "2013-12-25",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 10,
+      "rating": 8.027,
+      "vote_count": 26910,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        18,
+        35
+      ],
+      "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/106646",
+      "imdb_id": "tt0993846",
+      "runtime_minutes": 180,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "title_details": "The Wolf of Wall Street",
+      "release_date_details": "2013-12-25",
+      "rating_details": 8.027,
+      "vote_count_details": 26910,
+      "overview_details": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "director_ids": [
+        1032
+      ]
+    },
+    {
+      "tmdb_id": 11324,
+      "title": "Shutter Island",
+      "original_title": "Shutter Island",
+      "release_date": "2010-02-14",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 11,
+      "rating": 8.195,
+      "vote_count": 26783,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/11324",
+      "imdb_id": "tt1130884",
+      "runtime_minutes": 138,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "title_details": "Shutter Island",
+      "release_date_details": "2010-02-14",
+      "rating_details": 8.195,
+      "vote_count_details": 26783,
+      "overview_details": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "director_ids": [
+        1032
+      ]
+    },
+    {
+      "tmdb_id": 99861,
+      "title": "Avengers: Age of Ultron",
+      "original_title": "Avengers: Age of Ultron",
+      "release_date": "2015-04-22",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 12,
+      "rating": 7.278,
+      "vote_count": 25324,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/99861",
+      "imdb_id": "tt2395427",
+      "runtime_minutes": 141,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "title_details": "Avengers: Age of Ultron",
+      "release_date_details": "2015-04-22",
+      "rating_details": 7.278,
+      "vote_count_details": 25323,
+      "overview_details": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Joss Whedon"
+      ],
+      "director_ids": [
+        12891
+      ]
+    },
+    {
+      "tmdb_id": 49026,
+      "title": "The Dark Knight Rises",
+      "original_title": "The Dark Knight Rises",
+      "release_date": "2012-07-17",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 13,
+      "rating": 7.801,
+      "vote_count": 25287,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/49026",
+      "imdb_id": "tt1345836",
+      "runtime_minutes": 165,
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "country_codes": [
+        "GB",
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "title_details": "The Dark Knight Rises",
+      "release_date_details": "2012-07-17",
+      "rating_details": 7.801,
+      "vote_count_details": 25287,
+      "overview_details": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "director_ids": [
+        525
+      ]
+    },
+    {
+      "tmdb_id": 76341,
+      "title": "Mad Max: Fury Road",
+      "original_title": "Mad Max: Fury Road",
+      "release_date": "2015-05-13",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 14,
+      "rating": 7.6,
+      "vote_count": 24932,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/76341",
+      "imdb_id": "tt1392190",
+      "runtime_minutes": 121,
+      "countries": [
+        "Australia",
+        "United States of America"
+      ],
+      "country_codes": [
+        "AU",
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "title_details": "Mad Max: Fury Road",
+      "release_date_details": "2015-05-13",
+      "rating_details": 7.6,
+      "vote_count_details": 24932,
+      "overview_details": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "George Miller"
+      ],
+      "director_ids": [
+        20629
+      ]
+    },
+    {
+      "tmdb_id": 271110,
+      "title": "Captain America: Civil War",
+      "original_title": "Captain America: Civil War",
+      "release_date": "2016-04-27",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 15,
+      "rating": 7.455,
+      "vote_count": 24836,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/271110",
+      "imdb_id": "tt3498820",
+      "runtime_minutes": 147,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "title_details": "Captain America: Civil War",
+      "release_date_details": "2016-04-27",
+      "rating_details": 7.455,
+      "vote_count_details": 24836,
+      "overview_details": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Joe Russo",
+        "Anthony Russo"
+      ],
+      "director_ids": [
+        19272,
+        19271
+      ]
+    },
+    {
+      "tmdb_id": 315635,
+      "title": "Spider-Man: Homecoming",
+      "original_title": "Spider-Man: Homecoming",
+      "release_date": "2017-07-05",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 16,
+      "rating": 7.3,
+      "vote_count": 24221,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/315635",
+      "imdb_id": "tt2250912",
+      "runtime_minutes": 133,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "title_details": "Spider-Man: Homecoming",
+      "release_date_details": "2017-07-05",
+      "rating_details": 7.332,
+      "vote_count_details": 24220,
+      "overview_details": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Jon Watts"
+      ],
+      "director_ids": [
+        1293994
+      ]
+    },
+    {
+      "tmdb_id": 284054,
+      "title": "Black Panther",
+      "original_title": "Black Panther",
+      "release_date": "2018-02-13",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 17,
+      "rating": 7.359,
+      "vote_count": 24220,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/284054",
+      "imdb_id": "tt1825683",
+      "runtime_minutes": 135,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "title_details": "Black Panther",
+      "release_date_details": "2018-02-13",
+      "rating_details": 7.359,
+      "vote_count_details": 24219,
+      "overview_details": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Ryan Coogler"
+      ],
+      "director_ids": [
+        1056121
+      ]
+    },
+    {
+      "tmdb_id": 284052,
+      "title": "Doctor Strange",
+      "original_title": "Doctor Strange",
+      "release_date": "2016-10-25",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 18,
+      "rating": 7.425,
+      "vote_count": 24188,
+      "original_language": "en",
+      "genre_ids": [
+        14,
+        12,
+        28
+      ],
+      "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/284052",
+      "imdb_id": "tt1211837",
+      "runtime_minutes": 115,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Action"
+      ],
+      "title_details": "Doctor Strange",
+      "release_date_details": "2016-10-25",
+      "rating_details": 7.425,
+      "vote_count_details": 24188,
+      "overview_details": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Scott Derrickson"
+      ],
+      "director_ids": [
+        55499
+      ]
+    },
+    {
+      "tmdb_id": 150540,
+      "title": "Inside Out",
+      "original_title": "Inside Out",
+      "release_date": "2015-06-17",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 19,
+      "rating": 7.906,
+      "vote_count": 24146,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        18,
+        35
+      ],
+      "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/150540",
+      "imdb_id": "tt2096673",
+      "runtime_minutes": 95,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Adventure",
+        "Drama",
+        "Comedy"
+      ],
+      "title_details": "Inside Out",
+      "release_date_details": "2015-06-17",
+      "rating_details": 7.906,
+      "vote_count_details": 24146,
+      "overview_details": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Pete Docter"
+      ],
+      "director_ids": [
+        12890
+      ]
+    },
+    {
+      "tmdb_id": 70160,
+      "title": "The Hunger Games",
+      "original_title": "The Hunger Games",
+      "release_date": "2012-03-12",
+      "decade": "2010s",
+      "page": 1,
+      "rank_on_page": 20,
+      "rating": 7.226,
+      "vote_count": 23986,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        12,
+        28,
+        53
+      ],
+      "overview": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
+      "selected_for_main_analysis": false,
+      "tmdb_url": "https://www.themoviedb.org/movie/70160",
+      "imdb_id": "tt1392170",
+      "runtime_minutes": 142,
+      "countries": [
+        "United States of America"
+      ],
+      "country_codes": [
+        "US"
+      ],
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action",
+        "Thriller"
+      ],
+      "title_details": "The Hunger Games",
+      "release_date_details": "2012-03-12",
+      "rating_details": 7.2,
+      "vote_count_details": 23984,
+      "overview_details": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
+      "cinemetrics_check": "pending identity and full-film review",
+      "rating_and_votes_check": "pass",
+      "directors": [
+        "Gary Ross"
+      ],
+      "director_ids": [
+        23964
+      ]
+    }
+  ]
+}

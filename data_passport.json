@@ -1,0 +1,357 @@
+{
+  "status": "working film sample after recorded acquisition checks; edition not independently verified",
+  "rules": {
+    "date_start": "1970-01-01",
+    "date_end": "2019-12-31",
+    "rating_cutoff": 7.0,
+    "vote_count_cutoff": 1000,
+    "duration_low": 0.9,
+    "duration_high": 1.1
+  },
+  "main_runs": {
+    "REST_API": {
+      "run": "01_raw/tmdb_candidates/20261110T090154767976Z",
+      "attempts": 208,
+      "successful_responses": 205,
+      "success_rate": 0.9855769230769231,
+      "failures": {
+        "SSLError": 3
+      },
+      "received_response_bytes": 7977935
+    },
+    "HTML": {
+      "run": "01_raw/film_measurements/20261110T090922941954Z",
+      "attempts": 259,
+      "successful_responses": 253,
+      "success_rate": 0.9768339768339769,
+      "failures": {
+        "SSLError": 6
+      },
+      "received_response_bytes": 249006918
+    }
+  },
+  "collection_start_utc": "2026-11-10T09:01:54.810020+00:00",
+  "collection_end_utc": "2026-11-10T09:29:08.539649+00:00",
+  "measurement_records": 253,
+  "distinct_films_with_measurements": 80,
+  "working_film_records": 54,
+  "candidate_films": 100,
+  "field_dictionary": {
+    "tmdb_id": {
+      "source": "REST_API",
+      "type": "int",
+      "example": 578,
+      "missing_rate": 0.0
+    },
+    "title": {
+      "source": "REST_API",
+      "type": "str",
+      "example": "Jaws",
+      "missing_rate": 0.0
+    },
+    "original_title": {
+      "source": "REST_API",
+      "type": "str",
+      "example": "Jaws",
+      "missing_rate": 0.0
+    },
+    "release_date": {
+      "source": "REST_API",
+      "type": "str",
+      "example": "1975-06-20",
+      "missing_rate": 0.0
+    },
+    "decade": {
+      "source": "derived",
+      "type": "str",
+      "example": "1970s",
+      "missing_rate": 0.0
+    },
+    "page": {
+      "source": "derived",
+      "type": "int",
+      "example": 1,
+      "missing_rate": 0.0
+    },
+    "rank_on_page": {
+      "source": "derived",
+      "type": "int",
+      "example": 7,
+      "missing_rate": 0.0
+    },
+    "rating": {
+      "source": "REST_API",
+      "type": "float",
+      "example": 7.686,
+      "missing_rate": 0.0
+    },
+    "vote_count": {
+      "source": "REST_API",
+      "type": "int",
+      "example": 12017,
+      "missing_rate": 0.0
+    },
+    "original_language": {
+      "source": "REST_API",
+      "type": "str",
+      "example": "en",
+      "missing_rate": 0.0
+    },
+    "genre_ids": {
+      "source": "REST_API",
+      "type": "list",
+      "example": [
+        27,
+        53,
+        12
+      ],
+      "missing_rate": 0.0
+    },
+    "overview": {
+      "source": "REST_API",
+      "type": "str",
+      "example": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of poli",
+      "missing_rate": 0.0
+    },
+    "selected_for_main_analysis": {
+      "source": "derived",
+      "type": "bool",
+      "example": false,
+      "missing_rate": 0.0
+    },
+    "tmdb_url": {
+      "source": "derived",
+      "type": "str",
+      "example": "https://www.themoviedb.org/movie/578",
+      "missing_rate": 0.0
+    },
+    "imdb_id": {
+      "source": "REST_API",
+      "type": "str",
+      "example": "tt0073195",
+      "missing_rate": 0.0
+    },
+    "runtime_minutes": {
+      "source": "REST_API",
+      "type": "int",
+      "example": 124,
+      "missing_rate": 0.0
+    },
+    "countries": {
+      "source": "REST_API",
+      "type": "list",
+      "example": [
+        "United States of America"
+      ],
+      "missing_rate": 0.0
+    },
+    "country_codes": {
+      "source": "REST_API",
+      "type": "list",
+      "example": [
+        "US"
+      ],
+      "missing_rate": 0.0
+    },
+    "genres": {
+      "source": "REST_API",
+      "type": "list",
+      "example": [
+        "Horror",
+        "Thriller",
+        "Adventure"
+      ],
+      "missing_rate": 0.0
+    },
+    "title_details": {
+      "source": "REST_API",
+      "type": "str",
+      "example": "Jaws",
+      "missing_rate": 0.0
+    },
+    "release_date_details": {
+      "source": "REST_API",
+      "type": "str",
+      "example": "1975-06-20",
+      "missing_rate": 0.0
+    },
+    "rating_details": {
+      "source": "REST_API",
+      "type": "float",
+      "example": 7.686,
+      "missing_rate": 0.0
+    },
+    "vote_count_details": {
+      "source": "REST_API",
+      "type": "int",
+      "example": 12017,
+      "missing_rate": 0.0
+    },
+    "overview_details": {
+      "source": "REST_API",
+      "type": "str",
+      "example": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of poli",
+      "missing_rate": 0.0
+    },
+    "rating_and_votes_check": {
+      "source": "derived",
+      "type": "str",
+      "example": "pass",
+      "missing_rate": 0.0
+    },
+    "directors": {
+      "source": "REST_API",
+      "type": "list",
+      "example": [
+        "Steven Spielberg"
+      ],
+      "missing_rate": 0.0
+    },
+    "director_ids": {
+      "source": "REST_API",
+      "type": "list",
+      "example": [
+        488
+      ],
+      "missing_rate": 0.0
+    },
+    "page_id": {
+      "source": "directory or derived",
+      "type": "str",
+      "example": "8336a0c0-8d69-47ef-a137-cb861dbf85dd",
+      "missing_rate": 0.0
+    },
+    "url": {
+      "source": "directory or derived",
+      "type": "str",
+      "example": "https://cinemetrics.uchicago.edu/movie/8336a0c0-8d69-47ef-a137-cb861dbf85dd",
+      "missing_rate": 0.0
+    },
+    "directory_director": {
+      "source": "directory or derived",
+      "type": "str",
+      "example": "Stewen Spielberg",
+      "missing_rate": 0.5770750988142292
+    },
+    "title_html": {
+      "source": "HTML",
+      "type": "str",
+      "example": "Jaws",
+      "missing_rate": 0.0
+    },
+    "year_html": {
+      "source": "HTML",
+      "type": "int",
+      "example": 1975,
+      "missing_rate": 0.0
+    },
+    "imdb_ids_html": {
+      "source": "HTML",
+      "type": "list",
+      "example": [
+        "tt0078748"
+      ],
+      "missing_rate": 0.6600790513833992
+    },
+    "shot_count": {
+      "source": "HTML",
+      "type": "int",
+      "example": 126,
+      "missing_rate": 0.0
+    },
+    "measured_duration": {
+      "source": "HTML",
+      "type": "str",
+      "example": "07:28.0",
+      "missing_rate": 0.0
+    },
+    "asl_seconds": {
+      "source": "HTML",
+      "type": "float",
+      "example": 3.6,
+      "missing_rate": 0.0
+    },
+    "msl_seconds": {
+      "source": "HTML",
+      "type": "float",
+      "example": 2.5,
+      "missing_rate": 0.0
+    },
+    "comment": {
+      "source": "HTML",
+      "type": "str",
+      "example": "First 30 Minutes",
+      "missing_rate": 0.5770750988142292
+    },
+    "identity_check": {
+      "source": "directory or derived",
+      "type": "str",
+      "example": "review",
+      "missing_rate": 0.0
+    },
+    "measurement_check": {
+      "source": "directory or derived",
+      "type": "str",
+      "example": "review boundaries",
+      "missing_rate": 0.0
+    },
+    "measured_seconds": {
+      "source": "directory or derived",
+      "type": "float",
+      "example": 448.0,
+      "missing_rate": 0.0
+    },
+    "duration_ratio": {
+      "source": "directory or derived",
+      "type": "float",
+      "example": 0.060215053763440864,
+      "missing_rate": 0.0
+    },
+    "accuracy_warning": {
+      "source": "directory or derived",
+      "type": "bool",
+      "example": false,
+      "missing_rate": 0.0
+    },
+    "edition_check": {
+      "source": "directory or derived",
+      "type": "str",
+      "example": "source edition not independently verified",
+      "missing_rate": 0.0
+    },
+    "numeric_check": {
+      "source": "directory or derived",
+      "type": "bool",
+      "example": true,
+      "missing_rate": 0.0
+    },
+    "review_reasons": {
+      "source": "directory or derived",
+      "type": "list",
+      "example": [
+        "identity review",
+        "outside duration band"
+      ],
+      "missing_rate": 0.0
+    },
+    "passes_initial_checks": {
+      "source": "directory or derived",
+      "type": "bool",
+      "example": false,
+      "missing_rate": 0.0
+    }
+  },
+  "field_dictionary_unit": "Parsed measurement records, before one-per-film selection",
+  "units": {
+    "asl_seconds": "seconds",
+    "msl_seconds": "seconds",
+    "measured_seconds": "seconds",
+    "runtime_minutes": "minutes"
+  },
+  "limits": [
+    "One vote-ranked candidate page per decade; not random",
+    "Edition and playback speed not independently verified",
+    "Below the written 2000-record floor; no scale compliance claim"
+  ],
+  "log_scope": "Active REST and HTML runs only; directory/policy lookups, probes and earlier trials remain separately logged"
+}
