@@ -1,7 +1,13 @@
-# Direct dependencies for the current notebooks and Jupyter interface.
-# Verified with Python 3.13; add analysis libraries when they are used.
+# Replay environment: CPython 3.13.4
+jupyterlab==4.5.6
+ipykernel==7.2.0
 requests==2.32.5
 beautifulsoup4==4.14.3
 pandas==2.3.3
-jupyterlab==4.5.6
-ipykernel==7.2.0
+numpy==2.3.4
+scipy==1.17.1
+scikit-learn==1.9.0
+nltk==3.10.4
+mlxtend==0.25.0
+matplotlib==3.10.7
+psutil==7.2.2
